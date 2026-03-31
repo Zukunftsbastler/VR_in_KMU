@@ -1,0 +1,408 @@
+[SPEAKER_00]: So, jetzt müsste das dritt gestartet sein und wir können mit unseren Diskussionen beginnen, die dann transkebirt werden häufig, er hoffentlich.
+[SPEAKER_00]: Und wir starten mit dem Punkt A-Beschreibung des Szenarios, Rahmenbedingungen, Aufgabenstimmungen und V-Jährunggebungen.
+[SPEAKER_00]: Haben wir Szenarios?
+[SPEAKER_00]: Was ist denn ja so genau?
+[SPEAKER_00]: Das ist der tatsächlich auch in der Screen-Shots auf jeden Fall, weil die müssen aus dem Tool stemmen und da bricht mich
+[SPEAKER_00]: das irgendwie falsch ist, was ich erzähle.
+[SPEAKER_00]: Aber grundsätzlich ist es so, dass das ein Runder-Miting-Tusch ist, wo links und rechts jeweils eine Person sitzt an den langen Seiten des Tusches und am Kopf endlich
+[SPEAKER_00]: Fisches ist auf der einen Seite der prinzipale und auf der anderen Seite sind die Bedarten, die dargestellt werden, insbesondere die beiden Angebote, die miteinander verglichen werden sollen.
+[SPEAKER_00]: Das sind jetzt die
+[SPEAKER_00]: da gestellten Rahmenbedingungen.
+[SPEAKER_00]: Dann gibt es natürlich noch das Thema mit den Runden und so weiter.
+[SPEAKER_00]: Haben wir das irgendwo noch aufgeschrieben oder?
+[SPEAKER_01]: Erst mal sitzen die drei Personen zusammen in einem Glaskasten, welches ein Mietenraum symbolisiert, wo um den Glaskasten herum noch unterschiedliche Entweihments dargestellt werden können.
+[SPEAKER_01]: Wir haben zwei unterschiedliche Fass oder Stellen einmal haben wir ein
+[SPEAKER_01]: Ein Bürooffice, ein Co-Office.
+[SPEAKER_00]: Co-Working Space.
+[SPEAKER_01]: Co-Working Space, genau, und ein machen wir einen Scenario aus dem Weltall in einer Galaxie, sodass der Raum in eine sehr vielen verschiedenen Bereichen eingesetzt werden kann.
+[SPEAKER_01]: Ja, wir haben daszenario mit dem Principle Agent dilemma und auf dem großen Bildschirm werden zum einen die Runden angezeigt, indem man sich befindet, weil wir diese Fragestellung oder die Diskussion des Principle Agent dilemma über mehrere Runden spielen, wenn wir einmal bei dem Hauptbildschirm die Runden angezeigt und
+[SPEAKER_01]: dann auch die Ergebnisse, wie die Diskussion ausgefallen ist in der Simulation oder in der Runde aktiv, die genau angebote der jeweiligen Agents.
+[SPEAKER_00]: Genau, das ist es nicht.
+[SPEAKER_00]: Aus spät theoretischer Sicht ist es ein wiederholtes Spiel.
+[SPEAKER_00]: Das haben wir aus dem ganz bestimmten Grund gemacht, denn das wiederholte Spiel möglich, dass man mich einmal das Optimum rausholt und den anderen über das Orang haben kann, sondern dass man sich so ein bisschen Gedanken darüber macht, wie glaub ich, man eigentlich ist.
+[SPEAKER_00]: Das haben wir sogar noch ein bisschen vertieft, in dem wir gesagt haben.
+[SPEAKER_00]: Die Anzahl der gespielten Runden ist nicht bekannt, sondern bis jedes Mal kommuniziert.
+[SPEAKER_00]: Ich weiß gar nicht, wie das zwischen technisch gelöst ist, ob wir immer fünf Runden haben oder ob die weiter in die Nähe an der Runden tatsächlich zufällig ist.
+[SPEAKER_01]: Das sind wir noch zufällig, ja.
+[SPEAKER_01]: Genau, wir haben eine Mindestanzahl von drei Runden und dann nimmt es quasi noch eine Form, die mir jetzt entfallen ist.
+[SPEAKER_01]: Die Wahrscheinlichkeit des Einträgens einer Folgerunde, ich glaube, exponentiell ab.
+[SPEAKER_00]: Okay, ich glaube, ich liebe viel Theoretisch und endlich viele haben.
+[SPEAKER_01]: Die Bescheinlichkeit ist schon auf der siebten Runde unter 1 Prozent, also sehr gering.
+[SPEAKER_00]: Sehr gering.
+[SPEAKER_00]: Genau, ich glaube, ich habe auch nicht tatsächlich in den Ferien gemacht.
+[SPEAKER_01]: Wie viele Experimenten haben wir insgesamt durch?
+[SPEAKER_01]: Experiment 5 groben, wobei wir eine Gruppe doppelt dran genommen haben, weil er sehr schnell vorbei war und niemand wusste was sie machen und die Zeit quasi zweimal abgelaufen ist und damit das Unternehmen beim Kopf gegangen ist in der Hypotheed.
+[SPEAKER_01]: in der hypothetischen Welt.
+[SPEAKER_01]: Und dadurch haben wir noch einen zweiten Workshop gemacht, wo sie dann mehr wussten, was sie machen sollten, die Verdus.
+[SPEAKER_00]: Ja, genau.
+[SPEAKER_00]: Das war das ganz zu Beginn unserer Land.
+[SPEAKER_01]: Nein, das war tatsächlich recht in der Mitte.
+[SPEAKER_01]: Das waren die dritte Gruppe.
+[SPEAKER_01]: Die dritte Gruppe?
+[SPEAKER_01]: Ja, die war dann konnte mit der Umgebung und mit der Aufgaben direkt nichts vor.
+[SPEAKER_01]: umsetzen und genau.
+[SPEAKER_00]: Ja, das ist ja, man muss vielleicht dazu sagen auch, dass wir in den Szenario, das wir da beschrieben haben, gezielt die Leute mit einer Fülle an Informationen überfordert haben.
+[SPEAKER_01]: Wir haben und auch explizit wollen, dass wir heute einen Überforderungen stattfinden, damit
+[SPEAKER_00]: Die Idee war, dass wir die Leute gezielt überfordern, weil man in der Realität auch häufig nicht die vollständige Informationen hat.
+[SPEAKER_00]: Und wenn man sie hat, die zu vielseitig ist, zu komplex, als dass man sie vollständig verarbeiten könnte.
+[SPEAKER_00]: Wir haben jetzt durch einen Zeit
+[SPEAKER_00]: Zwang der täglichen beschenkten Zeitraum, indem man die Entscheidung treffen muss, die unten wieder auf einmal 5 Minuten oder 3 Minuten.
+[SPEAKER_00]: Genau, man kann sich einer, die über ein Verschieben von Regeln ungefähr hinarbeiten auf theoretische, maximal innerhalb einer Situation.
+[SPEAKER_00]: Aber erstens ist da viel Wahrscheinlichkeit mit drin, d.h.
+[SPEAKER_00]: Es gibt viele Teilnehmer, die entscheiden sowieso unter Wahrscheinlichkeit und Zufall auf die folgenden Runden.
+[SPEAKER_00]: Gleichzeitig sagen wir, was aus einer konkreten Situation den für einen Vorteil steht.
+[SPEAKER_00]: aber wir sagen nicht, wie die Zusammenhänge zwischen den Stellbrüßen, die sie haben und der eigenen Vorteil aussehen, sondern das müssen die sich erschließen in den Memoramen dieser kurzen Zeit.
+[SPEAKER_00]: Und wenn man jetzt in so einer kurzen Zeit als Teilnehmer, die Regler einstellt und das unbüchlicherweise nicht sofort versteht, dass man überhaupt stellen kann und wie nun die Zusammenhänge sind, insbesondere bei eine Gründen, das ist ja so gewesen, dass wir da
+[SPEAKER_00]: nicht explizit kommuniziert haben, dass es eine Wahrscheinlichkeit ist auf dem Retail und den West in der nächsten Runde.
+[SPEAKER_00]: Das war nicht nicht so explizit formuliert, wenn ich richtig weiß, dann ist man leicht überfordert, indem ein Team ist, dass über die Maßen passieren, deswegen haben wir die mit einem kleinen Games ums Workshop dann nochmal erneut aufgenommen.
+[SPEAKER_01]: Ich war haben wir beide in die Außenswertung mit reingenommen oder ist nur eine der?
+[SPEAKER_01]: Nein, nur eine kommt in die Auswertung mit reingenommen.
+[SPEAKER_01]: Das ist der zweite Experiment.
+[SPEAKER_01]: Wenn wir genau beim ersten waren noch keine Nenenswerten,
+[SPEAKER_00]: Das war wahrscheinlich unser am besten geschultes Team.
+[SPEAKER_01]: Das kann ich nicht sagen, weil die zweite Runde war fast genau so schnell vorbei wie die erste.
+[SPEAKER_01]: Aber deswegen ist es einfach ein bisschen Diskussion passiert.
+[SPEAKER_01]: Wir haben glaube ich zu diesem Zeitpunkt noch nie genau beschrieben, was wir überhaupt mit dem agency, mit dem principle agent die Lama überhaupt gemacht haben oder was haben wir unten gesetzt.
+[SPEAKER_01]: Das gibt ja die theoretische, in theoretischen Ursprung dieses Lama's, das als einen, wie vorhin, genannten, ein Informations-
+[SPEAKER_01]: die haben ihre Erteilungen, die sie leiten und wo spielen diese drei Personen.
+[SPEAKER_01]: die spielen darum, wer einen Zuschlag für seine Abteilung bekommt.
+[SPEAKER_01]: Dabei gibt es in jeder Runde vier Stellungskrösen.
+[SPEAKER_01]: Das heißt, man kann das Geld vom oder einen Budget, einen hypothetisches Budget des Unternehmens auch vier Stellungskrösen verteilen, die jede Runde unterschiedlich sind.
+[SPEAKER_01]: Das können mal Maschinenstunden sein, das können Personalstunden sein.
+[SPEAKER_01]: Das sind verschiedenste
+[SPEAKER_01]: Variablen, die man einstellen kann und die haben eine bestimmte Auswirkung auf das Unternehmen.
+[SPEAKER_01]: Das heißt, auf dem direkten Umsatz, auf zukünftige Entwicklungen, auf dem ethischen Aspekt, wie das Unternehmen nach außen repräsentiert.
+[SPEAKER_01]: Darüber diskutieren diese drei Personen.
+[SPEAKER_01]: Was haben die Agents noch für einen Vorteil?
+[SPEAKER_01]: Die Agents haben noch ihren Privat nutzen, die sie verfolgen.
+[SPEAKER_01]: der einmal am Anfang der
+[SPEAKER_01]: und welche persönlichen Ziele in ihrer Persönlichkeit verankert sind, wie zum Beispiel, dass sie viel Freizeit haben wollen, oder viel Zeit mit der Familie haben wollen, oder viel Macht im Unternehmen haben wollen.
+[SPEAKER_01]: Und auf darauf werden sich die imput variablen Aussie nachdem, ob man jetzt mehr Personal investiert, dann bekommt man auch mehr Macht, weil man mehr Personal hat.
+[SPEAKER_01]: Da gab es dann auch gewisse Zusammenhänge.
+[SPEAKER_01]: Das heißt, die Agents hatten ihren privaten Nutzen, den sie maximieren wollten in der Runde.
+[SPEAKER_01]: Dafür haben sie Punkte bekommen, aber sie mussten es für den CEO, für den Prinzipall, über den Output, auch über die Auswirkung, die es fürs Unternehmen hat.
+[SPEAKER_01]: quasi argumentieren und dafür hatten Sie dann einen genau spezielles Budget zur Verfügung welches, je nachdem ob Sie es gut eingesetzt haben über den Output dann über die rundenen weg wachsen oder auch feiern konnte.
+[SPEAKER_00]: Wir haben dazu, ich habe die gerade nochmal recherchiert, eine Google
+[SPEAKER_00]: der Teil, in der wir das konkrete beschrieben haben, weil das wird nicht der letzte Stand sein, aber den werden wir hier in dem Verzeichnis auf jeden Fall nochmal zur Verfügung stellen, damit so ein bisschen klarer ist, wie das Experiment ausgesehen hat.
+[SPEAKER_00]: Und da sind vielleicht noch ein paar mehr Details drin, weil sich da was widerspricht, dann ist auf jeden Fall das, was du gerade gesagt hast, der die Wahrheit und nicht das, was in diesem etwas älteren Teil drinsteht.
+[SPEAKER_00]: Du hast den aktuellen Stand für Ex-Post wiedergeliehen.
+[SPEAKER_00]: Genau, es andere hatten wir vorher irgendwann mal verfasst.
+[SPEAKER_00]: Ja.
+[SPEAKER_00]: Das war ja auch ein Work in Progress relativ lange Zeit.
+[SPEAKER_00]: Genau, ja, das waren die ganzen Parameter, die ganzen Indikatoren genau aus beschrieben haben und die Zusammenhänge uns überlegt haben, die Visualisierung uns überlegt haben, das hast du ziemlich lange dran.
+[SPEAKER_01]: Ja, genau, da auch die
+[SPEAKER_01]: Die technische Umsetzung, wie diese Zusammenhänge zusammen hängen.
+[SPEAKER_01]: Da haben wir, glaube ich, drei oder vier verschiedene Implimationsbegedurch mit Graftheorie und anderen Geschichten, die es dann am Ende nicht geworden sind und genau.
+[SPEAKER_01]: Der Finale ist wesentlich mehr.
+[SPEAKER_01]: Random, aber random ist in dem Fall einfach nur für die Überforderung.
+[SPEAKER_00]: Umgesetzt, hast du das Ganze in Unity, weil das genau dein Hintergrund ist, mit dem du Virtual Reality auch das hast du da gelernt, weil du da umgesetzt, aber es war auch naheliegend, das in Unity zu machen.
+[SPEAKER_01]: Es ist die einfachste Plattform einfach, um Multiplayer, VR-Szenario aufzuziehen.
+[SPEAKER_01]: Es gibt wenig andere Plattformen, wo man so
+[SPEAKER_01]: Direkt schnell einfach auch ziele erreichen kann.
+[SPEAKER_00]: Wie ich uns jetzt gerade mal so ein bisschen zuhör, wenn wir könnten guten Podcasts zusammen machen.
+[SPEAKER_00]: Dinge für zum ersten Punkt auffallen.
+[SPEAKER_00]: Aber ich glaube, das ist schon mal ganz gut.
+[SPEAKER_00]: Wir hoffen jetzt so ein bisschen, dass das hinter technisch auch so funktioniert wie für uns das Vorstell.
+[SPEAKER_00]: Aber möglicherweise funktioniert das gar nicht.
+[SPEAKER_00]: Wir werden mal sehen, wie sauber wir noch eigentlich hätten reden müssen, damit das auch wirklich erkannt wird.
+[SPEAKER_00]: Aber ich glaube, wir sind auf dem guten Weg.
+[SPEAKER_00]: Wir nehmen jetzt den zweiten Punkt Teil, die wir noch zur Kultur dokumentieren, Anzahl, Rollendemokratische Merkmale, VRV-Erfahrung.
+[SPEAKER_00]: Wenn man genau
+[SPEAKER_00]: Hin guckt, der Asturgenau, der Ablauf und Methodik des Workshops, werder der dritte Punkt, wir bleiben beim zweiten Nest an schönen Abgenenz, sonst hätte ich gesagt, wir gucken uns genau die U-Taut und so geschlichen nochmal an, aber das kommt ja erst noch.
+[SPEAKER_00]: Also Teilnehmerstruktur.
+[SPEAKER_00]: Wir haben, ich glaube, Großteilung.
+[SPEAKER_00]: Wir haben hier aus den Studierenden.
+[SPEAKER_01]: Wir haben eigentlich ausschließlich Studierenden rekrutiert und mit Ausnahmen von einer Person, die einmal
+[SPEAKER_01]: Ein Gesprung ist, weil wir keinen tolles, dreiköpfiges Team zusammengestellt haben.
+[SPEAKER_01]: Aber dessen Auswirkung wurde jetzt, also die persönliche Auswirkung von der einen Person wurde nicht explizit mit aufgenommen, aber ihr Einfluss natürlich schon.
+[SPEAKER_01]: Also wir haben der Person auch als Plizidee Rolle gegeben,
+[SPEAKER_01]: Mit der wenigsten Überforderung, wie die Rolle des Prinzipals übernehmen dürfen von daher ist eher einfluss, eigentlich mal die Teilnehmerstruktur jetzt.
+[SPEAKER_01]: Würde ich zumindest weniger wichtig als unsere Hauptteilenehmer, die dementsprechend alle Studierende waren?
+[SPEAKER_00]: Ja, das ist ja insgesamt eine explorative Studie gewesen.
+[SPEAKER_00]: Und da ist jetzt ein abweichende, einer abwächenden Person aus der Teilnehmerstruktur da zu verzeichnen.
+[SPEAKER_00]: Konkret war ich das.
+[SPEAKER_00]: Ich habe den als Professor, der das Experiment mit betreut hat.
+[SPEAKER_00]: Die Rolle, das sie übernommen, im Nachhinein muss ich sagen, habe ich wahrscheinlich relativ viel, der Unterhaltung da auf mich vereint, ich habe relativ viel selbst gesprochen.
+[SPEAKER_01]: Es wurde einfach mehr geredet und bleibt schon an der Bonne unten, aber genau das.
+[SPEAKER_01]: Jetzt haben wir mit der Teilnehmerstruktur wenig zu tun, die tatsächlich eine Ausbildung, die du hattest, findet sich in den Cloud Messdaten durch deinen
+[SPEAKER_01]: und das mit einigen wir nicht.
+[SPEAKER_01]: Einzige andere, was die Teilnehmer Struktur in unserem Punkt mit der VRV-Erfahrung heim wirkt wird das Duarte von der Fahrung mit VR und die anderen in der Regel nicht außer die einzigen Ausheimdiege hatten wir vor zwei Jahren meine Brille aufgehakt.
+[SPEAKER_01]: bei einem Dylan, aber keiner hat eine eigene Brille, keiner hat mehr durch Stunden Erfahrung.
+[SPEAKER_00]: Genau.
+[SPEAKER_00]: Ansonsten zur Anzahl, das waren immer genau drei Personen, in einem Fall, wie gesagt, auch ich, als den, die das Experiment mit Verantwortung mit ableitet.
+[SPEAKER_00]: Die Rollen waren auch immer die gleichen.
+[SPEAKER_00]: Es waren immer zwei Agenten und einen Prinzipar, die sich gegenüber gesessen haben.
+[SPEAKER_00]: Visuell haben die sich nicht unterschieben.
+[SPEAKER_00]: Das waren alles, worauf erinnliche
+[SPEAKER_00]: Aber Tata, die sie gesteuert haben, hat die auch tatsächlich so wenig unterscheiden können, dass wir so ein bisschen gucken mussten, die nach hinein zur Auswertung, wer denn jetzt eigentlich wäre war.
+[SPEAKER_00]: Und die demografischen Merkmaler haben wir schon gesagt, das sind alles Studierende und es war alles Studierende der Betriebswirtschaft, oder?
+[SPEAKER_01]: Es ist das Betriebswirtschaft.
+[SPEAKER_00]: Ich meine, dass man alles Studierende der Betriebswirtschaft aus dem ersten Fachsemester, also im Bachelor, die haben wir hier kutiert aus einer Veranstaltung, die heißt digitale Wirtschaft.
+[SPEAKER_01]: Anstagsleute auch aus der Betriebswirtschaft?
+[SPEAKER_00]: Ja, und zwar ist das eine Vorlesung.
+[SPEAKER_00]: Die wird parallel, die in jeder Woche zwei Mal statt und zwar auch halt identisch.
+[SPEAKER_00]: Und da teilt sich das gesamte Erstefachsemester Betriebswirtschaft auf in den Dienstags- und den Donnerstag-Stronien.
+[SPEAKER_00]: Das ist ja auch so und genau so an alles Teilnehmer der Veranstaltung, digitale Wirtschaft, die ist eine Kämpferanstaltung, eine zentrale Veranstaltung in der Betriebswirtschaft.
+[SPEAKER_00]: Das ist immer das da genau.
+[SPEAKER_00]: Demografische merken alle, die man sprechen zum allergrößten Teil zu Beginn des Studiums mit entweder unbedürbar nach dem Abitur, einem Studium gestartet oder leichte Vorerfahrung in nicht verantwortungsvollen Rollen.
+[SPEAKER_00]: Teilweise noch eine Berufsausbildung, aber keine relevante Vorerfahrung, insbesondere dahingehend, dass die nicht in der Arbeit in irgendeiner Vorerfahrung sammeln konnten.
+[SPEAKER_00]: Damit haben wir die Teilnehmerstruktur.
+[SPEAKER_01]: zum nächsten Punkt mit dem Ablauf und mit Toilig des Workshops.
+[SPEAKER_00]: Ja, wir können vielleicht mit der wir fahren ganz vorne an.
+[SPEAKER_00]: Das waren die Motivungen, die wir haben, die während der Vorlesung angesprochen und gebeten, ob sie sich vorstellen könnten, das einmal zu machen.
+[SPEAKER_00]: Wir haben keinerlei monetäre Reconfensationen,
+[SPEAKER_00]: Angeboten, sondern wir haben die Leute über eine Interesse an der oder eine neue ihr an dieser Technologie mitnehmen können.
+[SPEAKER_00]: Es waren ässliche Leute dabei, die auch gesagt haben, wie wir gefragt haben, die gesagt haben, sie wollen das nicht.
+[SPEAKER_00]: Das hat sich auch ganz explizit nicht, natürlich nicht auf deren Noter ausgewürkt, weil das könnte man unterstellen, dass wir zusammen haben bei der Teilnahme
+[SPEAKER_00]: und der eben einen Notendruck, dadurch, was ich ja bewerten bin, habe ich aber ganz explizit ausgeschlossen und dadurch, dass viele Leute, die wir gefragt haben, auch abgelehnt haben, einen solchen Workshop teilzunehmen, zum allergrößten Teil aus Zeitgründen konnten wir sehen, dass das offensichtlich keinen Einfluss darauf hatte, ob jemand teilgenommen hatte oder nicht.
+[SPEAKER_00]: Die Aussagen der Teilnehmer waren auch fast durch, weil sie die Technologie interessant finden.
+[SPEAKER_00]: Das können wir wiederum eine gewisse Konstellation dargestellt haben, die sich auf den U-Tout nach ihnen ausgewirkt haben, weil wir natürlich eine gewisse Selbstsektion hatten.
+[SPEAKER_00]: Das kann gut sein, das liegt sicherlich auch mit daran, dass wir Gruppen aus Personen befragt haben, die sich zum großen Teil gekannt haben.
+[SPEAKER_00]: Das heißt, dass man dann Leute, dienehmern dann mal gesessen haben und eine PEO Group, da
+[SPEAKER_00]: haben, die dann gemeinsam beschlossen hat, teilzunehmen.
+[SPEAKER_00]: Und das ist wahrscheinlich, dass darüber dann wieder Leute teilgenommen haben, die das normalerweise unabhängig von den Appietruf vielleicht nicht getan hätten.
+[SPEAKER_00]: Das also als allererster Ausgangspunkt der dieser Warshops, wir sind dann mit den Leuten in einem anderen Raum gegangen.
+[SPEAKER_00]: Das war ein separater Hörsaal.
+[SPEAKER_00]: oder aber ein digitales Büro, das bezielt dazu benutzt werden sollte, um mit den Probanden ja um den einen Umfeld zu geben, in denen sie nicht gestört werden.
+[SPEAKER_00]: Wir haben wieder alle zunächst in einem großen Raum zusammengeführt und uns mit Ihnen darüber unterhalten, was zu erwarten ist und haben als allererstes verschiedene Tests durchgeführt.
+[SPEAKER_00]: Eines davon war nicht der U-Taut, sondern wie natte sich das noch, ein verkürzter U-Taut,
+[SPEAKER_01]: Wir haben einen RTI gemacht, das ist Affinity for Technic Generation oder Intellections.
+[SPEAKER_01]: Das ist ein kurzer RTI, das waren nur mit drei Fragen, also einmal ich beschäftige, ich probiere oder ich teste gerne neue Technikhausen.
+[SPEAKER_01]: Darauf waren diese drei Fragen, eine Beschäftige probiere Teste, gefolgt von einem kurzen FMS, das war ein
+[SPEAKER_01]: den Einfluss von Motion-Signals in VR rausrechnen konnte.
+[SPEAKER_01]: Da haben wir einmal einen vorher gemacht, wie gut geht es mir jetzt zwischen 0 und 20 und einen direkt nach dem Test und konnte man sehen, was für eine Auswirkung hatte, ja, eventuell Motion-Signals.
+[SPEAKER_01]: Das war ein zweiter Teil und der dritte Teil war ein kurzer UEQ Test für die UI oder die Interaktion für
+[SPEAKER_01]: Ja, wie gut, effiziell oder seltschnerend ist.
+[SPEAKER_01]: Ausgabe, das eigentlich meine Wesen, die tägliche Schaufgabe, die einer Person in dem Workshop gestellt wurde, in VR, wie gut war die, die sollisiert und umgesetzt.
+[SPEAKER_00]: Hintergrund war einfach bei jedem dieser Tests eine Normierung und eine Herausforderung der relevanten Parameter, die für uns in der Studie interessant sind.
+[SPEAKER_00]: Wir wollten ja genau wissen, wie gut funktioniert denn jetzt eigentlich Virtual Reality in so einer Entscheidungssituation?
+[SPEAKER_00]: gegenüber solchen Situationen, wie man sie vielleicht in einem Telefon oder Video-Meeting umsetzen kann oder eben im ganz anderen extrem wäre das ein persönliches Meeting, das wir ja auch möglich gewesen sind.
+[SPEAKER_00]: Wo lässt sich da eine Virtual Reality-Situation im konkreten Fall eine Verhandlungssituation einordnen?
+[SPEAKER_00]: Auf dieser auf dieser Contino zwischen Remote, also gar nicht beieinander und in Person direkt beien
+[SPEAKER_00]: da ist ja für Virtual Reality irgendwo dazwischen anzusiedeln.
+[SPEAKER_00]: Und um möglichst viel darüber zu erfahren, was in einem ganz konkret diese Situation ausmacht, haben wir eben diese Tests vorab und im Nachhinein gemacht, um zum Beispiel das Risiko, das jemanden schlecht wird und deswegen alles ganz doof an oder das nicht vernünftig umsetzen konnte, herauszufiltern.
+[SPEAKER_01]: Genau, um nochmal zurück zu ruhen, auch den direkten Ablauf nochmal zurückzukommen.
+[SPEAKER_01]: Das Red 1 war akquirieren, Schritt 2 in den Raum, in einem der entsprechenden Räume, in dem Schritt 3 war dann einmal einen Film, einfach schleppen zur Erklärung ausfüllen über die Erpassung der Daten, plus den ersten Teil über den RTI von den FMS, den Teil 1, dann wurde erklärt,
+[SPEAKER_01]: von dem Principle Asian dilemma plus den Aufgaben der jeweiligen Rollen, die Rollen wurden zu dem Zeitpunkt schon zufällig zu bewiesen, da die Aufgaben zetteln oder die Zettel mit der Einverständniskeitserklehrung auch drei Plätze ausgelegt wurde und jede Person durfte sich dann aussuchen, wo sie sich hinsetzt und da war dann, wir wollen es eigentlich reinteiden an dem Platz, das war immer
+[SPEAKER_01]: Die Rollenwunden erklärt und dann gab es eine kurze Einführung in die AD1 zu
+[SPEAKER_01]: Ich bin zusammen mit einem Testpersonen dann in einem separaten Raum gegangen.
+[SPEAKER_01]: Ich habe eben die Technik von der VR-Brille erklärt, in die VR angeleitet und dann durfte sich die Person direkt schon einloggen in Anführungsstrichen dem Workshop beitreten, wo dann du till schon auf jeden gewartet hast und dann konnten die schon miteinander schnacken während der Zeit, wo die anderen beiden Personen oder die nächsten Personen in die VR-Brille, genau, angeleitet wurden, bis dann alle drei Folgen
+[SPEAKER_01]: scenarios.
+[SPEAKER_01]: Da gab es wie gesagt die drei VR-Kleins, die dabei waren, aber auch ein Master-Klein, der das ganz in quasi als Godmode geleitet hat, die Rollen verteilt hat, das scenario gestartet hat, oder auch Sachen wie es hätten konnte für den Fall, dass etwas schief gelaufen ist.
+[SPEAKER_01]: durchgeführt, einmal bzw. einmal oder auch zweimal durchgeführt, der Test und dann kam die zweite Runde von den Ausbilden von Daten, also der FMS, noch mal das zweite Mal plus dem UIKU-S, der dann genau die beiden Fallgewögen wurden ergänzt und zum Abfluss kam ein kurzen Tabilloten-Match.
+[SPEAKER_01]: Immer den gleich wieder einmal Verlauf von Fragen, wo wir dann die Hauptauswertung
+[SPEAKER_00]: Ich überlege gerade nochmal welche vier Fragen das waren.
+[SPEAKER_01]: Das war der Einstieg des Bauchgefühl, was mich einmal kurz nachgucken.
+[SPEAKER_00]: Ja wir recherchieren noch einmal.
+[SPEAKER_00]: Ich gehe auch davon aus, dass genau diese Detail zusätzlich irgendwo genau überlegen wird.
+[SPEAKER_01]: Die Methodik der Dokumentation und Auswertung verliebt nach dem Konzept von Meiring.
+[SPEAKER_01]: Die vier Hauptkandidorien aus denen die Fragen bestanden waren einmal der Einstieg, das Bauchgefühl, gefolgt von dem Vergleich zum Videokoll.
+[SPEAKER_01]: Im dritten Punkt der Usabilität der Arbeit, wie gut war das.
+[SPEAKER_01]: Werdvoll ist diese Technik in Bezug auf Arbeit, beziehungsweise bei unseren Studierenden, wie gut ist diese Remote-Duchmentation-Meeting-Plattformen für zum Beispiel vor Lesunggruppenarbeiten oder Ähnliches.
+[SPEAKER_01]: Und im letzten Schritt gab es den Transfält für Praxis, also welches in Narian.
+[SPEAKER_00]: Es war eine Grobe, ein halb offenes Interview, wenn man so will.
+[SPEAKER_00]: Wir haben vier Themenbereiche abgedeckt.
+[SPEAKER_00]: In einer dieser vier Themenbereiche haben wir relativ konkrete Fragen komplex betrachtet, aber nicht explizit aus formulierte Fragen.
+[SPEAKER_00]: Genau.
+[SPEAKER_00]: Wir haben die Mesterarten der verschiedenen Studien, die wir gemacht haben, alle dokumentiert, die wir im Auchtern werden.
+[SPEAKER_00]: Entsprechende Dokumentarztungs- oder Niederlegt werden.
+[SPEAKER_01]: Das kommt ja noch in dem Umgang, wo kaum Mester haben.
+[SPEAKER_01]: Noch sind wir ja im Ablauf.
+[SPEAKER_01]: Aber ich glaube, das ist alles zum Ablauf.
+[SPEAKER_01]: Dann haben die Teilnehmer doch, wo sie bedanke und verabschiedet.
+[SPEAKER_01]: Es lag auch ein paar Lecker rein aus, weil es zur Weihnachtszeit war.
+[SPEAKER_00]: richtig genau also ich weiß nicht ob das ausreichend darüber kam aber wir haben also die Hauptdiskussion immer in einem Raum geführt die eigentlichen Experimente in jeweils digitierten Einzelräumen wo jeder losgelöst von den anderen waren wir waren im selben weder und dann haben wir jeden
+[SPEAKER_00]: geführt, wo wir alles besprochen haben, die ganzen Erhebungen gemacht haben.
+[SPEAKER_00]: Und der Hintergrund war einfach, dass wir vermeiden wollten, dass die Leute über ein direktes Geräusch, also im direkte Sprachübertragung durch die Luft, damit eine Einlose bei der Immersion hatten.
+[SPEAKER_00]: Wir haben nämlich jetzt ja bis auch bei einem Team, wenn ich mich richtig erinnere, alle immer tatsächlich Diskussionen geführt, die tatsächlich in der virtualen Realität stattgefunden haben.
+[SPEAKER_00]: wenn das im selben Rausraum stattgefunden hätte, dann hätten die Leute sich gegenseitig hören können und hätten gewusst, dass sie noch in der Realität sind.
+[SPEAKER_00]: Aus der eigenen Erfahrung haben wir beschlossen, dass das kein guter Ansatz ist, beziehungsweise die immer so ein bisschen stören kann.
+[SPEAKER_01]: Es war ein unterm Stichwassimulierte Remote Zusammenarbeit.
+[SPEAKER_01]: Es ist keine Simulierte Remote Zusammenarbeit, wenn alle zusammen einen Einraum setzen.
+[SPEAKER_00]: Ja, genau.
+[SPEAKER_00]: Ja, das war noch ein wichtiger Grund, ich glaube ansonsten stehen wir ganz gut da.
+[SPEAKER_00]: Das heißt, der nächste Punkt wäre dann die qualitative Beobachtung und Nutzerbekmeldung.
+[SPEAKER_00]: Die haben wir aber eben eben eben auch schon beschrieben.
+[SPEAKER_01]: Genau.
+[SPEAKER_01]: Die qualitative Beobachtung oder Nutzerbekmeldung war ja eigentlich dieses Kunstinterview, welches wir geführt haben.
+[SPEAKER_00]: Ja.
+[SPEAKER_00]: So, dann haben wir die U-Town-Geschichten auch ausgewertet.
+[SPEAKER_00]: Genau, das ist das.
+[SPEAKER_00]: Und CEPD-Variables haben wir hier als einen separaten Punkt aufgeführt.
+[SPEAKER_00]: Ich meine, da ging es um die Überlegungen, wie ist so das Thema Gießen
+[SPEAKER_00]: Wir hatten überlegt, ob wir als ein Element in der Auswertung aufführen, weil die Leute, wenn sie z.B. zeigen oder bestätigen, damit natürlich auch einen Kanal nutzen, den man z.B. über das Telefon nicht nutzen kann.
+[SPEAKER_01]: Ja, dann guckt das so, dass ich noch mal zurück und auf den Punkt qualitativere Beobachtung und Nutzerrückmeldung, die Nutzerrückmeldung.
+[SPEAKER_01]: dazu hatten wir ein Beobachtungsbogen für teilnehmen, eine Beziehungseite für Leute, die die Personen oder die Testteilenehmer in VR beobachten und quasi ihre Interaktion live beobachten sollten.
+[SPEAKER_01]: Das hatte nicht direkt im Ersterlinie hingegauen, da wir nicht genügend teilnehmen, also teilnehmen haben wir, aber wir hatten nicht einen Helfer, damit wir drei Teilnehmer
+[SPEAKER_01]: Der wurde von mir im Nachhinein noch mal westmöglich ausgewertet.
+[SPEAKER_01]: Allerdings nur anhand der Aufnahme, die wir haben laufen lassen, während der vom Gottklein, also vom Masterklein, haben wir eine Aufnahme mitlaufen lassen, wie sich die Personen in die Abe wegen, auch die Audio-Spuren der lieber den Person wurde aufgenommen.
+[SPEAKER_01]: Das heißt, man konnte das ganze Meeting noch mal erliegen.
+[SPEAKER_01]: Also offline.
+[SPEAKER_01]: Als Recording konnte man das nochmal neu erleben.
+[SPEAKER_01]: Und diese Auswertung ist dann quasi in die Qualitative Beobachtung eingefchlossen.
+[SPEAKER_01]: Man konnte jetzt natürlich nicht mehr direkt sagen, so...
+[SPEAKER_01]: Man musste sich daraus auch die Tive aussagen, verlassen, wie der Rechtekontroller funktioniert gerade nicht, wo man richtig lauter leise und solche Sachen.
+[SPEAKER_01]: Da konnte man jetzt nicht wirklich den Struggle, den eine Person vielleicht mit der Technik zu einem bestimmten Zeitpunkt hatte.
+[SPEAKER_01]: und man da auch schon viele Daten entnehmen wie z.B. das eine Person und einmal das Herzhead abgenommen hat, über ihren Wettdiskussion, scheinbar aushandelig geguckt hat und dann das Herzhead wieder aufgesetzt hat.
+[SPEAKER_01]: Da kann es sich dazu in die Hände so halt laufen sehen, weil sie die
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Genau, dieser Beobachtungsteil, ja, dazu kommen wir dann noch mal einen Punkt der CIPD-Variables zurückkommen.
+[SPEAKER_01]: Gehen wir jetzt mal zu den Unkrautmester noch mal?
+[SPEAKER_00]: Ich weiß nicht, ob wir das machen müssen, weil die sind ja separat von dir schon ausgewertet worden.
+[SPEAKER_01]: Die Messdaten selbst wurden, meine ich, also wenn wir als gut Hauptmester nur den RTI nehmen, dann wurde der nur in sofern ausgewertet, dass ich halt
+[SPEAKER_01]: aber ein Graf erstellt habe, wie war die Verteidigung in dem HTE von wie ein Technikaffin war in die Person.
+[SPEAKER_01]: Ja, das ist passiert aber es gab, gibt noch keine ausformulierte Auswertung wo wo
+[SPEAKER_01]: da ist dran drinstehen.
+[SPEAKER_00]: Insbesondere auch keine Interpretation, was das einzelne, wie sie sich die einzelne Konstellation ausgewirkt hat.
+[SPEAKER_00]: Wenn ich mich da richtig erinnere, dann ist es auch so, dass die U-Taut-Daten nicht mit den einzelnen Teilnehmern in Verbindung gebracht werden, sondern wie nur eine agregierte Betrachtung gemacht haben, aus Datenschutzgründen und ausgründen der versäunten Dokumentation.
+[SPEAKER_01]: Daten auf dem Prinzip an und auf den Agent, also auch auf die genau Personen zurückfolgen, die die Teilgenommen hat.
+[SPEAKER_01]: Allerdings können wir nicht deren Aussagen auf dem Kurzinterview darauf merken, weil ich nicht mehr weiß, welche Personen, jetzt welche Spülmer hatte, bzw. welche Aussagen getroffen haben während des Kurzinterviews.
+[SPEAKER_01]: Die Notizen aus dem Kurzinterview haben nicht berücksichtigt, von welcher Person oder von welcher Rolle
+[SPEAKER_01]: der logische link, aber der logische link zwischen Rolle und ATI bzw. UEQS der, der wäre da.
+[SPEAKER_00]: Der ist da.
+[SPEAKER_00]: Okay und wir haben die, wenn ich eigentlich jetzt da auch die von einer Gruppe
+[SPEAKER_01]: die Gruppe zu ihrer Performance, die haben wir explizit ausgearbeitet.
+[SPEAKER_00]: Genau, also für die Gruppen, da ist der mittlerer U-Taut, der mutlerer ATI durchausbekannt und das Darken berückschließen.
+[SPEAKER_00]: Gibt es denn Gruppen, die insgesamt steutlich mit der Terminzen aufweisen?
+[SPEAKER_01]: Ja, ja, ja, ja, ja, ja, ja.
+[SPEAKER_01]: Man konnte
+[SPEAKER_01]: über den Mittelwert der Auswirkung im RTI und der Standardabweichung, also wie war die Einzel- oder wie hoch war die Abweichung einzelner Person von diesem Mittelwert?
+[SPEAKER_01]: Wie konnte man berechnen?
+[SPEAKER_01]: Die war jetzt im Bereich vom RTI, immer hat sie darauf
+[SPEAKER_01]: die Standardabweichung sehr groß war.
+[SPEAKER_01]: Im UICUS haben wir ein sehr bunches Bild von zum Teil sehr homogen Gruppen und Standardabweichung.
+[SPEAKER_01]: angenehmen, die die Gestaltung und die technische Umsetzung im Fernsehen sehr ruhig verständnis, die haben dann aber auch außergetätigt, wie ich war das schon gewohnt, weil online spielen war so ähnlich wie online zusammen spielen, irgendwelchen Runden oder auch Disco zusammen sitzen.
+[SPEAKER_01]: Für mich hat sich ähnlich angefühlen zu Personen, die gesagt haben, ja kann ich nichts mit anfangen und dementsprechend
+[SPEAKER_00]: Genau, technische Lösungen bei kollaborativen Spielen, Team Speak und Counter Strike, was sich ähnlich anfühlt wie ein Zusammenspiel im System.
+[SPEAKER_00]: Das kann man tatsächlich auch so festhalten.
+[SPEAKER_00]: Ja, dann würde ich sagen, wir haben die Uter.
+[SPEAKER_00]: Eigentlich als einer Person ist tatsächlich
+[SPEAKER_00]: Wir haben ja da eigentlich eine Situation geschaffen, wo man sitzend an einem Ort ohne sich zu bewegen, relativ gut, ohne dass man sich bewegen muss.
+[SPEAKER_01]: Moschensignis.
+[SPEAKER_00]: Moschensignis, genau, mit Moschensignis nicht so ganz erheblich rechnen muss.
+[SPEAKER_00]: Aber das hat bei einer Person nicht ausgereicht, die hat dann die Ziele zusammengebissen, muss man wirklich sagen.
+[SPEAKER_00]: Es fand das sehr spannend, aber auch sehr unangenehm.
+[SPEAKER_01]: Ja, die hat dann erst am Ende gesagt, dass ihr ganz schlecht gewonnen hätten will.
+[SPEAKER_01]: Das war euer Gewusst, dann hätten wir vielleicht schon
+[SPEAKER_00]: Wir hatten auch dazu sagen, ganz explizit dazu gesagt, dass ein Workshop durchaus abgebrochen werden kann, dass es ein legitimer Grund ist, abzubrechen, wenn das Thema Motion-Signis in
+[SPEAKER_00]: in die Knie gefährt, denn das war natürlich wichtig, dass wir hier nicht irgendwelche Leute zwingen etwas zu machen, was sie körperlich was ihnen gehört, weil ich nicht entspricht und deswegen war das aber eine Person, die wusste, der war das wohl bewusst, dass sie das hätte machen dürfen, aber die wollte das aus, ich nehme an, hinterlasse und Disziplin eben doch durchziehen.
+[SPEAKER_01]: Ja, aber weil ich sehe gerade, dass es auch eine zweite Person gibt, der immer
+[SPEAKER_00]: Ja, ich würde sagen, die Untaugen bis dato, die haben wir abgeschlossen.
+[SPEAKER_00]: C-E-P-D, hast du da einen konkreter etwas, wenn du hast dich schon beschrieben, wie du dir erhoben hast?
+[SPEAKER_01]: Ja, genau.
+[SPEAKER_01]: Also ganz, ganz grobe Punkte.
+[SPEAKER_00]: wichtig zu wissen ist, wir haben auch die Sauber dokumentiert und die Webgau in den Märzrechnen verzeichnet zu finden sein, so dass man sie auch nachher in einer Auswertung auswerten kann im Detail.
+[SPEAKER_00]: Aber wir haben sowieso eine Studie, eine exploreative Studie, mit einer Teilnehmerzahl, die eine Quantitative Auswertung nicht nahe liegt.
+[SPEAKER_01]: Ja, also Fragen bei der bei CLP die Varianten waren auf jeden Fall unter anderem
+[SPEAKER_01]: gab es technische Führung, gab es technische Probleme mit dem Headset, mit den Kontrollern, die wurden einzeln beachtet und das war quasi nicht.
+[SPEAKER_01]: Da wurde als Strichlist ausgewertet, wie häufig sind technische Probleme aufgetreten.
+[SPEAKER_01]: Es wurden explizite Zitate erhoben von besonderen Aussagen über das Szenario oder Aussagen, die im Moment
+[SPEAKER_01]: funktioniert, wenn ich an D-Bregler regel oder genau in diesem Bereich, was auch ausgefertet worden waren, gestikulationen.
+[SPEAKER_01]: Das heißt, haben sich die Leute zueinander hingedrieben, wenn man angesprochen wurde, haben Leute irgendwo versucht, aufzuzeigen, solche Dieter wurden auch ausgefertet.
+[SPEAKER_01]: Und das kommt man auch sehr gut nachvollziehen, wenn sich jetzt jemand es gar von der Aussage von wegen, hey, guck mich an, bin ich mit der Rede.
+[SPEAKER_01]: Das war ganz winzig.
+[SPEAKER_01]: Und dann haben sich
+[SPEAKER_01]: sondern auch zueinander hingedreht.
+[SPEAKER_01]: Aber all diese Fragen wurden in Form einer Strichliste und wie häufig ist es aufgetreten, ausgewertet.
+[SPEAKER_00]: Genau.
+[SPEAKER_00]: Mir geht gerade noch was ein zu einem Punkt davor und ich habe es jetzt schon wieder vergessen, weil ich die Zugehörgörte habe von der Schlauen.
+[SPEAKER_00]: Das Schöne ist ja, dass wir dadurch, wie wir das jetzt aufnehmen durch ausschrinken können.
+[SPEAKER_00]: Meine Hoffnung ist, dass wir das später an die KI-Rage geben und die das in den entsprechenden Kategorien eintratieren kann.
+[SPEAKER_00]: Ja, das war der Fall.
+[SPEAKER_01]: Ich glaube, da existiert jetzt noch nicht direkt etwas.
+[SPEAKER_00]: Doch, wir haben natürlich ein sehr gut dokumentiertes Modell gewählt.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja, ja.
+[SPEAKER_00]: Also, ja,
+[SPEAKER_00]: z.B. eine Konstellation gewählt, ganz gezielt, die die Leute, die eigentlich den Informationsforsprung gehabt hätten, in eine Situation bringt, wo sie unter Zeitung einen erheblichen Informationsaufbereitungsaufwand vor sich haben, mit dem sie konfrontiert sind.
+[SPEAKER_00]: Das heißt, diese Informationsforsprung, wir mussten sich hart erarbeiten und sie mussten auch überhaupt erstmal verstehen, dass sie diese Arbeit leisten müssen.
+[SPEAKER_00]: und sich dann durch die UI mit diesen Informationen, die Sie ja mehr haben, den verstehen, wie man dabei rangeht.
+[SPEAKER_00]: Und Sie mussten auch verstehen, dass sie nicht jeder dieselben Informationen hat.
+[SPEAKER_00]: Denn das war nicht all klar.
+[SPEAKER_00]: Wir haben das jetzt nicht so aufgebaut, dass die Probanden, die als Agenten eingesetzt waren, nicht wussten, dass sie den Prinzipalgien über einen Informationsforsprung haben.
+[SPEAKER_00]: Den konnten sie natürlich dann auch nicht im gleichen Maße einsetzen.
+[SPEAKER_00]: Das ist möglicherweise etwas, was wir in der Zukunft noch anders machen sollten.
+[SPEAKER_00]: Aber das war definitiv was, was ich beobachten ließ, dass viele das nicht verstanden haben, dass es unterschiedliche Informationen haben.
+[SPEAKER_00]: Es gab sogar häufig Referenzen, auch punkten die Punkte, die nur den Agenten bekannt waren, die der Prinzip, überhaupt nicht verstehen konnte, weil da Dinge differenziert wurden, die den Prinzip nicht vorbelegen haben.
+[SPEAKER_01]: Also, um explizit zu sagen, was das war, sind die Input-Variabenten, die der prinzipiell nicht wusste, über welche Input-Variabenten.
+[SPEAKER_01]: Und da halten Sie sich der Wusste nicht, dass die gerade mehr Geld versuchen, in Personals zu investieren oder mehr Geld in Maschinen zu investieren.
+[SPEAKER_01]: Mit diesen Informationen wurde recht frei immer umgegangen, auch nicht ohne Letzt,
+[SPEAKER_01]: aus dem Grund, dass viele Personen sich unter manchen dieser Schlagwörter nichts vorstellen konnten, wie z.B. Personen, Stunden, das war glaube ich, eine der Hauptpunkte, die immer angefragt wurden.
+[SPEAKER_01]: Oder es wurden einfach davon ausgegangen, dass auch der Prinziphalterung über Bescheidwürste, also haben sie das nicht so geheim gehandhabt, wie sie hätten es handhaben können.
+[SPEAKER_01]: Aber wenn es auch ihren privaten Nutzen geht,
+[SPEAKER_01]: Da haben sie alle innen gehalten.
+[SPEAKER_01]: Da waren sie immer sehr heimlich.
+[SPEAKER_01]: Da hat niemand gesagt, wie viele Punkte er gerade hat.
+[SPEAKER_01]: Das war sehr, sehr stark zu erkennen, dass sie diese Informationen nicht nach Hause getragen haben.
+[SPEAKER_00]: In der Tat, wir haben nämlich abgebildet.
+[SPEAKER_00]: In dem Spiel, das hast du es auch schon geschädelt.
+[SPEAKER_00]: Wir haben ganz jetzt den Leuten einer versteckte Agenda mit auf dem Weg gegeben, die nicht nur zahlenmäßig vorgehalten, sondern auch entsprechend visualisiert worden ist.
+[SPEAKER_00]: Das heißt, die hatten als offensichtlich ein Zielwert einen privaten Nutzen.
+[SPEAKER_00]: Die hatten zwar auch einen Unternehmensnutzen, aber sie wurden vorher sogar mit einer
+[SPEAKER_00]: Persona konfrontiert, der eine Rolle bespielt und die Persona, die sich erstellen sollen, hat sogar eine Geschichte bekommen, wo begründet wurde, warum diese konkreten Eigenschaften hat.
+[SPEAKER_00]: Eigenschaften konnte zum Beispiel sein, bedarf nach Freizeit oder Familie um Zusammenhalt oder ein Spielrieb oder eine Machtausübung.
+[SPEAKER_00]: Und dann haben wir darüber einigermaßen sauber versucht zu begründen, warum der die Machtausübung zum Beispiel mit einer möglichst hohen Anzahl an Mitarbeitern im Unternehmen begründet wird.
+[SPEAKER_00]: Die Stellgrößen selber, wo wird investiert, das Geld das da vorhanden ist und für den jeweiligen einzelnen Agenten umgesetzt wird.
+[SPEAKER_00]: Das haben wir nicht so sauber begründet, aber das war auch nicht nötig, haben wir gestellt, weil das sowieso zu komplex war, als dass die Agenten das hätten nachvollziehen können.
+[SPEAKER_00]: Das heißt, das hat aber auch noch eine Rolle gespielt.
+[SPEAKER_00]: Absolut, die Hindenagender, die war tatsächlich versteckt im privaten Nutzen, die öffentliche Agenda, die wurde als allgemein bekannt vorausgesetzt, war aber den Prinzipall eben trotzdem noch verbogen.
+[SPEAKER_00]: Der Prinzipall hat wirklich nur auf das Ergebnis geschaut.
+[SPEAKER_00]: Nicht also Eingabegrößen, das waren fast drei, vier Eingabegrößen.
+[SPEAKER_00]: Und daraus resultiert sind vier Ausgabegrößen, die für öffentliche Ausgabegrößen für das Unternehmen relevant auf dieser Grundlage hat der Prinzip halt entschieden.
+[SPEAKER_00]: Und daraus entstanden sind zusätzlich noch drei Privat benutzen oder was auch hier.
+[SPEAKER_00]: Ja, genau alle drei.
+[SPEAKER_00]: Drei Privat benutzen Variablen, die ich glaube in der Stufe von 1 bis 10 visualisiert worden sind.
+[SPEAKER_00]: Ja, genau.
+[SPEAKER_01]: Den Formen zu den Rettmüssen.
+[SPEAKER_01]: Mit Mario Korn.
+[SPEAKER_01]: Mit Mario Korn.
+[SPEAKER_01]: Genau.
+[SPEAKER_01]: Man hat, ich nachdem, wie gut man verteilt hat, hat man 1 bis 10 pro
+[SPEAKER_01]: pro privaten nutzen, kommt man bis zu 10 Punkte.
+[SPEAKER_01]: Das heißt pro Runde konnte man maximal 30 Punkte bekommen.
+[SPEAKER_01]: Und wenn man nicht, wenn der Vorschlag des Gegenübers von einem anderen agent angenommen wurde, dann hat man eben nicht die volle Punktzahl bekommen, die man hätte bekommen können, sondern nur irgendwie ein Teil von Punkten umgerechnet
+[SPEAKER_01]: und das andere Agents.
+[SPEAKER_00]: Genau, das Portfolio aus privaten Nutzen wurde zufällig ausgewählt.
+[SPEAKER_00]: Ich glaube, an der Persona, das heißt, das wurde eine Persona festgelegt.
+[SPEAKER_00]: Genau, und da wurde dann eine Auswahl, der tatsächlich verfügbar privaten Nutzen dargestellt, dann hinterher, die sich eben abbeleitet haben, aus dem den Boot größen.
+[SPEAKER_00]: Und so war sichergestellt, dass die Leute nie die selben Ziele hatten und gegeneinander verhandeln mussten.
+[SPEAKER_00]: Ich glaube, dass das weitestgehend das Spielebolitz schon modell darstellt.
+[SPEAKER_01]: Und die Vorabdiskussion sag ich mal abschließt im Punkt A1.
+[SPEAKER_01]: Genau, genau.
+[SPEAKER_00]: Ja.
+[SPEAKER_00]: Dann geht es um die Hypotesen.
+[SPEAKER_01]: Woher wird jetzt noch einsteigen?
+[SPEAKER_01]: Oder würde sagen wir?
+[SPEAKER_00]: Erst mal.
+[SPEAKER_00]: Wir machen hier einen kleinen Cut, das ist eine gute Idee.
+[SPEAKER_00]: Das muss ich einmal gucken wurde.

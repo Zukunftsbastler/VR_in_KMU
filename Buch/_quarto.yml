@@ -1,0 +1,43 @@
+project:
+  type: book
+
+book:
+  title: "VR im Mittelstand: Investieren oder abwarten?"
+  subtitle: "Eine praxisorientierte Entscheidungshilfe für mittelständische Unternehmen"
+  author: "Prof. Dr. Till Albert"
+  date: "2026"
+  language: de
+  chapters:
+    - index.md
+    - 01_einfuehrung.md
+    - 02_framework.md
+    - 03_betriebswirtschaftlicher_nutzen.md
+    - 04_anwendungsszenarien.md
+    - 05_wissenschaftliche_basis.md
+    - 06_empirische_untersuchung.md
+    - 07_person_individuum.md
+    - 08_technische_implementation.md
+    - 09_trends.md
+    - 10_implementierungsleitfaden.md
+    - part: "Workshop"
+      chapters:
+        - Workshop/workshop_szenario.md
+        - Workshop/spieltheorie.md
+    - part: "Anhang"
+      chapters:
+        - Anhang/A_glossar.md
+        - Anhang/B_checklisten.md
+        - Anhang/C_utaut_fragebogen.md
+        - Anhang/D_ressourcen.md
+
+bibliography: ../literatur.bib
+
+format:
+  typst:
+    toc: true
+    number-sections: true
+    lang: de
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
