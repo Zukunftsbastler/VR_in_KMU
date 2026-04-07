@@ -76,18 +76,41 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
 ## B · Literatur und Quellenarbeit
 
 ### B1 · Vergleichsstudien zu VR-Tests in realen Szenarien
-- [ ] Recherche: Empirische Studien zu **VR-gestützten Verhandlungen** (z.B. Einkauf, Lohn, Konfliktmediation, Preisverhandlung in VR)
-  - Relevante Konferenzen/Journals: CHI, CSCW, ECSCW, Group Decision and Negotiation, Computers in Human Behavior
-  - Suchbegriffe: „VR negotiation", „virtual reality bargaining", „avatar negotiation", „immersive negotiation training"
-- [ ] Recherche: **VR-Rollenspiele und Simulationen** im Unternehmenskontext (Soft-Skills-Training, Assessment-Center in VR)
-- [ ] Recherche: **Asymmetrische VR-Interaktionen** (unterschiedliche Perspektiven/Rollen in VR-Meetings)
-- [ ] Gefundene Studien in `literatur.bib` einpflegen und im Text zitieren
+- [x] Recherche: Empirische Studien zu **VR-gestützten Verhandlungen** — abgeschlossen (April 2026)
+  - Eingearbeitet in `Buch/04_anwendungsszenarien.md` (Abschnitt „Belegte Fallstudien"):
+    - Ding, Brinkman & Neerincx (2020), IJHCS, DOI: 10.1016/j.ijhcs.2020.102400 (peer-reviewed, Q1)
+    - Klaue et al. (2020), WI2020, DOI: 10.30844/wi_2020_t3-klaue (Beat the Bot / HNU)
+    - Moser et al. (2020), Cyberpsychology, DOI: 10.1089/cyber.2020.0065 (VR vs. Video vs. F2F)
+- [x] Recherche: **VR-Rollenspiele und Simulationen** im Unternehmenskontext — abgeschlossen
+  - MARLA (TU Berlin, AVRiL Goldpreis 2021): VR-Serious-Game für Offshore-Windenergie-Azubis
+  - PALFINGER VR1 (WindEnergy Hamburg 2024): Kranführer-Zertifizierung für Offshore-Wind
+  - Deutsche Bahn EVE (DELINA 2020): VR-Zugbegleiter-Training → Verweis in Kap. 03
+- [x] Recherche: **Asymmetrische VR-Interaktionen** — abgedeckt durch Beat the Bot (Mensch vs. KI-Avatar) und Microsoft Mesh (VR- vs. Desktop-Teilnehmer, bereits in Kap. 04)
+- [ ] Gefundene Studien in `literatur.bib` einpflegen: Ding et al. (2020), Moser et al. (2020), Klaue et al. (2020), Teichmann et al. (2023) — noch ausstehend
+  - Zusätzlich prüfen: PwC (2020) als Graue Literatur; Meyer Werft / PALFINGER / DNV als Webquellen
+  - Empfehlung: Für Webquellen BibTeX @misc mit url= und urldate= verwenden
 
 ### B2 · Quellenprobleme beheben
 - [ ] Quelle [6] im PDF (Çolak & Yılmaz, 2022) ist mit „??" markiert – Vollständigkeit und Korrektheit prüfen
-- [ ] Alle Fallstudien in `Best Practices und Fallstudien.tex` sind **nicht aus realen Quellen belegt** (TechTool GmbH, HomeConcept AG, UrbanVision GmbH, Holzkunst KG etc.): entweder durch echte, zitierbare Fallstudien ersetzen oder explizit als illustrative Beispiele kennzeichnen
-- [ ] Gleiches gilt für die regionalen Beispiele (Maschinenbauer Flensburg, Tourismusunternehmen Ostsee): Belege oder Transparenz herstellen
+- [x] Illustrative Fallstudien in `Buch/04_anwendungsszenarien.md` wurden **explizit als illustrative Szenarien** gekennzeichnet (Hinweis-Box zu Beginn des Abschnitts „Spezifische VR-Szenarien", April 2026)
+  - Die fiktiven Firmennamen (TechTool GmbH, HomeConcept AG etc.) stammen aus dem LaTeX-Archiv und wurden nicht in die Markdown-Version übernommen; die bestehenden Kap.-04-Fallstudien (Automobilzulieferer, Elektronikhersteller etc.) sind nun als illustrativ deklariert
+- [ ] Regionale Beispiele (Maschinenbauer Flensburg, Tourismusunternehmen Ostsee) in Kap. 04 noch als illustrativ kennzeichnen oder durch echte Belege ersetzen → ggf. aus Testfall-Abdeckung (J) ableiten
 - [ ] Abgleich: Quellen im PDF (12 Einträge) vs. Quellen in `literatur.bib` – Lücken schließen, insbesondere: Awa et al. (2015), Elia et al. (2021), Wohlgenannt et al. (2020), Flavián et al. (2019), Radianti et al. (2020)
+
+#### Neue belegte Fälle in `Buch/04_anwendungsszenarien.md` (Stand April 2026)
+
+| Quelle | Typ | Norddeutsch-Bezug | DOI / Link |
+|---|---|---|---|
+| Ding et al. (2020), IJHCS | Peer-reviewed | Nein | 10.1016/j.ijhcs.2020.102400 |
+| Moser et al. (2020), Cyberpsychology | Peer-reviewed | Nein | 10.1089/cyber.2020.0065 |
+| Klaue et al. (2020) / Beat the Bot HNU | Konferenzbeitrag | Preis Hamburg | 10.30844/wi_2020_t3-klaue |
+| Meyer Werft VR | Unternehmenswebsite | **Ja (Niedersachsen)** | meyerwerft.de |
+| PALFINGER VR1 | Pressemitteilung | **Ja (Hamburg)** | palfinger.com |
+| MARLA / TU Berlin | Hochschulprojekt | Ja (Offshore SH/NDS) | marla.tech |
+| DNV Survey Simulator | Unternehmenswebsite | **Ja (Hamburg)** | dnv.com |
+| Deutsche Bahn EVE | Fachpresse | Ja (DE) | → Kap. 03 |
+| PwC Soft Skills (2020) | Graue Literatur | Nein | → Kap. 03 |
+| Teichmann et al. (2023) / API-KMU | Springer-Buchkapitel | Nein (Brandenburg) | → Kap. 06 |
 
 ---
 
