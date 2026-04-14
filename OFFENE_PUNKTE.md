@@ -52,13 +52,16 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
 ## A · Empirische Basis (höchste Priorität)
 
 ### A1 · Workshop-Dokumentation (Verhandlungsszenario)
-- [ ] Beschreibung des Szenarios: Rahmenbedingungen, Aufgabenstellung, VR-Umgebung
-- [ ] Teilnehmerstruktur dokumentieren (Anzahl, Rollen, demographische Merkmale, VR-Vorerfahrung)
-- [ ] Ablauf und Methodik des Workshops festhalten
-- [ ] Qualitative Beobachtungen und Nutzerrückmeldungen aufbereiten
-- [ ] UTAUT-Messdaten (soweit erhoben) aufbereiten und auswerten
-- [ ] CIPD-Variablen: Welche wurden erfasst? Ergebnisse dokumentieren
-- [ ] Verbindung zum spieltheoretischen Modell (Game-Theory.tex) herstellen: Was hat das Modell vorhergesagt, was wurde beobachtet?
+- [x] Beschreibung des Szenarios: Rahmenbedingungen, Aufgabenstellung, VR-Umgebung → `Buch/Workshop/workshop_szenario.md`
+- [x] Teilnehmerstruktur dokumentieren (Anzahl, Rollen, demographische Merkmale, VR-Vorerfahrung) → `Buch/06_empirische_untersuchung.md`, Abschnitt „Stichprobe"
+- [x] Ablauf und Methodik des Workshops festhalten → `Buch/Workshop/workshop_szenario.md` (Phasen 1–4), `Buch/06_empirische_untersuchung.md` (Messinstrumente)
+- [x] Qualitative Beobachtungen und Nutzerrückmeldungen aufbereiten → `Buch/06_empirische_untersuchung.md`, Abschnitt „Qualitative Inhaltsanalyse" (102 codierte Aussagen, 6 Kategorien; Stand April 2026)
+- [x] UTAUT-Messdaten (soweit erhoben) aufbereiten und auswerten → `Buch/06_empirische_untersuchung.md`, Abschnitte ATI-S, FMS, UEQ-S (n=15, Stand April 2026)
+- [x] CIPD-Variablen: Welche wurden erfasst? Ergebnisse dokumentieren → `Buch/06_empirische_untersuchung.md`, Abschnitt „Verhaltensbeobachtung" (5 Gruppen, Stand April 2026)
+- [~] Verbindung zum spieltheoretischen Modell herstellen: Was hat das Modell vorhergesagt, was wurde beobachtet?
+  - Spieltheoretische Einordnung des implementierten Designs (nicht des ursprünglichen Cobb-Douglas-Modells) eingefügt in `Buch/Workshop/spieltheorie.md`, Abschnitt „Spieltheoretische Einordnung des implementierten Experiment-Designs" (April 2026)
+  - Verknüpfung mit beobachtetem Verhalten (Reputationsaufbau, Cheap-Talk-Muster, bounded rationality) hergestellt
+  - Noch ausstehend: quantitativer Vergleich der beobachteten Allokationen mit Gleichgewichtsvorhersagen (erfordert Zugang zum Spiel-Code)
 
 ### A2 · Hypothesen formulieren und dokumentieren
 - [ ] Die im Framework (PDF S. 19–20) genannten „Hypothesen" als Kernentität sind bislang nirgends explizit aufgelistet – konkreter Hypothesenkatalog fehlt vollständig
