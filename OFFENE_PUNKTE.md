@@ -20,7 +20,7 @@ Buch/
 ├── 02_framework.md                      ← Framework-Übersicht, 7 Domänen, SVG-Referenz
 ├── 03_betriebswirtschaftlicher_nutzen.md ← Domäne 1 + Kosten-Nutzen + Beispiele-Template
 ├── 04_anwendungsszenarien.md            ← Domäne 2 + Meeting-Charakterisierung + Szenarien
-├── 05_wissenschaftliche_basis.md        ← Domäne 3 + UTAUT + Spieltheorie-Grundlagen
+├── 05_wissenschaftliche_basis.md        ← Domäne 3 + Kurztests (ATI-S/FMS/UEQ-S) + UTAUT als Referenz + Spieltheorie-Grundlagen
 ├── 06_empirische_untersuchung.md        ← Domäne 4 + Workshop-Design + TODOs
 ├── 07_person_individuum.md              ← Domäne 5 + Für/Gegen-Indikationen + VR-Sickness
 ├── 08_technische_implementation.md      ← Domäne 6 + aus Detaillierte Beschreibung.tex
@@ -28,11 +28,11 @@ Buch/
 ├── 10_implementierungsleitfaden.md      ← Assessment + Entscheidungsmatrix + Strategien + Risiken
 ├── Workshop/
 │   ├── workshop_szenario.md             ← Vollständige Workshop-Dokumentation (teilweise TODO)
-│   └── spieltheorie.md                  ← aus Game-Theory.tex, vollständig konvertiert
+│   └── spieltheorie.md                  ← aus Game-Theory.tex + Hypothesenkatalog H1–H18 (April 2026)
 └── Anhang/
     ├── A_glossar.md                     ← 37 Begriffe aus VR Meetings in KMU.md
     ├── B_checklisten.md                 ← aus Branchenspezifische Checklisten.tex
-    ├── C_utaut_fragebogen.md            ← Fragebogenstruktur (teilweise TODO)
+    ├── C_messinstrumente.md             ← ATI-S, FMS, UEQ-S, CIPD (UTAUT ersetzt durch Kurztests, April 2026)
     └── D_ressourcen.md                  ← Kuratierte Ressourcen und Literatur
 ```
 
@@ -56,23 +56,22 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
 - [x] Teilnehmerstruktur dokumentieren (Anzahl, Rollen, demographische Merkmale, VR-Vorerfahrung) → `Buch/06_empirische_untersuchung.md`, Abschnitt „Stichprobe"
 - [x] Ablauf und Methodik des Workshops festhalten → `Buch/Workshop/workshop_szenario.md` (Phasen 1–4), `Buch/06_empirische_untersuchung.md` (Messinstrumente)
 - [x] Qualitative Beobachtungen und Nutzerrückmeldungen aufbereiten → `Buch/06_empirische_untersuchung.md`, Abschnitt „Qualitative Inhaltsanalyse" (102 codierte Aussagen, 6 Kategorien; Stand April 2026)
-- [x] UTAUT-Messdaten (soweit erhoben) aufbereiten und auswerten → `Buch/06_empirische_untersuchung.md`, Abschnitte ATI-S, FMS, UEQ-S (n=15, Stand April 2026)
+- [x] Kurztest-Messdaten aufbereiten und auswerten (ATI-S, FMS, UEQ-S statt UTAUT; Hinweis: eingeschränkte Aussagekraft, aber bessere Antwortquote) → `Buch/06_empirische_untersuchung.md`, Abschnitte ATI-S, FMS, UEQ-S (n=15, Stand April 2026)
 - [x] CIPD-Variablen: Welche wurden erfasst? Ergebnisse dokumentieren → `Buch/06_empirische_untersuchung.md`, Abschnitt „Verhaltensbeobachtung" (5 Gruppen, Stand April 2026)
-- [~] Verbindung zum spieltheoretischen Modell herstellen: Was hat das Modell vorhergesagt, was wurde beobachtet?
-  - Spieltheoretische Einordnung des implementierten Designs (nicht des ursprünglichen Cobb-Douglas-Modells) eingefügt in `Buch/Workshop/spieltheorie.md`, Abschnitt „Spieltheoretische Einordnung des implementierten Experiment-Designs" (April 2026)
-  - Verknüpfung mit beobachtetem Verhalten (Reputationsaufbau, Cheap-Talk-Muster, bounded rationality) hergestellt
-  - Noch ausstehend: quantitativer Vergleich der beobachteten Allokationen mit Gleichgewichtsvorhersagen (erfordert Zugang zum Spiel-Code)
+- [x] Verbindung zum spieltheoretischen Modell herstellen: Was hat das Modell vorhergesagt, was wurde beobachtet?
+  - Spieltheoretische Einordnung des implementierten Designs → `Buch/Workshop/spieltheorie.md`, Abschnitt 3.8 (April 2026)
+  - Hypothesenkatalog (H1–H18) mit Literaturbelegen → `Buch/Workshop/spieltheorie.md`, Abschnitt 3.9 (April 2026)
+  - Qualitativer Vergleich Modellvorhersagen vs. Beobachtungen → `Buch/Workshop/spieltheorie.md`, Abschnitt 3.10 (April 2026)
+  - **Noch ausstehend**: Quantitativer Vergleich der beobachteten Allokationen mit Gleichgewichtsvorhersagen (erfordert Export-Daten aus Unity-Spielclient)
 
 ### A2 · Hypothesen formulieren und dokumentieren
-- [ ] Die im Framework (PDF S. 19–20) genannten „Hypothesen" als Kernentität sind bislang nirgends explizit aufgelistet – konkreter Hypothesenkatalog fehlt vollständig
-- [ ] Hypothesen aus dem Desk Research ableiten und schriftlich fixieren (theoretisch begründet, KMU-spezifisch, falsifizierbar)
-- [ ] Zuordnung jeder Hypothese zu einer Framework-Domäne
-- [ ] Ergebnis der Verhandlungs-Workshops: Welche Hypothesen wurden bestätigt/falsifiziert?
-
-### A3 · UTAUT-Fragebogen
-- [ ] Vollständigen UTAUT-Fragebogen ausarbeiten (passend zu den erhobenen CIPD-Variablen)
-- [ ] Im LaTeX-Anhang einbinden (Kapitel „Angepasste Fragebögen zur Erfassung der VR-Bereitschaft" ist aktuell leer)
-- [ ] Anpassung an das Verhandlungsszenario prüfen
+- [x] Hypothesenkatalog (H1–H18) aus multidisziplinärem Desk Research abgeleitet und dokumentiert → `Buch/Workshop/spieltheorie.md`, Abschnitt 3.9 (April 2026)
+  - Abgedeckte Felder: Spieltheorie, Principal-Agent-Theorie, Verhandlungsforschung, Verhaltensökonomie, VR-Forschung, Kommunikationstheorie, Kognitionswissenschaft, Koalitionstheorie
+  - Schlüsselquellen: Fudenberg & Maskin (1986), Kreps & Wilson (1982), Holmström (1982), Carnevale & Lawler (1986), Simon (1955), Fehr & Schmidt (1999), Yee & Bailenson (2007), Daft & Lengel (1986)
+- [x] Zuordnung jeder Hypothese zu einer Framework-Domäne (WB / EU / VA) → Tabelle in Abschnitt 3.9
+- [x] Qualitativer Abgleich: Welche Hypothesen wurden durch Beobachtungen gestützt / offen gelassen → Abschnitt 3.10
+- [ ] Zuordnung der Hypothesen zu den Framework-Domänen im PDF (S. 19–20) noch ausstehend (erfordert PDF-Einsicht)
+- [ ] Quantitative Prüfung noch ausstehend (→ Allokationsrohdaten aus Spielclient)
 
 ---
 
@@ -141,7 +140,7 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
 
 ### D1 · Leere / unfertige Kapitel (Status im neuen Buch/ Ordner)
 - [ ] **Vorwort** (`Buch/index.md`): noch leer – verfassen
-- [~] **Fragebogen** (`Buch/Anhang/C_utaut_fragebogen.md`): Struktur angelegt, Items noch auszuarbeiten (→ A3)
+- [x] **Messinstrumente** (`Buch/Anhang/C_messinstrumente.md`): ATI-S, FMS, UEQ-S, CIPD und Kurzinterview vollständig dokumentiert; UTAUT als Referenzrahmen behalten, aber nicht mehr als Erhebungsinstrument (April 2026). Hinweis: Eingeschränkte Aussagekraft bez. Technologieakzeptanzprognose, aber deutlich bessere Antwortquote in der Felderhebung.
 - [x] **Glossar** (`Buch/Anhang/A_glossar.md`): 37 Begriffe aus `VR Meetings in KMU.md` übertragen
 - [~] **Ressourcen** (`Buch/Anhang/D_ressourcen.md`): Grundstruktur mit Journals, Plattformen, Förderangeboten angelegt – vertiefen
 - [x] **Hinweis Software-Tool**: In `Buch/` nicht übernommen (unklar ob Tool existiert; → G)

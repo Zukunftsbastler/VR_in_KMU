@@ -2,16 +2,44 @@
 title: "Wissenschaftliche Basis"
 ---
 
-## Das UTAUT-Modell
+## Messinstrumente der empirischen Untersuchung
 
-Das Unified Theory of Acceptance and Use of Technology (UTAUT) von Venkatesh et al. (2003) ist das zentrale Akzeptanzmodell dieses Handbuchs. Es erklärt die Intention zur Technologienutzung durch vier Kernkonstrukte:
+Im Rahmen des Workshops wurden bewusst **kurze, standardisierte Messinstrumente** eingesetzt, um die Belastung der Teilnehmer zu minimieren und eine hohe Antwortquote zu sichern. Dies bedeutet eine methodische Einschränkung gegenüber umfassenderen Modellen wie dem UTAUT (Venkatesh et al., 2003), ermöglicht aber eine realistische Durchführung in Feldstudien mit kleinen Stichproben.
+
+Die eingesetzten Instrumente sind:
+
+- **ATI-S (Affinity for Technology Interaction, Kurzskala, 3 Items)**: Erfasst die individuelle Technikaffinität als Persönlichkeitsmerkmal und Moderatorvariable. Hohe ATI-Werte korrelieren mit schnellerer VR-Eingewöhnung und höherer Explorationsbereitschaft (QUELLE: franke2019).
+- **FMS (Fragebogen zu Motion Sickness, Kurzform)**: Wird Pre/Post erhoben; die Differenz zeigt VR-induzierten Sickness-Effekt. Standardisiert und validiert für VR-Kontexte (QUELLE: langer2020we).
+- **UEQ-S (User Experience Questionnaire Short, 8 Items)**: Erfasst pragmatische Qualität (Usability) und hedonische Qualität (Stimulation/Novität) der VR-Umgebung. Kürzer als der vollständige UEQ, aber mit ausreichender Reliabilität für explorative Studien (QUELLE: schrepp2017).
+- **CIPD-Variablen (Coded Interaction and Process Data)**: Strukturierte Verhaltensbeobachtung; erfasst deiktische Gesten, soziale Zuwendung, Annäherungsverhalten und emotionale Gesten in VR.
+
+### Methodische Implikationen der Kurzinstrumente
+
+Der Verzicht auf das vollständige UTAUT-Modell (Venkatesh et al., 2003) hat Konsequenzen für die Aussagekraft der Studie:
+
+| Dimension | UTAUT-Abdeckung | Verwendetes Instrument | Einschränkung |
+|---|---|---|---|
+| Performance Expectancy | Vollständig (4 Items) | UEQ-S (indirekt: Nützlichkeitsdimension) | Nicht differenziert erfasst |
+| Effort Expectancy | Vollständig (4 Items) | UEQ-S (Usability-Dimension) | Kein direktes Konstrukt |
+| Social Influence | Vollständig (4 Items) | Nicht erhoben | Vollständig ausgelassen |
+| Facilitating Conditions | Vollständig (4 Items) | Nicht erhoben | Vollständig ausgelassen |
+| Nutzungsintention | 3 Items | Nicht erhoben | Vollständig ausgelassen |
+| Technikaffinität | Moderator (indirekt) | ATI-S (3 Items) | Gut abgedeckt |
+| VR-Sickness | Nicht enthalten | FMS (Pre/Post) | Ergänzendes Konstrukt |
+| User Experience | Nicht enthalten | UEQ-S (8 Items) | Ergänzendes Konstrukt |
+
+**Fazit**: Die Studie kann belastbare Aussagen zu Immersion, Usability und VR-Sickness treffen, aber keine vollständige Technologieakzeptanzprognose gemäß UTAUT liefern. Für repräsentative Adoptionsstudien in KMU-Kontexten wäre eine UTAUT-konforme Folgebefragung mit größerer Stichprobe erforderlich.
+
+### Referenzrahmen: UTAUT (Venkatesh et al., 2003)
+
+Das UTAUT-Modell bleibt als Referenzrahmen für die Interpretation der Befunde relevant. Es erklärt die Intention zur Technologienutzung durch vier Kernkonstrukte:
 
 - **Performance Expectancy**: Erwarteter Leistungsvorteil durch die Technologie
 - **Effort Expectancy**: Erwarteter Aufwand für die Nutzung
 - **Social Influence**: Sozialer Einfluss relevanter Bezugspersonen
 - **Facilitating Conditions**: Organisatorische und technische Rahmenbedingungen
 
-Diese Konstrukte werden durch Moderatoren wie Geschlecht, Alter, Erfahrung und Freiwilligkeit der Nutzung beeinflusst (QUELLE: venkatesh2003).
+Diese Konstrukte werden durch Moderatoren wie Geschlecht, Alter, Erfahrung und Freiwilligkeit der Nutzung beeinflusst. Im vorliegenden Experiment wurde UTAUT als theoretischer Orientierungsrahmen genutzt, aber aus Gründen der Durchführbarkeit (Zeitdruck, Stichprobengröße n=15, primärer Fokus auf das Spielexperiment) nicht vollständig operationalisiert (QUELLE: venkatesh2003).
 
 ## Präsenz und Immersion
 
@@ -69,7 +97,7 @@ Diese Domäne deckt im Framework folgende Sub-Knoten ab: *Hypothesen*, *lit. Que
 *Lit. Querverweise* in WB umfassen empirische Studien zu spezifischen Anwendungsszenarien (Schulungen, Produktdesign, Meetings). Diese Studien bilden die wissenschaftliche Grundlage für die VR-Kompatibilitätsbewertungen in Kap. 04. Wenn WB z. B. belegt, dass VR-Schulungen für motorische Skills besonders wirksam sind (Sitzmann 2011), erhöht das die Bewertung des Anwendungstyps „Handwerk-Ausbildung" in Kap. 04 systematisch.
 
 **→ Workshop/spieltheorie.md**
-Das spieltheoretische Modell ist ein spezifischer *lit. Querverweis* — ein formales theoretisches Modell, das für den eigenen Workshop entwickelt wurde. Es verbindet die Spieltheorie-Literatur (Folk-Theorem, Prinzipal-Agenten-Dilemma) mit der UTAUT-Forschung, indem es strategische Informationsasymmetrie als VR-spezifisches Phänomen modelliert.
+Das spieltheoretische Modell ist ein spezifischer *lit. Querverweis* — ein formales theoretisches Modell, das für den eigenen Workshop entwickelt wurde. Es verbindet die Spieltheorie-Literatur (Folk-Theorem, Prinzipal-Agenten-Dilemma) mit der Akzeptanzforschung, indem es strategische Informationsasymmetrie und Verhandlungsverhalten als VR-spezifische Phänomene modelliert. Der Hypothesenkatalog (→ Workshop/spieltheorie.md, Abschnitt „Hypothesen") konkretisiert, welche theoretischen Vorhersagen im Workshop geprüft wurden.
 
 ---
 
@@ -109,9 +137,9 @@ Die folgenden Einträge dokumentieren wissenschaftliche Studien und Reviews, die
 | **Rolle von VR** | Kein direkter VR-Bezug — UTAUT ist ein allgemeines Technologieakzeptanzmodell, das auf VR übertragen wird |
 | **Relevanz für WB** | Hypothesen (UTAUT-Konstrukte als Hypothesenrahmen), Ergebnis (4 Kernkonstrukte mit > 70 % Varianzerklärung), Evaluation |
 
-**Beschreibung**: UTAUT integriert acht frühere Technologieakzeptanzmodelle (TAM, TPB, TTF u. a.) in ein einheitliches Rahmenwerk. Vier Prädiktoren erklären zusammen 70 % der Varianz in der Nutzungsintention. Das Modell ist der meistzitierte Technologieakzeptanzansatz in der IS-Forschung und wird im eigenen Fragebogen (→ Anhang/C_utaut_fragebogen.md) direkt operationalisiert. Für VR-Anwendungen in KMU sind besonders *Effort Expectancy* (wahrgenommener Lernaufwand) und *Facilitating Conditions* (IT-Infrastruktur) kritische Konstrukte, da KMU oft weniger IT-Ressourcen haben als Großunternehmen (QUELLE: ghobakhloo2011).
+**Beschreibung**: UTAUT integriert acht frühere Technologieakzeptanzmodelle (TAM, TPB, TTF u. a.) in ein einheitliches Rahmenwerk. Vier Prädiktoren erklären zusammen 70 % der Varianz in der Nutzungsintention. Das Modell ist der meistzitierte Technologieakzeptanzansatz in der IS-Forschung. Im vorliegenden Experiment war eine vollständige UTAUT-Operationalisierung nicht durchführbar (Zeitdruck, n=15); es wurden stattdessen die Kurzinstrumente ATI-S, FMS und UEQ-S eingesetzt (→ Anhang/C_messinstrumente.md). Für VR-Anwendungen in KMU sind besonders *Effort Expectancy* (wahrgenommener Lernaufwand) und *Facilitating Conditions* (IT-Infrastruktur) kritische Konstrukte, da KMU oft weniger IT-Ressourcen haben als Großunternehmen (QUELLE: ghobakhloo2011).
 
-**Erkenntnisse**: UTAUT liefert die Hypothesenstruktur für Kap. 06: H1: Mitarbeiter mit höherer Performance Expectancy zeigen stärkere VR-Nutzungsintention. H2: Facilitating Conditions moderieren den Effort-Expectancy-Effekt bei KMU-Mitarbeitern. Diese Hypothesen sind im Workshop durch ATI- und UIQ-Erhebung teilweise operationalisiert.
+**Erkenntnisse**: UTAUT liefert theoretische Hypothesen für KMU-VR-Adoptionsstudien: Mitarbeiter mit höherer Performance Expectancy zeigen stärkere VR-Nutzungsintention; Facilitating Conditions moderieren den Effort-Expectancy-Effekt bei KMU-Mitarbeitern. Im eigenen Workshop sind diese Konstrukte nur indirekt messbar (ATI-S als Proxy für Effort Expectancy, UEQ-S-Nützlichkeitssubskala als Proxy für Performance Expectancy). Für eine vollständige Hypothesenprüfung wäre eine UTAUT-konforme Folgestudie erforderlich.
 
 ---
 
