@@ -1,6 +1,6 @@
 # Offene Punkte: VR in KMU – Forschungs- und Transferprojekt
 
-> Stand: März 2026
+> Stand: April 2026
 > Zweck: Sukzessive Abarbeitung zur Vorbereitung des Zwischenberichts
 > Status-Legende: `[ ]` offen · `[~]` in Bearbeitung · `[x]` erledigt
 
@@ -88,15 +88,19 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
   - PALFINGER VR1 (WindEnergy Hamburg 2024): Kranführer-Zertifizierung für Offshore-Wind
   - Deutsche Bahn EVE (DELINA 2020): VR-Zugbegleiter-Training → Verweis in Kap. 03
 - [x] Recherche: **Asymmetrische VR-Interaktionen** — abgedeckt durch Beat the Bot (Mensch vs. KI-Avatar) und Microsoft Mesh (VR- vs. Desktop-Teilnehmer, bereits in Kap. 04)
-- [ ] Gefundene Studien in `literatur.bib` einpflegen: Ding et al. (2020), Moser et al. (2020), Klaue et al. (2020), Teichmann et al. (2023) — noch ausstehend
-  - Zusätzlich prüfen: PwC (2020) als Graue Literatur; Meyer Werft / PALFINGER / DNV als Webquellen
-  - Empfehlung: Für Webquellen BibTeX @misc mit url= und urldate= verwenden
+- [x] Gefundene Studien in `literatur.bib` einpflegen: Ding et al. (2020), Moser et al. (2020), Klaue et al. (2020), Teichmann et al. (2023) — abgeschlossen (April 2026)
+  - Webquellen als `@online` eingetragen: Meyer Werft, PALFINGER, DNV, MARLA, DB EVE, RheinEnergie/World of VR, HAW CSTI
+  - PwC (2020) als `@misc` mit `note = {White Paper (graue Literatur)}` eingetragen
+  - `moser2020vr`: vollständige Autorenliste + Band/Heft/Seitenzahlen ergänzt
+  - Hinweis: Titel von `ding2020simulated`, `klaue2020beat`, `teichmann2023vr` anhand DOI verifizieren (Kommentar im .bib)
 
 ### B2 · Quellenprobleme beheben
-- [ ] Quelle [6] im PDF (Çolak & Yılmaz, 2022) ist mit „??" markiert – Vollständigkeit und Korrektheit prüfen
-- [x] Illustrative Fallstudien in `Buch/04_anwendungsszenarien.md` wurden **explizit als illustrative Szenarien** gekennzeichnet (Hinweis-Box zu Beginn des Abschnitts „Spezifische VR-Szenarien", April 2026)
-  - Die fiktiven Firmennamen (TechTool GmbH, HomeConcept AG etc.) stammen aus dem LaTeX-Archiv und wurden nicht in die Markdown-Version übernommen; die bestehenden Kap.-04-Fallstudien (Automobilzulieferer, Elektronikhersteller etc.) sind nun als illustrativ deklariert
-- [ ] Regionale Beispiele (Maschinenbauer Flensburg, Tourismusunternehmen Ostsee) in Kap. 04 noch als illustrativ kennzeichnen oder durch echte Belege ersetzen → ggf. aus Testfall-Abdeckung (J) ableiten
+- [ ] Quelle [6] im PDF (Çolak & Yılmaz, 2022) ist mit „??" markiert – Vollständigkeit und Korrektheit prüfen (betrifft nur LaTeX-Archiv)
+- [x] Fiktive Firmennamen (TechTool GmbH, HomeConcept AG etc.) aus dem LaTeX-Archiv wurden nicht in die Markdown-Version übernommen (April 2026)
+- [x] Alle 16 fiktiven „Fallstudie:"-Absätze aus `Buch/04_anwendungsszenarien.md` entfernt und durch „Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):"-Vermerke ersetzt (April 2026)
+  - Betrifft: Produzierende Unternehmen (4), Handel (3), Dienstleistungsgewerbe (2), Handwerk (3), Branchenübergreifend (4)
+  - Disclaimer-Box aktualisiert: kein Bezug mehr auf „Fallstudien", transparente Trennung von Anwendungspotenzialen vs. belegten Fällen
+- [x] Regionale Beispiele (Maschinenbauer Flensburg, Tourismusunternehmen Ostsee) — nicht in Markdown-Version übernommen; im LaTeX-Archiv belassen (April 2026)
 - [ ] Abgleich: Quellen im PDF (12 Einträge) vs. Quellen in `literatur.bib` – Lücken schließen, insbesondere: Awa et al. (2015), Elia et al. (2021), Wohlgenannt et al. (2020), Flavián et al. (2019), Radianti et al. (2020)
 
 #### Neue belegte Fälle in `Buch/04_anwendungsszenarien.md` (Stand April 2026)
@@ -314,6 +318,8 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
 | Priorität | Aufgaben |
 |-----------|----------|
 | **Sofort** (für Zwischenbericht) | A1, A2, F, H1, H2, H3, I1 |
-| **Kurzfristig** (inhaltliche Basis) | B1, B2, C3, D1, H4, H5, I2, I3, J |
+| **Kurzfristig** (inhaltliche Basis) | C3, D1, H4, H5, I2, I3, J |
 | **Mittelfristig** (Konsistenz) | A3, C1, C2, D2, E |
-| **Langfristig** (Vollständigkeit) | B1 (vertieft), G |
+| **Langfristig** (Vollständigkeit) | B2 (Quellenabgleich PDF ↔ bib), G |
+
+> **Erledigt (April 2026):** B1 (Literaturdatenbank), B2 (Bereinigung fiktiver Fallstudien)

@@ -89,7 +89,7 @@ Diese innovativen Meetingformen zeigen das transformative Potenzial von VR für 
 
 ## Spezifische VR-Szenarien nach Branche und Unternehmenstyp
 
-> **Hinweis zur Quellengrundlage:** Die Fallstudien in diesem Abschnitt sind illustrative Szenarien, die typische Nutzenmuster und Implementierungsschritte komprimiert darstellen. Sie basieren auf aggregierten Erfahrungswerten aus der Fachliteratur, erheben jedoch keinen Anspruch auf Quellenreferenz zu einem einzelnen realen Unternehmen. Empirisch belegte Referenzfälle mit Quellennachweis finden sich im Abschnitt [Belegte Fallstudien](#belegte-fallstudien-empirische-belege-aus-praxis-und-forschung) am Ende dieses Kapitels.
+> **Hinweis zur Quellengrundlage:** Die folgenden Abschnitte beschreiben Anwendungspotenziale von VR nach Branche und Szenario auf Basis der Fachliteratur. Für Anwendungsfelder, in denen kein verifizierter KMU-Einzelbeleg vorliegt, wird dies jeweils als „Naheliegender Anwendungsfall (kein publizierter KMU-Beleg)" ausgewiesen. Empirisch belegte Referenzfälle mit nachprüfbaren Quellen (DOI, offizielle Unternehmenswebsite) finden sich ausschließlich im Abschnitt [Belegte Fallstudien](#belegte-fallstudien-empirische-belege-aus-praxis-und-forschung) am Ende dieses Kapitels.
 
 ### Produzierende Unternehmen
 
@@ -111,7 +111,7 @@ VR ermöglicht es Unternehmen, Produkte in einer immersiven 3D-Umgebung zu entwe
 2. Schulung von Designern und Ingenieuren in VR-Technologien
 3. Etablierung von VR-Review-Prozessen im Produktentwicklungszyklus
 
-**Fallstudie:** Ein mittelständischer Automobilzulieferer konnte durch den Einsatz von VR im Produktdesign die Anzahl physischer Prototypen um 30% reduzieren und die Entwicklungszeit um 20% verkürzen.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Mittelständische Zulieferer mit iterativen Konstruktionszyklen (z. B. in der Automobil- oder Maschinenbaubranche) sind natürliche Kandidaten für VR-gestütztes Prototyping. Allgemeine Industriebelege liefert Berg & Vance (2017).
 
 #### Virtuelle Produktionsplanung und -optimierung
 
@@ -129,7 +129,7 @@ VR kann genutzt werden, um Produktionslinien und -prozesse virtuell zu planen un
 2. Integration von Echtzeitdaten aus der Produktion in VR-Simulationen
 3. Durchführung regelmäßiger VR-basierter Produktionsreviews
 
-**Fallstudie:** Ein mittelständischer Elektronikhersteller konnte durch VR-basierte Produktionsplanung die Effizienz seiner Fertigungslinie um 15% steigern und Anlaufzeiten für neue Produkte um 25% reduzieren.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Elektronikhersteller mit häufigen Produktionsumrüstungen oder variantenreichen Fertigungslinien könnten von VR-basierter Layoutplanung profitieren. Ein verifizierter KMU-Einzelbeleg liegt den Autoren nicht vor.
 
 #### VR-gestützte Mitarbeiterschulungen
 
@@ -147,7 +147,7 @@ VR bietet eine sichere und effektive Umgebung für das Training von Mitarbeitern
 2. Integration von VR-Training in bestehende Schulungsprogramme
 3. Kontinuierliche Aktualisierung der VR-Inhalte basierend auf Feedback und neuen Anforderungen
 
-**Fallstudie:** Ein mittelständischer Maschinenbauer konnte durch VR-Schulungen die Einarbeitungszeit neuer Mitarbeiter um 40% reduzieren und die Anzahl arbeitsbedingter Unfälle um 60% senken.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Maschinenbauunternehmen mit gefährlichen oder seltenen Bediensequenzen eignen sich für VR-Schulungen. Belegte Analogfälle aus größeren Unternehmen → DB EVE (Kap. 03) und Strivr (Praxisbeispiele, Kap. 04).
 
 #### Qualitätskontrolle und Wartung
 
@@ -165,7 +165,7 @@ VR kann zur visuellen Inspektion von Produkten und zur Unterstützung von Wartun
 2. Integration von Augmented Reality (AR) für Vor-Ort-Wartungsunterstützung
 3. Aufbau einer VR-basierten Wissensdatenbank für Wartungs- und Reparaturprozesse
 
-**Fallstudie:** Ein mittelständischer Werkzeugmaschinenhersteller konnte durch VR-gestützte Remote-Wartung die Reaktionszeit bei Kundenausfällen um 50% reduzieren und die Kundenzufriedenheit um 30% steigern.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Werkzeugmaschinenhersteller mit global verteilten Kunden sind ein naheliegendes Zielfeld für VR-gestützte Remote-Wartung. Ein belegtes Referenzmodell aus dem maritimen Bereich → DNV Remote Surveys (Belegte Fallstudien, Kap. 04).
 
 ### Handel
 
@@ -187,7 +187,7 @@ VR ermöglicht es Händlern, Produkte in einem immersiven, interaktiven 3D-Umfel
 2. Erstellung einer benutzerfreundlichen VR-Schnittstelle für Kunden
 3. Integration von E-Commerce-Funktionen in die VR-Umgebung
 
-**Fallstudie:** Ein mittelständischer Möbelhändler konnte durch einen virtuellen Showroom seine Konversionsrate um 25% steigern und die Retourenquote um 30% senken.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Möbelhandel und Einrichtungsbranche gelten als besonders geeignetes Einsatzfeld für VR-Showrooms (Raumkonfiguration, Produktvisualisierung in situ). Ein verifizierter KMU-Einzelbeleg liegt den Autoren nicht vor.
 
 #### Immersive Einkaufserlebnisse
 
@@ -205,7 +205,7 @@ VR kann genutzt werden, um vollständig immersive Einkaufsumgebungen zu schaffen
 2. Integration von sozialen Elementen für gemeinsames Einkaufen in VR
 3. Regelmäßige Aktualisierung der VR-Umgebung mit saisonalen Themes und Sonderaktionen
 
-**Fallstudie:** Ein mittelständischer Sportartikelhändler konnte durch immersive VR-Einkaufserlebnisse die durchschnittliche Verweildauer der Kunden um 40% und den Umsatz pro Kunde um 20% steigern.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Erlebnisstarke Handelssegmente (Sport, Outdoor, Lifestyle) bieten sich für immersive VR-Einkaufsformate an. Ein verifizierter KMU-Einzelbeleg liegt den Autoren nicht vor.
 
 #### VR-gestützte Verkaufsschulungen
 
@@ -223,7 +223,7 @@ VR bietet eine effektive Plattform für das Training von Verkaufspersonal in ver
 2. Integration von Leistungsmetriken und Feedback-Mechanismen in die VR-Schulungen
 3. Regelmäßige Aktualisierung der Schulungsinhalte basierend auf aktuellen Verkaufstrends und Produktinnovationen
 
-**Fallstudie:** Ein mittelständischer Elektronikhandel konnte durch VR-Verkaufsschulungen die Produktkenntnisse seiner Mitarbeiter um 35% verbessern und die Kundenzufriedenheit um 20% steigern.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Schulungen für erklärungsbedürftige Produkte (Elektronik, Haushaltsgeräte, Telekommunikation) sind ein natürliches Einsatzfeld für VR. Belegte Skalierungsbeispiele → Strivr (Praxisbeispiele, Kap. 04) und PwC-Studie (Kap. 03).
 
 ### Dienstleistungsgewerbe
 
@@ -245,7 +245,7 @@ VR ermöglicht es Dienstleistern, immersive und interaktive Beratungssitzungen d
 2. Schulung der Berater in der Nutzung von VR-Technologie
 3. Integration von Kollaborationstools und Datenvisualisierungsfunktionen
 
-**Fallstudie:** Eine mittelständische Finanzberatungsfirma konnte durch virtuelle Beratungssitzungen ihre Kundenbasis um 30% erweitern und die Kundenzufriedenheit um 25% steigern.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Finanz- und Unternehmensberatungen könnten VR für visualisierungsintensive Beratungsgespräche (Portfoliodarstellung, Szenarioplanung) nutzen. Ein verifizierter Einzelbeleg liegt den Autoren nicht vor.
 
 #### Immersive Trainings für Servicepersonal
 
@@ -257,7 +257,7 @@ VR bietet eine effektive Plattform für praxisnahes Training von Servicepersonal
 - Reduzierung von Trainingskosten und -zeit
 - Möglichkeit, seltene oder kritische Szenarien zu üben
 
-**Fallstudie:** Ein mittelständiger IT-Dienstleister konnte durch VR-basierte Serviceschulungen die Problemlösungszeit seiner Techniker um 40% reduzieren und die Kundenzufriedenheit um 35% steigern.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** IT-Dienstleister mit wiederkehrenden Serviceszenarien (Rechenzentrumsarbeit, Netzwerkinstallation) wären ein sinnvoller Einsatzfall für VR-Training. Ein verifizierter Einzelbeleg liegt den Autoren nicht vor.
 
 ### Handwerk
 
@@ -273,7 +273,7 @@ VR ermöglicht es, komplexe handwerkliche Techniken in einer sicheren, kontrolli
 - Reduzierung von Material- und Werkzeugkosten in der Ausbildung
 - Möglichkeit, seltene oder gefährliche Arbeitssituationen zu simulieren
 
-**Fallstudie:** Eine Handwerkskammer konnte durch VR-gestützte Ausbildungsprogramme die Erfolgsquote bei Gesellenprüfungen um 25% steigern und die Ausbildungszeit für bestimmte komplexe Techniken um 30% reduzieren.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Handwerkliche Berufsschulen und -kammern bieten sich für VR-gestützte Gefahrensimulationen und Fehlerdiagnostik an. Ausgezeichnetes Beispiel aus der Beruflichen Bildung → MARLA (TU Berlin, Belegte Fallstudien, Kap. 04).
 
 #### Virtuelle Projektplanung und -visualisierung
 
@@ -285,7 +285,7 @@ VR kann genutzt werden, um Kunden maßgeschneiderte Lösungen zu visualisieren u
 - Reduzierung von Planungsfehlern und nachträglichen Änderungen
 - Optimierung der Ressourcenplanung und Arbeitsvorbereitung
 
-**Fallstudie:** Ein mittelständischer Tischlereibetrieb konnte durch virtuelle Projektvisualisierungen die Kundenzufriedenheit um 40% steigern und die Anzahl der Nachbesserungen um 50% reduzieren.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Handwerksbetriebe mit maßgefertigten Produkten (Tischlerei, Küchenstudio, Trockenbau) können VR für immersive Kundenpräsentationen einsetzen. Ein verifizierter KMU-Einzelbeleg liegt den Autoren nicht vor.
 
 #### Remote-Unterstützung und Wartung
 
@@ -297,7 +297,7 @@ VR und AR können genutzt werden, um Remote-Support bei komplexen Wartungs- oder
 - Verbesserung der Problemlösungsgeschwindigkeit
 - Möglichkeit, Expertenwissen über große Entfernungen zu nutzen
 
-**Fallstudie:** Ein mittelständischer Heizungs- und Sanitärbetrieb konnte durch VR/AR-gestützten Remote-Support die Problemlösungszeit um 40% reduzieren und die Kundenzufriedenheit um 35% steigern.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** SHK-Betriebe mit breitem Kundenstamm und hohem Erstreparatur-Druck eignen sich für AR/VR-Remote-Support. Ein verifizierter Einzelbeleg liegt den Autoren nicht vor.
 
 ### Branchenübergreifende Szenarien
 
@@ -311,7 +311,7 @@ VR ermöglicht immersive, interaktive Meetings und Kollaborationssessions, die d
 - Ermöglichung komplexer Visualisierungen und Interaktionen
 - Förderung der kreativen Zusammenarbeit über Distanzen hinweg
 
-**Fallstudie:** Ein mittelständisches Beratungsunternehmen konnte durch den Einsatz von VR-Meetings die Reisekosten um 50% reduzieren und gleichzeitig die Mitarbeiterzufriedenheit um 30% steigern.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Unternehmensberatungen mit verteilten Projektteams sind ein klassisches Einsatzfeld für VR-Collaboration. Belegte Produkte → Meta Horizon Workrooms und Microsoft Mesh (Praxisbeispiele, Kap. 04).
 
 #### VR-basiertes Onboarding und Mitarbeiterschulung
 
@@ -323,7 +323,7 @@ VR bietet eine effektive Plattform für interaktive und immersive Schulungsprogr
 - Standardisierung von Schulungsinhalten bei gleichzeitiger Personalisierung
 - Reduzierung von Schulungskosten und -zeit
 
-**Fallstudie:** Ein mittelständischer Einzelhändler konnte durch VR-basiertes Onboarding die Einarbeitungszeit neuer Mitarbeiter um 40% reduzieren und die Mitarbeiterbindung im ersten Jahr um 25% erhöhen.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Handelsunternehmen mit hoher Mitarbeiterfluktuation (Einzelhandel, Gastronomie) eignen sich für VR-Onboarding. Belegte Skalierungsbeispiele → Strivr (Praxisbeispiele, Kap. 04) und PwC-Studie (Kap. 03).
 
 #### Immersive Datenvisualisierung und Analyse
 
@@ -335,7 +335,7 @@ VR ermöglicht die Visualisierung und Interaktion mit komplexen Datensätzen in 
 - Ermöglichung intuitiver Datenerkundung und -analyse
 - Förderung der Zusammenarbeit bei der Datenanalyse
 
-**Fallstudie:** Ein mittelständisches Logistikunternehmen konnte durch immersive Datenvisualisierung Ineffizienzen in der Lieferkette identifizieren und die Betriebskosten um 15% senken.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Logistikunternehmen mit komplexen Lieferkettendaten und Dispositionsbedarf profitieren potenziell von immersiver Datenvisualisierung. Ein verifizierter KMU-Einzelbeleg liegt den Autoren nicht vor.
 
 #### Virtuelle Produktpräsentationen und Messen
 
@@ -347,7 +347,7 @@ VR bietet eine Plattform für interaktive Produktpräsentationen und virtuelle M
 - Reduzierung von Reise- und Messekosten
 - Ermöglichung innovativer und interaktiver Produktdemonstrationen
 
-**Fallstudie:** Ein mittelständischer Maschinenbauer konnte durch virtuelle Produktpräsentationen seine Reichweite um 300% erhöhen und die Kosten für Produktdemonstrationen um 60% senken.
+**Naheliegender Anwendungsfall (kein publizierter KMU-Beleg):** Maschinenbauer auf internationalen Fachmessen könnten VR für interaktive Produktdemonstrationen einsetzen und so Transportkosten für physische Exponate einsparen. Ein verifizierter KMU-Einzelbeleg liegt den Autoren nicht vor.
 
 ### Zusammenfassung
 
