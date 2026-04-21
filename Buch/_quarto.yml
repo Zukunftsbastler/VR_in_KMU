@@ -41,3 +41,4 @@ format:
     theme: cosmo
     toc: true
     number-sections: true
+    html-math-method: mathjax
