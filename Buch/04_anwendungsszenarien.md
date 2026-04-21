@@ -87,6 +87,86 @@ Diese innovativen Meetingformen zeigen das transformative Potenzial von VR für 
 
 ---
 
+## Meeting-Typen im KMU-Kontext: Dimensionsprofil und VR-Eignung
+
+Die Beurteilung der VR-Eignung eines Meetings erfordert eine strukturierte Charakterisierung anhand messbarer Dimensionen. Die folgende Klassifikation basiert auf einem facettierten Taxonomieansatz: Jeder Meeting-Typ wird unabhängig auf mehreren Dimensionen eingestuft, deren Kombination die VR-Gesamteignung bestimmt (QUELLE: allen2014taxonomy; QUELLE: allen2023key). Ergänzend fließen empirische Befunde zur Meeting-Effektivität in VR ein (QUELLE: grabowski2024metaverse; QUELLE: slapakova2025vr).
+
+Die Taxonomiedimensionen orientieren sich an den in der Meeting-Science-Literatur etablierten Strukturmerkmalen: Primärziel, Informationsfluss, Entscheidungsstruktur, Gruppengröße, räumliche Visualisierungsanforderung, Kollaborationsintensität, Synchronizität und Formalisierungsgrad (QUELLE: volkema1995org; QUELLE: koehler2023culture).
+
+> **Bewertungslogik VR-Eignung:** Die Gesamteignung steigt, wenn (a) räumliche Visualisierung wichtig ist, (b) Kollaborationsintensität hoch ist, (c) geographische Distanz ohne Qualitätsverlust überwunden werden soll oder (d) das Szenario in der Realität gefährlich, unzugänglich oder unverhältnismäßig teuer wäre. Die Gesamteignung sinkt, wenn (a) einfacher Informationsaustausch dominiert, (b) große Gruppen koordiniert werden müssen oder (c) Datenschutzanforderungen den Einsatz cloud-basierter VR-Systeme ausschließen (→ Kap. 08, I1/I2).
+
+### Überblick: Meeting-Typen im Vergleich
+
+| Dimension | Kollaboration | Schulung | Produktentwicklung | Marketing | Fernwartung |
+|---|---|---|---|---|---|
+| **Primärziel** | Gemeinsame Lösung | Kompetenzaufbau | Design-Review | Überzeugung | Fehlerdiagnose |
+| **Informationsfluss** | Multi-direktional | Uni + Feedback | Bi-direktional | Überwiegend uni | Bi-direktional |
+| **Entscheidungsstruktur** | Verteilt | Zentralisiert | Gemischt | Zentralisiert | Asymmetrisch |
+| **Typische Gruppengröße** | 3–8 | 1–30 | 2–8 | 2–100+ | 2–4 |
+| **Räumliche Visualisierung** | Mittel–Hoch | Sehr hoch | Sehr hoch | Hoch | Sehr hoch |
+| **Kollaborationsintensität** | Hoch | Niedrig–Mittel | Hoch | Niedrig–Mittel | Hoch |
+| **Synchronizität** | Synchron | Sync./Asyn. | Synchron | Synchron | Synchron |
+| **Formalisierungsgrad** | Niedrig–Mittel | Mittel–Hoch | Mittel | Mittel–Hoch | Hoch |
+| **VR-Gesamteignung** | ★★★★☆ | ★★★★★ | ★★★★★ | ★★★★☆ | ★★★★☆ |
+
+> Quellen zur Dimensionsstruktur: Allen et al. (2014), Allen & Lehmann-Willenbrock (2023), Volkema & Niederman (1995), Köhler et al. (2023). VR-Eignungsbewertung: Grabowski et al. (2024), Šlapáková Losová & Orel (2025), Moser et al. (2020).
+
+---
+
+### Kollaboration
+
+Kollaborative Meetings zielen auf die gemeinsame Entwicklung von Lösungen ab, bei denen alle Teilnehmer aktiv zur Entscheidungsfindung beitragen. Der Informationsfluss ist multi-direktional, die Entscheidungsstruktur verteilt. VR-Umgebungen können hier einen spürbaren Mehrwert bieten: Die immersive Co-Präsenz erhöht das Gefühl gemeinsamer Aufmerksamkeit und ermöglicht die simultane Arbeit an gemeinsamen Artefakten im dreidimensionalen Raum (QUELLE: grabowski2024metaverse). Šlapáková Losová und Orel zeigen, dass VR als Engagement-Treiber in professionellen Meetings wirkt und die wahrgenommene Verbundenheit bei räumlich verteilten Teams erhöht (QUELLE: slapakova2025vr). Moser et al. vergleichen Gruppenentscheidungen in immersiver VR, Videokonferenz und Face-to-Face: VR erreicht bei kleinen Gruppen eine höhere Entscheidungsqualität als Videokonferenz, bleibt jedoch hinter Face-to-Face-Ergebnissen für hochkomplexe Abstimmungen zurück (QUELLE: moser2020vr).
+
+**VR-Eignung: ★★★★☆** — Stark geeignet für räumlich verteilte Teams mit 3–8 Personen, wenn gemeinsame visuelle Artefakte (Diagramme, 3D-Modelle, Whiteboards) zentral sind. Die Eignung sinkt bei Gruppen über 8 Personen, da der koordinative Overhead in VR überproportional wächst. Referenzplattformen: Meta Horizon Workrooms, Microsoft Mesh.
+
+**Einschränkung:** Der Wechsel von Videokonferenz zu VR lohnt sich primär, wenn räumliche Präsenz und gemeinsame 3D-Objekte einen inhaltlichen Mehrwert schaffen. Reine Statusmeetings ohne kollaborative Elemente profitieren nicht ausreichend, um den technischen Aufwand zu rechtfertigen.
+
+---
+
+### Schulung
+
+Schulungsformate zeichnen sich durch ein klares Lernziel, eine zentralisierte Wissensvermittlung und – besonders im VR-Kontext – durch die Möglichkeit der aktiven Simulation aus. Der Informationsfluss ist primär unidirektional mit Feedback-Schleifen; die Gruppengröße variiert stark (1–30 Personen). VR-basierte Simulationen haben sich in Metaanalysen als hoch effektiv erwiesen: Sitzmann zeigt, dass simulationsbasiertes Training gegenüber klassischen Formaten in Wissensabruf und Transferleistung überlegen ist (QUELLE: sitzmann2011). Die PwC-Studie dokumentiert für Enterprise-Einsätze, dass VR-Soft-Skills-Training Lernenden signifikant schnellere Ergebnisse liefert als Präsenztraining und gleichzeitig die Selbstwirksamkeit erhöht (QUELLE: pwc2020vr).
+
+Für KMU bietet das asynchrone Potenzial VR-basierter Schulungen besondere Kostenvorteile: Einmal erstellte Simulationen können wiederholt und standortunabhängig eingesetzt werden (QUELLE: teichmann2023vr).
+
+**VR-Eignung: ★★★★★** — Höchste Eignung unter allen Meeting-Typen. Besonders relevant bei gefährlichen, schwer zugänglichen oder kostenintensiven Trainingssituationen. Referenzfälle: PALFINGER VR1 für Offshore-Windtraining (QUELLE: palfinger2024vr), MARLA/TU Berlin für Offshore-Serious-Games (QUELLE: marla2021vr), Deutsche Bahn EVE-Trainingssystem (QUELLE: db_eve_vr), RheinEnergie Schaltbefähigung (QUELLE: worldofvr_rheinenergie).
+
+**Einschränkung:** Hohe Erstellungskosten für maßgeschneiderte VR-Inhalte. KMU ohne eigene Entwicklungskapazitäten sind auf externe Anbieter oder branchenspezifische Standardlösungen angewiesen.
+
+---
+
+### Produktentwicklung
+
+Design-Reviews und Produktentwicklungs-Meetings verbinden visuelle Komplexität (3D-Geometrie, räumliche Abhängigkeiten) mit hoher Kollaborationsintensität. Der Informationsfluss ist bidirektional, die Entscheidungsstruktur gemischt (Fachexperten und Management). Berg und Vance dokumentieren, dass VR-basierte Design-Reviews gegenüber traditionellen 2D-CAD-Reviews zu schnellerer Fehlererkennung und höherer Designzufriedenheit führen (QUELLE: berg2017).
+
+Großprojekte zeigen das Potenzial exemplarisch: Meyer Werft setzt VR-Walkthroughs für Schiffsbaureviews ein, bei denen Planungsfehler vor dem physischen Bau erkannt werden (QUELLE: meyerwerft_vr). Für KMU in Produktions- und Fertigungsbranchen bieten sich vergleichbare Szenarien für Qualitätssicherung, Variantenbewertung und Zuliefererkoordination an.
+
+**VR-Eignung: ★★★★★** — Höchste Eignung bei Produkten mit räumlichen 3D-Anforderungen. Besonders wirtschaftlich, wenn physische Prototypen durch virtuelle Reviews substituiert werden können. Typische Gruppengröße: 2–8 Personen (Kern-Designteam).
+
+**Einschränkung:** Integration von CAD-Daten in VR-Plattformen erfordert Konvertierungsworkflows (Tessellierung, Level-of-Detail-Optimierung). Datensicherheit bei cloud-basierter Verarbeitung proprietärer Konstruktionsdaten ist gesondert zu prüfen (→ Kap. 08, I1).
+
+---
+
+### Marketing
+
+Marketing-Meetings – von internen Kampagnenpräsentationen bis zu externen Kundendemonstrationen – haben Überzeugung als Primärziel, mit überwiegend unidirektionalem Informationsfluss und zentralisierter Entscheidungsstruktur. VR ermöglicht immersive Produktpräsentationen und emotionale Erfahrungen, die klassische Präsentationsmedien nicht replizieren können (QUELLE: bonetti2018). Für B2B-KMU bieten virtuelle Showrooms, Messeauftritte und Produktdemonstrationen eine kosteneffiziente Alternative zu physischen Veranstaltungen, sofern die Zielgruppe über entsprechende VR-Erfahrung verfügt.
+
+**VR-Eignung: ★★★★☆** — Stark geeignet für individuelle oder kleine Kundendemonstrationen (2–10 Personen). Der Einsatz bei Massenveranstaltungen (>10 Personen) ist logistisch anspruchsvoll und setzt geeignete Hardware auf Kundenseite voraus.
+
+**Einschränkung:** ROI-Nachweis ist schwierig bei einmaligen Präsentationen. Wirtschaftlich sinnvoll ist der VR-Einsatz primär für wiederkehrende Standardpräsentationen mit hoher Auftrittsfrequenz oder für hochpreisige Produkte, bei denen die Überzeugungsleistung den Investitionsaufwand rechtfertigt.
+
+---
+
+### Fernwartung
+
+Fernwartungs-Meetings verbinden einen Experten mit einem Techniker vor Ort zur gemeinsamen Diagnose und Behebung technischer Störungen. Der Informationsfluss ist bidirektional, die Entscheidungsstruktur asymmetrisch: Der Experte führt und instruiert, der Techniker handelt. Räumliche Visualisierung ist kritisch – Annotationen im 3D-Raum, Pfeilmarkierungen und Overlay-Anweisungen direkt am Gerät erhöhen die Fehlerdiagnoseeffizienz erheblich. DNV GL dokumentiert VR-gestützte Inspektionen von Schiffen und Offshore-Strukturen mit reproduzierbaren Qualitätsergebnissen (QUELLE: dnv2019survey). PALFINGER setzt VR-Simulatoren für die Einweisung von Offshore-Technikern ein (QUELLE: palfinger2024vr). Die HAW Hamburg CSTI betreibt vergleichbare VR-Trainingsinfrastruktur für Offshore-Windanlagen (QUELLE: haw_csti_offshore).
+
+**VR-Eignung: ★★★★☆ bis ★★★★★** — Sehr hohe Eignung, wenn das System bidirektionale räumliche Annotation (Mixed Reality) unterstützt. Reine VR ohne AR-Overlay ist für aktive Wartungsführung weniger geeignet als AR-gestützte Telepräsenz. Typische Gruppengröße: 2–4 Personen.
+
+**Einschränkung:** Stabile Netzwerkverbindung am Einsatzort ist Voraussetzung. Für maritime oder abgelegene Standorte müssen Satelliten- oder LTE-Verbindungsqualitäten berücksichtigt werden. Datenschutz bei Live-Videoübertragung kritischer Infrastrukturen ist gesondert zu prüfen (→ Kap. 08, I2).
+
+---
+
 ## Spezifische VR-Szenarien nach Branche und Unternehmenstyp
 
 > **Hinweis zur Quellengrundlage:** Die folgenden Abschnitte beschreiben Anwendungspotenziale von VR nach Branche und Szenario auf Basis der Fachliteratur. Für Anwendungsfelder, in denen kein verifizierter KMU-Einzelbeleg vorliegt, wird dies jeweils als „Naheliegender Anwendungsfall (kein publizierter KMU-Beleg)" ausgewiesen. Empirisch belegte Referenzfälle mit nachprüfbaren Quellen (DOI, offizielle Unternehmenswebsite) finden sich ausschließlich im Abschnitt [Belegte Fallstudien](#belegte-fallstudien-empirische-belege-aus-praxis-und-forschung) am Ende dieses Kapitels.

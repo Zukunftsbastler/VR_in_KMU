@@ -130,7 +130,7 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
 
 ### C2 · VR Meetings in KMU.md ↔ PDF-Framework
 - [x] Inhalte aus VR Meetings in KMU.md (Glossar 37 Begriffe, Meeting-Charakterisierung) wurden in `Buch/` integriert
-- [ ] Meeting-Typ-Tabellen (Kollaboration, Schulung, Produktentwicklung, Marketing, Fernwartung) noch vollständig in `Buch/04_anwendungsszenarien.md` einpflegen
+- [x] Meeting-Typ-Tabellen (Kollaboration, Schulung, Produktentwicklung, Marketing, Fernwartung) vollständig in `Buch/04_anwendungsszenarien.md` eingeflogen (facettierte Taxonomie, 8 Dimensionen, VR-Eignungsbewertung ★–★★★★★, April 2026)
 - [x] Entscheidung: `Buch/02_framework.md` ist die offizielle Frameworkbeschreibung
 
 ### C3 · Game-Theory.tex integrieren
@@ -166,7 +166,7 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
 
 ## F · Zwischenbericht für das Förderprojekt
 
-- [ ] **Klären**: Welches Format und welchen Umfang verlangt der Fördermittelgeber? (Formular, Freitext, Anhänge?)
+- [ ] **Klären**: Welches Format und welchen Umfang verlangt der Fördermittelgeber? (Formular, Freitext, Anhänge?) --> Er verlangt einen formlosen Freitext zum Ist-Stand
 - [ ] **Struktur des Zwischenberichts** festlegen – typische Elemente:
   - Projektstand und Meilensteine
   - Methodik (Framework, empirische Evaluationskette)
@@ -181,11 +181,11 @@ Jedes Framework-Domänen-Kapitel enthält eine Vorlage für Beispieleinträge mi
 
 ## G · Offene konzeptionelle Fragen (zur Klärung)
 
-- [ ] **Zielbeziehung der beiden Hauptdokumente**: Wie verhalten sich der Leitfaden (praxisorientiert für KMU) und das Framework (Forschungsinstrument) zueinander? Klare Rollentrennung formulieren
-- [ ] **Begleitendes Software-Tool** (im Leitfaden erwähnt): Existiert dieses Tool? Ist es geplant? Soll es im Projekt entwickelt werden?
-- [ ] **Geografischer Fokus**: Der Leitfaden betont Flensburg/Grenzgebiet DK-DE – ist das für den Zwischenbericht zentral oder eher Hintergrundkontext?
-- [ ] **Weitere Workshops geplant?**: Das Framework sieht mehrere Anwendungsstudien vor (5 Meeting-Typen). Sind nach dem Verhandlungs-Workshop weitere Szenarien geplant? Welche Typen haben Priorität?
-- [ ] **Quellennachweis im PDF**: Quelle [6] mit „??" – Fehler bewusst oder versehentlich? Bereinigen
+- [ ] **Zielbeziehung der beiden Hauptdokumente**: Wie verhalten sich der Leitfaden (praxisorientiert für KMU) und das Framework (Forschungsinstrument) zueinander? Klare Rollentrennung formulieren --> Leitfaden nimmt Bezug auf Framework, nutzt es als strukturgebendes Element und wissenschaftlichen "Unterbau". Die Experimente zeigen einen Bereich auf, der noch wenig Erforscht wurde (Forschungslücke, keine kommerziellen Anwendungen verfügbar), aber eine spannende Nutzungsoption darstellt. 
+- [ ] **Begleitendes Software-Tool** (im Leitfaden erwähnt): Existiert dieses Tool? Ist es geplant? Soll es im Projekt entwickelt werden? --> Existiert bereits. Ist in Unity erstellt. Hier das Git: https://github.com/phillipja/BeyondRealityResearch 
+- [ ] **Geografischer Fokus**: Der Leitfaden betont Flensburg/Grenzgebiet DK-DE – ist das für den Zwischenbericht zentral oder eher Hintergrundkontext? --> Projekt ist vom LandSH finanziert und hat die Region im Fokus. Das gehört auch in den Zwischenbericht! 
+- [ ] **Weitere Workshops geplant?**: Das Framework sieht mehrere Anwendungsstudien vor (5 Meeting-Typen). Sind nach dem Verhandlungs-Workshop weitere Szenarien geplant? Welche Typen haben Priorität? --> Ja, es sind noch weitere Workshops geplant, bei denen der CEO durch einen KI-Agenten ersetzt wird. 
+- [ ] **Quellennachweis im PDF**: Quelle [6] mit „??" – Fehler bewusst oder versehentlich? Bereinigen --> versehentlich! 
 
 ---
 
