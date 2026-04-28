@@ -19,7 +19,7 @@ Im Rahmen des Projekts wurde erprobt, ob sich handelsübliche Consumer-Hardware 
 1. **Virtuelle Produktvorstellung** — dreidimensionale Darstellung einzelner Gegenstände für Remote-Demonstrations- oder Verkaufsgespräche in VR
 2. **Virtuelle Gebäudetour** — begehbare Nachbildung von Büro- oder Arbeitsräumen für Besichtigungen, Planung oder Einweisungen über Distanz
 
-Als Hardware diente ein **iPhone 15 Pro** mit dem integrierten LIDAR-Scanner; als Software wurde die **3D Scanner App** (Apple App Store) eingesetzt, die für Endanwender eine einfache Point-and-Shoot-Erfahrung verspricht.
+Als Hardware dienten zwei **iPhone 15 Pro** mit dem integrierten LIDAR-Scanner; als Software wurde die **3D Scanner App** (Apple App Store) eingesetzt, die für Endanwender eine einfache Point-and-Shoot-Erfahrung verspricht.
 
 Die Versuchsobjekte umfassten zwei Kategorien:
 
@@ -63,3 +63,62 @@ Das Experiment bestätigt, dass LIDAR-gestütztes 3D-Scanning auf Consumer-Smart
 Eine erneute Evaluierung der Consumer-LIDAR-Qualität empfiehlt sich, sobald Apple oder Drittanbieter die Rekonstruktions-Algorithmen signifikant verbessern — die Hardware-Grundlage (LIDAR-Chip) ist vorhanden; der limitierende Faktor ist die Software.
 
 > **Methodische Transparenz:** Dieses Experiment lieferte ein negatives Ergebnis. Negative Befunde sind für den Erkenntnisgewinn ebenso wertvoll wie positive: Sie verhindern, dass KMU Ressourcen in einen Ansatz investieren, der unter Praxisbedingungen nicht funktioniert.
+
+
+##### 
+
+Kurz gesagt: Der LiDAR-Scanner des iPhones (verfügbar in den Pro-Modellen) ist nicht zwingend notwendig für Gaussian Splatting, aber er fungiert als massiver Turbo und Präzisions-Anker für den gesamten Prozess.
+
+Man kann sich das Zusammenspiel wie beim Hausbau vorstellen: Der LiDAR-Sensor baut in Sekundenschnelle das unsichtbare Rohbau-Gerüst, und das Gaussian Splatting gießt die hochauflösenden, fotorealistischen Details (die Texturen und Beleuchtung aus der normalen Kamera) darüber.
+
+Hier ist im Detail, welche Rolle LiDAR dabei spielt:
+
+1. Der Kickstart für die KI (Die initiale Punktwolke)
+
+Bevor der Algorithmus für das Gaussian Splatting beginnen kann, die Millionen von "Splats" zu optimieren, muss er wissen, wo sich die Kamera im Raum befand und wie der Raum grob aussieht.
+
+Ohne LiDAR: Die Software muss diese Daten durch einen rechenintensiven Prozess namens Structure from Motion (SfM) erst mühsam aus den 2D-Videobildern errechnen. Das dauert oft sehr lange.
+
+Mit LiDAR: Der Sensor wirft ohnehin Infrarot-Punkte in den Raum und misst deren Reflexion. Er liefert dem Algorithmus also sofort eine fertige, wenngleich grobe 3D-Punktwolke ("Point Cloud Prior"). Die KI kann dadurch sofort mit dem eigentlichen Splatting-Training beginnen, was den Prozess enorm beschleunigt.
+
+2. Der echte Maßstab (Absolute Skalierung)
+
+Ein reines Video hat kein Gefühl für Größe. Eine KI kann oft nicht unterscheiden, ob sie gerade ein kleines Spielzeugauto aus fünf Zentimetern Entfernung oder einen echten SUV aus fünf Metern Entfernung betrachtet. LiDAR liefert absolute, millimetergenaue Tiefeninformationen. Das bedeutet, dass die fertige 3D-Szene direkt maßstabsgetreu ist. Das ist entscheidend für Anwendungen wie Immobilien (Zillow) oder Set-Planung im Film, wo man in der fertigen 3D-Szene reale Abstände messen möchte.
+
+3. Die Rettung bei strukturlosen Flächen
+
+Kamera-basierte Photogrammetrie verlässt sich auf Kontraste und Muster. Eine komplett glatte, weiße Raufasertapete oder ein spiegelndes Fenster bringen traditionelle Algorithmen zum Verzweifeln, da sie keine Referenzpunkte finden. Der LiDAR-Laser tastet die Wand physisch ab, unabhängig von ihrer Farbe oder Textur. Er sagt der Software: "Hier ist eine solide Wand, auch wenn sie auf dem Video nur wie eine weiße Fläche aussieht."
+
+Warum LiDAR allein nicht reicht (und 3DGS übernimmt)
+
+Man könnte sich fragen: Wenn das iPhone LiDAR hat, wozu brauche ich dann noch Gaussian Splatting? Die Antwort liegt in der Auflösung. Die reinen LiDAR-Scans von iPhones (wie man sie aus älteren Scan-Apps kennt) sehen oft aus wie geschmolzene, grobmaschige Videospiel-Grafiken aus den frühen 2000ern. Der Sensor hat eine begrenzte Reichweite (ca. 5 Meter) und eine relativ geringe Auflösung.
+
+Genau hier greift das Gaussian Splatting ein: Es nutzt das grobe, aber physikalisch korrekte LiDAR-Gerüst, um die ultra-hochauflösenden Bilddaten der 48-Megapixel-Hauptkamera des iPhones fehlerfrei darüberzulegen. Das Ergebnis vereint die mathematische Präzision von LiDAR mit dem Fotorealismus eines hochauflösenden Videos.
+
+
+Hier sind die spannendsten, aktuellen Entwicklungen und Nachrichten (Stand Frühjahr 2026) zu genau diesem Thema:
+
+1. Von 3D zu 4D: Splatting in Bewegung
+
+Die neueste technische Grenze ist das sogenannte 4D Splatting – hier kommt die Zeit als vierte Dimension hinzu. Statt nur statische Räume einzufrieren, können mittlerweile ganze Bewegungsabläufe räumlich erfasst werden. Ein prominentes kommerzielles Beispiel aus der jüngsten Zeit ist das Musikvideo „Helicopter“ von A$AP Rocky. Dort wurden Performer mit 56 Kameras aufgenommen und das Footage in 4D-Splats umgewandelt, was völlig unmögliche Kamerafahrten und Perspektivenwechsel nachträglich im digitalen 3D-Raum ermöglichte.
+
+2. Volumetrische 3D-Immobilien (Zillow SkyTour)
+
+Im März 2026 hat das große Immobilienportal Zillow detaillierte Einblicke in seine neue KI-Engine SkyTour gegeben. Zillow nutzt Drohnen-Videos von Immobilien und wandelt diese mithilfe von 3D Gaussian Splatting komplett automatisch in interaktive, volumetrische 3D-Szenen um. Nutzer können so nicht nur virtuell durch ein Haus laufen, sondern das komplette Gebäude inklusive Bäumen und Umgebung von außen wie ein fotorealistisches Puppenhaus betrachten und stufenlos hineinzoomen.
+
+3. Hollywood-Technik durch Smartphones
+
+Auf der großen Branchenmesse NAB im April 2026 präsentierte das Unternehmen Radiant Images ein Rig aus 24 herkömmlichen iPhones. Statt wie beim klassischen „Bullet-Time“-Effekt (bekannt aus dem Film Matrix) die Frames zwischen den Kameras mühsam per Hand zu interpolieren, füttern sie die Videos in einen Gaussian Splatting Algorithmus. Das Ergebnis ist eine vollständig rekonstruierte 3D-Szene, durch die Regisseure im Nachhinein stufenlos fliegen, die Brennweite ändern und die Umgebung bearbeiten können.
+
+4. Integration in Standard-Software
+
+Die Technologie ist mittlerweile so weit gereift, dass sie die Forschungslabore verlassen hat und in die Standard-Software der Film- und Design-Industrie einzieht. So wurde 3DGS Anfang 2026 nativ in den mächtigen Industrie-Renderer V-Ray 7 integriert. 3D-Artists können nun reale Umgebungen, die sie mit dem Smartphone als Video gescannt haben, nahtlos mit computergenerierten Objekten kombinieren.
+
+5. Das "Einfrieren" von Erinnerungen für Konsumenten
+
+Nicht nur Profis nutzen die Technik. Magazine wie Lifehacker berichten aktuell vermehrt über Consumer-Apps (wie z. B. Splat Studio), die es jedem ermöglichen, aus simplen Handyvideos sogenannte „Dioramen“ zu erstellen. Der Trend geht dahin, dass Menschen Räume oder Momente – wie das Familienwohnzimmer an Weihnachten – als komplett begehbare 3D-Erinnerung auf dem Smartphone konservieren, anstatt nur flache Fotos zu schießen.
+
+Radiant Images: 24 iPhones für Next-Gen Bullet Time durch Gaussian Splatting
+https://www.youtube.com/watch?v=5MXc8A2gEcE
+
+Dieses Video zeigt sehr anschaulich am Beispiel eines iPhone-Setups, wie aus synchronisierten Videoaufnahmen dank Gaussian Splatting eine völlig frei navigierbare 3D-Szene für virtuelle Kamerafahrten entsteht.
