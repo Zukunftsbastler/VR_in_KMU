@@ -1,5 +1,5 @@
 # PROJEKTSTATUS — VR im Mittelstand
-> Stand: 2026-04-28 · Für neue Sessions: Diese Datei zuerst lesen, dann README.md und OFFENE_PUNKTE.md
+> Stand: 2026-05-05 · Für neue Sessions: Diese Datei zuerst lesen, dann README.md und OFFENE_PUNKTE.md
 
 ---
 
@@ -48,13 +48,13 @@ Buch/
 
 ### 🔴 SOFORT — Zwischenbericht-kritisch
 
-| # | Aufgabe | Benötigte Infos (noch zu klären) |
-|---|---------|----------------------------------|
-| **S1** | **Zwischenbericht verfassen** (formloser Freitext, Ist-Stand für LandSH) | Deadline? Ungefährer Umfang? Welche Experimente explizit erwähnen? |
-| **S2** | **LIDAR-Negativbefund** in `06_empirische_untersuchung.md` einarbeiten | Welche Software (Scaniverse/RoomPlan)? Welche Objekte/Räume? |
-| **S3** | **360°-Fotografie-Fallstudie** (Stefan Bruns, sportboot-gutachter.de) | Welche Kamera/Plattform? Anzahl Boote? Einverständnis zur Nennung? |
-| **S4** | **VR-Messestand-Fallstudie** (Orion / Omnicon Group / Neox Studios) | Welche Messe, wann? VR-Plattform? Einverständnis der Partner? |
-| **S5** | **Meta Quest DSGVO-Analyse** → `08_technische_implementation.md` | Als Warnung/Kasten oder vollständiges Unterkapitel? |
+| # | Aufgabe | Aktueller Stand | Nächster Schritt |
+|---|---------|-----------------|-----------------|
+| **S1** | **Zwischenbericht verfassen** (Sachbericht für LandSH) | ⚠️ Struktur vollständig (`Zwischenbericht/`, 6 Abschnittsdateien). Zusammenfassung und AP-Fortschritt ausgearbeitet. Mehrere `<!-- TODO -->` offen: Förderkennzeichen/FKZ, exakte Projektlaufzeit, Datum Workshop, VR-Hardware im Budget, Gründe für Verzögerungen H3, Zeitraum für Gegenmaßnahme in 4.3. | Offene TODOs im Gespräch mit Prof. Albert klären und eintragen, dann Abschnitte zu einem Dokument zusammenführen |
+| **S2** | **LIDAR-Negativbefund** in `06_empirische_untersuchung.md` einarbeiten | ⚠️ Vollständiger Entwurf liegt in `Buch/Entwuerfe/H1_lidar_scanning.md` vor (inkl. Gaussian Splatting Ausblick, Handlungsempfehlungen). **Noch nicht** in `06_empirische_untersuchung.md` eingefügt. | Copy-in: Abschnitt nach „Verhaltensbeobachtung" in `06_empirische_untersuchung.md` einfügen |
+| **S3** | **360°-Fotografie-Fallstudie** (Stefan Bruns, sportboot-gutachter.de) | ⚠️ Entwurf in `Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`: Technische Umsetzung (Skybox, POI, Navigation) beschrieben. Offene Punkte: Einverständnis Stefan Bruns, Anzahl Aufnahmepositionen, Nutzertestergebnisse, eingesetzte VR-Hardware, Bewertung Praxispartner. Noch nicht in `06_empirische_untersuchung.md` integriert. | Rücksprache Stefan Bruns → offene Infos einholen → Entwurf finalisieren → einarbeiten |
+| **S4** | **VR-Messestand-Fallstudie** (Orion / Omnicon Group / Neox Studios) | 🔴 Nur Skelett in `Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`. Zielsetzung, Aufbau, Beobachtungen und Ergebnisse sind `<!-- TODO -->`-Platzhalter. Kein einziger inhaltlicher Abschnitt fertig. Im Zwischenbericht als „laufend" vermerkt. | Partner-Einverständnis klären, Details zum Experiment liefern, dann Entwurf befüllen |
+| **S5** | **Meta Quest DSGVO-Analyse** → `08_technische_implementation.md` | ⚠️ Generischer Datenschutzabschnitt in `08` vorhanden (ab „Sicherheits- und Datenschutzaspekte in VR"). Keine Meta-Quest-spezifische DSGVO-Analyse. Im Zwischenbericht (4.5) explizit als ausstehend dokumentiert; konzeptionelle Einschätzung (Meta Quest nicht empfehlenswert) bereits vermerkt. | Vollständiges Unterkapitel verfassen: biometrische Daten, Meta-Datenweitergabe, ULD SH als Aufsichtsbehörde, DSGVO-konforme Alternativen (Varjo, HTC Vive) |
 
 ### 🟡 KURZFRISTIG (Wochen)
 
@@ -91,6 +91,10 @@ Buch/
 - ✅ Qualitative Inhaltsanalyse: 102 codierte Aussagen, 6 Kategorien (n=15)
 - ✅ `literatur.bib` um peer-reviewed Studien zu VR-Verhandlungen ergänzt
 - ✅ 20 SH-Testfälle mit Deckungsanalyse erstellt
+- ✅ Zwischenbericht-Struktur aufgebaut (`Zwischenbericht/`, 6 Abschnittsdateien, Hauptinhalte verfasst)
+- ✅ LIDAR-Entwurf fertiggestellt (`Buch/Entwuerfe/H1_lidar_scanning.md`, inkl. Gaussian Splatting Ausblick)
+- ✅ 360°-Fotografie-Entwurf angelegt (`Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`, Technikteil beschrieben)
+- ✅ VR-Messestand-Entwurf als Skelett angelegt (`Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`)
 
 ---
 
