@@ -77,7 +77,9 @@ https://github.com/phillipja/BeyondRealityResearch
 
 ### Workshop-Experiment: VR-Verhandlungsstudie (n=15)
 
-<!-- TODO: Genaues Durchführungsdatum / Semester eintragen -->
+**Durchführungszeitraum:** 13. November – 2. Dezember 2025
+
+**Eingesetzte VR-Hardware:** Zwei Meta Quest Pro und eine Meta Quest 3 — diese Geräte waren bereits vor Projektbeginn vorhanden und wurden nicht eigens für dieses Projekt angeschafft.
 
 **Probanden-Einordnung (UTAUT-Referenz):** Die Technikaffinität wurde mit der ATI-Kurzskala
 (3 Items, Skala 1–6) erhoben. Die Stichprobe (BWL-Erstsemester, Studiengang „Digitale
@@ -103,32 +105,17 @@ Verhaltensbeobachtung nach CIPD-Kodierung, qualitative Kurzinterviews.
 
 ### Praxisexperiment H1: LIDAR-Scanning (Negativbefund)
 
-Erprobt wurde, ob iPhones mit LIDAR-Sensor (iPhone 15 Pro, 3D Scanner App) für die Erstellung
-VR-tauglicher 3D-Scans von Objekten und Räumen geeignet sind. Das Ergebnis war ein klarer
+Erprobt wurde, ob iPhones mit LIDAR-Sensor für die Erstellung VR-tauglicher 3D-Scans von
+Objekten und Räumen geeignet sind. Als Testgeräte wurden zwei iPhone 15 Pro eingesetzt, die
+explizit für dieses Projekt angeschafft wurden. Die Entscheidung für Apple-Hardware folgte
+einem bewussten Kriterium: Das iPhone ist in KMU-Belegschaften weit verbreitet, sodass eine
+etwaige Reproduzierbarkeit der Ergebnisse ohne zweckgebundene Spezialhardware gewährleistet
+ist — ein zentrales Argument für die Übertragbarkeit auf den Mittelstand.
+
+Die Scans wurden mit der App „3D Scanner App" durchgeführt. Das Ergebnis war ein klarer
 Negativbefund: Detailverlust, Loch-Artefakte und physikalisch bedingte Transparenzprobleme
 machen Consumer-LIDAR für professionelle VR-Inhalte aktuell ungeeignet. Der Befund fließt
 direkt als Handlungsempfehlung in den Leitfaden ein.
-
-### Praxisexperiment H2: 360°-Fotografie (Fallstudie Sportbootgutachten)
-
-Als niedrigschwellige Alternative zu LIDAR wurde 360°-Fotografie (Insta360-Kamera) in
-Zusammenarbeit mit einem Fachgutachter (sportboot-gutachter.de) erprobt. Die Aufnahmen
-des Motorboots „Albin Köbis" wurden als Skybox-Navigation mit Points of Interest in eine
-Unity-VR-Applikation integriert. Die Nutzertests und abschließende Bewertung durch den
-Praxispartner stehen noch aus.
-
-<!-- TODO: Einverständnis zur namentlichen Nennung (Stefan Bruns / sportboot-gutachter.de)
-     bestätigt? Anzahl Aufnahmepositionen und VR-Hardware beim Test eintragen. -->
-
-### Praxisexperiment H3: Virtueller Messestand
-
-<!-- TODO: Details ergänzen:
-- Welche Partner haben teilgenommen (Einverständnis zur Nennung)?
-- Wann fand das Experiment statt?
-- Gibt es bereits Beobachtungen oder erste Ergebnisse? -->
-
-Erprobt wurde ein vollständig virtuelles Messeszenario in Unity, bei dem Partnerunternehmen
-ihre Produkte an virtuellen Messeständen präsentieren. Nutzertests und Auswertung laufen noch.
 
 ---
 

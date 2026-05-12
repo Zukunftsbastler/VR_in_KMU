@@ -1,54 +1,37 @@
-# 6. Ausblick auf das zweite Projektjahr
+# 6. Ausblick auf die verbleibende Projektlaufzeit
 
-Im zweiten Projektjahr werden die im ersten Jahr gelegten Grundlagen vertieft und in
-verwertbare Transferprodukte überführt. Folgende Arbeitsschwerpunkte sind geplant:
+Das Projekt wurde um sechs Monate verlängert und läuft bis Ende 2026. In der verbleibenden
+Laufzeit konzentriert sich die Arbeit auf zwei Schwerpunkte: ein abschließendes Experiment
+und die Fertigstellung des Leitfadens.
 
-## 6.1 KI-Avatar-Experiment (nächster Workshop)
+---
+
+## 6.1 KI-Avatar-Experiment (abschließender Workshop)
 
 Als Erweiterung der Verhandlungsstudie ist ein Folgeexperiment geplant, in dem ein
-**KI-gesteuerter Avatar** (z. B. auf Basis der Anthropic Claude API) die Rolle eines
-Verhandlungspartners übernimmt. Dies simuliert einen abwesenden CEO und untersucht,
-inwiefern KI-Avatare in VR-Meetings soziale Präsenz erzeugen und strategisches Verhalten
-beeinflussen.
+**KI-gesteuerter Avatar** die Rolle eines Verhandlungspartners übernimmt. Dies simuliert
+einen abwesenden CEO und untersucht, inwiefern KI-Avatare in VR-Meetings soziale Präsenz
+erzeugen und strategisches Verhalten beeinflussen — eine direkte Weiterführung der
+Hypothesen H1–H18 aus dem Ersten Workshop-Durchgang.
 
-Der nächste Workshop-Durchgang bietet zudem die Gelegenheit, erstmals eine vollständige
-**UTAUT-Messung** durchzuführen. Da das Zeitbudget der Session nun bekannt und das
-Szenario-Design optimiert ist, kann der Survey vor dem Experiment platziert werden, ohne
-die Konzentration der Teilnehmenden zu belasten (vgl. Planabweichung 4.4).
+Der FolgeWorkshop bietet zudem die Gelegenheit, erstmals eine vollständige **UTAUT-Messung**
+durchzuführen. Da das Zeitbudget der Session nun bekannt und das Szenario-Design optimiert
+ist, kann der Survey vor dem Experiment platziert werden, ohne die Konzentration der
+Teilnehmenden zu belasten (vgl. Planabweichung 4.3).
 
-<!-- TODO: Zeitplanung für das KI-Avatar-Experiment eintragen (z. B. WS 2026/2027).
-     Welche KI-API ist konkret geplant? Gibt es bereits Förder- oder Kooperationsanfragen? -->
+---
 
-## 6.2 Abschluss der Feldexperimente mit Praxispartnern
+## 6.2 Fertigstellung des Handbuchs
 
-- **H2 (360°-Fotografie):** Nutzertests und qualitative Evaluation mit Stefan Bruns /
-  sportboot-gutachter.de abschließen; Ergebnisse in das Handbuch einarbeiten.
-- **H3 (Virtueller Messestand):** Partnerrückmeldungen auswerten; Experiment ggf. mit
-  weiteren KMU wiederholen.
-- **Erweiterung auf KMU-Stichproben:** Geplante Feldstudien direkt in kooperierenden
-  Unternehmen in Schleswig-Holstein.
-
-## 6.3 Fertigstellung des Handbuchs
-
-Die verbleibenden offenen Punkte im Manuskript werden geschlossen:
+Die Publikationsreife des Handbuchs bis Ende der Projektlaufzeit ist das übergeordnete Ziel
+der verbleibenden Monate. Folgende Punkte sind noch ausstehend:
 
 - DSGVO-Analyse Meta Quest → Kapitel 08
 - Vorwort → `index.md`
-- Einarbeitung aller Feldexperiment-Ergebnisse → Kapitel 06
-- Anhang D (SH-Förderprogramme: WTSH, IB.SH, Interreg) vertiefen
-- Abschließendes Quarto-Rendering und Layoutkontrolle
+- Einarbeitung der LIDAR-Befunde und des Gaussian-Splatting-Ausblicks → Kapitel 06
+- Anhang D (SH-Förderprogramme) vertiefen
+- Abschließendes Rendering und Layoutkontrolle (Quarto + Typst)
 
-Das Ziel ist die **Publikationsreife des Handbuchs bis Ende der Projektlaufzeit**.
-
-<!-- TODO: Geplantes Erscheinungsdatum oder geplante Publikationsform angeben
-     (z. B. Open-Access-PDF, Verlag, Hochschulreihe). -->
-
-## 6.4 Öffentlichkeitsarbeit und Transfer
-
-- Präsentation der Ergebnisse bei mindestens einer regionalen Veranstaltung
-  (z. B. IHK-Netzwerktreffen, Hochschulkolloquium, WTSH-Veranstaltung)
-- Angestrebte Fachpublikation zu den empirischen Befunden der Verhandlungsstudie
-- Ausbau des Netzwerks mit KMU-Akteuren in der Region Schleswig-Holstein und dem
-  deutsch-dänischen Grenzraum
-
-<!-- TODO: Falls bereits konkrete Veranstaltungen oder Einladungen bekannt sind, bitte ergänzen. -->
+Das Handbuch ist das zentrale Transferprodukt des Projekts und richtet sich an
+KMU-Entscheider ohne technischen Hintergrund. Es soll nach Projektabschluss frei
+zugänglich veröffentlicht werden.

@@ -12,7 +12,6 @@ unverzichtbar ist.
 
 **Gegenmaßnahme:** Das Studiendesign ist explizit als erster Validierungsschritt konzipiert.
 Die Stichprobe ist methodisch begründet (homogene Ausgangssituation, heterogene ATI-Zusammensetzung).
-Für das zweite Projektjahr ist die Ausweitung auf KMU-Praxispartner geplant (→ Abschnitt 6).
 
 ---
 
@@ -26,32 +25,22 @@ nicht empirisch geprüft. Testberichte im Consumer-Bereich suggerierten eine hö
 
 **Gegenmaßnahme:** Negativbefunde sind wissenschaftlich gleichwertig zu positiven Ergebnissen.
 Der Befund schützt KMU-Entscheider vor Fehlinvestitionen und fließt direkt in das Handbuch
-als fundierte Empfehlung ein. Als Gegenansatz wurde das 360°-Fotografie-Experiment (H2)
-entwickelt und erprobt.
+als fundierte Empfehlung ein.
+
+Gleichzeitig zeichnet sich ein technologischer Paradigmenwechsel ab, der die Einschätzung
+langfristig relativiert: **3D Gaussian Splatting (3DGS)** erlaubt die fotorealistische
+Rekonstruktion von Räumen und Objekten aus Videomaterial, wobei LiDAR nicht als Alternative,
+sondern als komplementäres Gerüst fungiert — es liefert Tiefenmessung und Maßstabstreue,
+während 3DGS die hochauflösende Bildinformation der Smartphone-Kamera texturiert. Erste
+kommerzielle Anwendungen illustrieren die rasche Diffusion: Zillow SkyTour (März 2026) wandelt
+Drohnenvideos vollautomatisch in begehbare 3D-Gebäudeszenen um; Consumer-Apps wie Splat Studio
+ermöglichen vergleichbare Ergebnisse ohne Fachkenntnisse. Für KMU-Entscheider bedeutet dies,
+dass der kombinierte Workflow *iPhone-LiDAR + 3DGS* kurzfristig evaluiert werden sollte —
+die im Experiment H1 eingesetzte Hardware (iPhone 15 Pro) ist dafür ausreichend.
 
 ---
 
-## 4.3 Feldexperimente mit Praxispartnern: Verzögerung
-
-**Abweichung:** Die Fallstudien mit Praxispartnern (360°-Fotografie mit Gutachter Stefan Bruns,
-virtueller Messestand mit Partnerunternehmen) sind noch nicht vollständig abgeschlossen;
-Nutzertestdaten stehen noch aus.
-
-<!-- TODO: Bitte beschreiben, warum es zu Verzögerungen kam — z. B.:
-- Abstimmungsaufwand mit Praxispartnern
-- Technische Herausforderungen bei der Unity-Implementierung
-- Personalengpässe / Erkrankung
-- Andere Gründe?
-Dieser Punkt ist laut Info.md besonders wichtig: offen und transparent ansprechen,
-sofort Gegenmaßnahme nennen. -->
-
-**Gegenmaßnahme:** Die technische Implementierung beider Szenarien ist abgeschlossen.
-Die Auswertungsphase (Nutzertests, qualitative Interviews mit Praxispartnern) ist für
-<!-- TODO: Zeitraum eintragen, z. B. Q2 2026 --> geplant.
-
----
-
-## 4.4 Messinstrumente: Kurzinstrumente statt vollem UTAUT-Survey
+## 4.3 Messinstrumente: Kurzinstrumente statt vollem UTAUT-Survey
 
 **Abweichung:** Im Projektantrag (AP3) war die Einordnung der Probanden mittels UTAUT
 (Unified Theory of Acceptance and Use of Technology, Venkatesh et al. 2003) vorgesehen.
@@ -70,13 +59,11 @@ schützte die interne Validität des Experiments.
 Langer et al. (2020) empfehlen in ihrer Metaanalyse von 119 VR-Studien explizit standardisierte
 Kurzskalen wie ATI-S und FMS gegenüber selbst entwickelten oder überlangen Fragebogenbatterien.
 Die Konstruktabdeckung ist gegenüber UTAUT eingeschränkt (keine direkte Messung von Performance
-Expectancy oder Behavioral Intention), aber methodisch bewusst in Kauf genommen. Eine vollständige
-UTAUT-Erhebung ist für den nächsten Workshop-Durchgang im zweiten Projektjahr geplant,
-in dem das Design zeitlich optimiert werden kann (→ Abschnitt 6.1).
+Expectancy oder Behavioral Intention), aber methodisch bewusst in Kauf genommen.
 
 ---
 
-## 4.5 DSGVO-Analyse Meta Quest: Noch offen
+## 4.4 DSGVO-Analyse Meta Quest: Noch offen
 
 **Abweichung:** Die datenschutzrechtliche Analyse der Meta Quest für den Unternehmenseinsatz
 (geplant für Kapitel 08 des Handbuchs) steht noch aus.
@@ -88,4 +75,4 @@ eine sorgfältige juristische Einordnung.
 **Gegenmaßnahme:** Die konzeptionelle Einschätzung (Meta Quest für vertrauliche/personenbezogene
 Kontexte nicht empfehlenswert) ist im Handbuch bereits vermerkt. Die ausführliche Analyse
 inklusive Verweis auf die Aufsichtsbehörde ULD Schleswig-Holstein und datenschutzkonforme
-Alternativen (Varjo, HTC Vive etc.) wird im zweiten Projektjahr eingearbeitet.
+Alternativen (Varjo, HTC Vive etc.) wird im laufenden Berichtszeitraum eingearbeitet.

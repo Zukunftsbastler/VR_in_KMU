@@ -52,8 +52,8 @@ Buch/
 |---|---------|-----------------|-----------------|
 | **S1** | **Zwischenbericht verfassen** (Sachbericht für LandSH) | ⚠️ Struktur vollständig (`Zwischenbericht/`, 6 Abschnittsdateien). Zusammenfassung und AP-Fortschritt ausgearbeitet. Mehrere `<!-- TODO -->` offen: Förderkennzeichen/FKZ, exakte Projektlaufzeit, Datum Workshop, VR-Hardware im Budget, Gründe für Verzögerungen H3, Zeitraum für Gegenmaßnahme in 4.3. | Offene TODOs im Gespräch mit Prof. Albert klären und eintragen, dann Abschnitte zu einem Dokument zusammenführen |
 | **S2** | **LIDAR-Negativbefund** in `06_empirische_untersuchung.md` einarbeiten | ⚠️ Vollständiger Entwurf liegt in `Buch/Entwuerfe/H1_lidar_scanning.md` vor (inkl. Gaussian Splatting Ausblick, Handlungsempfehlungen). **Noch nicht** in `06_empirische_untersuchung.md` eingefügt. | Copy-in: Abschnitt nach „Verhaltensbeobachtung" in `06_empirische_untersuchung.md` einfügen |
-| **S3** | **360°-Fotografie-Fallstudie** (Stefan Bruns, sportboot-gutachter.de) | ⚠️ Entwurf in `Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`: Technische Umsetzung (Skybox, POI, Navigation) beschrieben. Offene Punkte: Einverständnis Stefan Bruns, Anzahl Aufnahmepositionen, Nutzertestergebnisse, eingesetzte VR-Hardware, Bewertung Praxispartner. Noch nicht in `06_empirische_untersuchung.md` integriert. | Rücksprache Stefan Bruns → offene Infos einholen → Entwurf finalisieren → einarbeiten |
-| **S4** | **VR-Messestand-Fallstudie** (Orion / Omnicon Group / Neox Studios) | 🔴 Nur Skelett in `Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`. Zielsetzung, Aufbau, Beobachtungen und Ergebnisse sind `<!-- TODO -->`-Platzhalter. Kein einziger inhaltlicher Abschnitt fertig. Im Zwischenbericht als „laufend" vermerkt. | Partner-Einverständnis klären, Details zum Experiment liefern, dann Entwurf befüllen |
+| **S3** | **360°-Fotografie-Fallstudie** (Stefan Bruns, sportboot-gutachter.de) — *Experiment aus Vorgängerprojekt, Ergebnisse für dieses Projekt verwertbar* | ⚠️ Entwurf in `Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`: Technische Umsetzung (Skybox, POI, Navigation) beschrieben. Offene Punkte: Einverständnis Stefan Bruns, Anzahl Aufnahmepositionen, Nutzertestergebnisse, eingesetzte VR-Hardware, Bewertung Praxispartner. Noch nicht in `06_empirische_untersuchung.md` integriert. | Rücksprache Stefan Bruns → offene Infos einholen → Entwurf finalisieren → als übertragener Befund aus Vorgängerprojekt einarbeiten |
+| **S4** | **VR-Messestand-Fallstudie** (Orion / Omnicon Group / Neox Studios) — *Experiment aus Vorgängerprojekt, Ergebnisse für dieses Projekt verwertbar* | 🔴 Nur Skelett in `Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`. Zielsetzung, Aufbau, Beobachtungen und Ergebnisse sind `<!-- TODO -->`-Platzhalter. Kein einziger inhaltlicher Abschnitt fertig. **Nicht** im Zwischenbericht dieses Projekts enthalten, da dem Vorgängerprojekt zuzurechnen. | Partner-Einverständnis klären, Details zum Experiment liefern, dann Entwurf für Übernahme in Buchkapitel 06 befüllen |
 | **S5** | **Meta Quest DSGVO-Analyse** → `08_technische_implementation.md` | ⚠️ Generischer Datenschutzabschnitt in `08` vorhanden (ab „Sicherheits- und Datenschutzaspekte in VR"). Keine Meta-Quest-spezifische DSGVO-Analyse. Im Zwischenbericht (4.5) explizit als ausstehend dokumentiert; konzeptionelle Einschätzung (Meta Quest nicht empfehlenswert) bereits vermerkt. | Vollständiges Unterkapitel verfassen: biometrische Daten, Meta-Datenweitergabe, ULD SH als Aufsichtsbehörde, DSGVO-konforme Alternativen (Varjo, HTC Vive) |
 
 ### 🟡 KURZFRISTIG (Wochen)
@@ -93,8 +93,8 @@ Buch/
 - ✅ 20 SH-Testfälle mit Deckungsanalyse erstellt
 - ✅ Zwischenbericht-Struktur aufgebaut (`Zwischenbericht/`, 6 Abschnittsdateien, Hauptinhalte verfasst)
 - ✅ LIDAR-Entwurf fertiggestellt (`Buch/Entwuerfe/H1_lidar_scanning.md`, inkl. Gaussian Splatting Ausblick)
-- ✅ 360°-Fotografie-Entwurf angelegt (`Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`, Technikteil beschrieben)
-- ✅ VR-Messestand-Entwurf als Skelett angelegt (`Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`)
+- ✅ 360°-Fotografie-Entwurf angelegt (`Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`, Technikteil beschrieben) — *Experiment stammt aus Vorgängerprojekt; Ergebnisse werden als übertragener Befund ins Buch integriert*
+- ✅ VR-Messestand-Entwurf als Skelett angelegt (`Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`) — *Experiment stammt aus Vorgängerprojekt; Ergebnisse werden als übertragener Befund ins Buch integriert*
 
 ---
 
@@ -112,7 +112,7 @@ Buch/
 
 ## Empfohlene Reihenfolge für neue Sessions
 
-1. S1 + S2/S3/S4 parallel: Zwischenbericht-Struktur klären und Feldexperimente einarbeiten
+1. S1 + S2 parallel: Zwischenbericht finalisieren und LIDAR-Befund einarbeiten; S3/S4 separat als Vorgängerprojekt-Transfers ins Buch aufnehmen (nicht in Zwischenbericht)
 2. S5 + K1: DSGVO-Analyse + Vorwort (in sich abgeschlossen, schnell erledigt)
 3. K2–K5: Inhaltliche Vertiefung
 4. M1–M5: Qualitätssicherung und geplante Experimente
