@@ -72,9 +72,6 @@ Unternehmens-Verhandlungsszenario ab, in dem drei Teilnehmende als Führungskrä
 Verteilung strategischer Ressourcen verhandeln. Der Quellcode ist öffentlich verfügbar:
 https://github.com/phillipja/BeyondRealityResearch
 
-<!-- TODO: Eingesetzte VR-Hardware angeben (z. B. Meta Quest 2/3, Anzahl der Headsets).
-     Falls im Finanzbericht Hardware-Ausgaben abgerechnet werden, hier erwähnen. -->
-
 ### Workshop-Experiment: VR-Verhandlungsstudie (n=15)
 
 **Durchführungszeitraum:** 13. November – 2. Dezember 2025
@@ -126,5 +123,3 @@ direkt als Handlungsempfehlung in den Leitfaden ein.
 Koordination der Arbeitspakete, Abstimmung mit Praxispartnern, Betreuung des
 Softwareentwicklungs-Repositories sowie laufende Dokumentation des Projektfortschritts.
 
-<!-- TODO: Falls studentische Hilfskräfte oder externe Mitarbeitende eingesetzt wurden
-     und im Finanzbericht abgerechnet werden, hier kurz erwähnen. -->
