@@ -1,5 +1,5 @@
 # PROJEKTSTATUS — VR im Mittelstand
-> Stand: 2026-05-05 · Für neue Sessions: Diese Datei zuerst lesen, dann README.md und OFFENE_PUNKTE.md
+> Stand: 2026-05-13 · Für neue Sessions: Diese Datei zuerst lesen, dann README.md und OFFENE_PUNKTE.md
 
 ---
 
@@ -50,10 +50,10 @@ Buch/
 
 | # | Aufgabe | Aktueller Stand | Nächster Schritt |
 |---|---------|-----------------|-----------------|
-| **S1** | **Zwischenbericht verfassen** (Sachbericht für LandSH) | ⚠️ Struktur vollständig (`Zwischenbericht/`, 6 Abschnittsdateien). Zusammenfassung und AP-Fortschritt ausgearbeitet. Mehrere `<!-- TODO -->` offen: Förderkennzeichen/FKZ, exakte Projektlaufzeit, Datum Workshop, VR-Hardware im Budget, Gründe für Verzögerungen H3, Zeitraum für Gegenmaßnahme in 4.3. | Offene TODOs im Gespräch mit Prof. Albert klären und eintragen, dann Abschnitte zu einem Dokument zusammenführen |
+| **S1** | **Zwischenbericht verfassen** (Sachbericht für LandSH) | ⚠️ **Nahezu fertig** — alle 6 Abschnittsdateien vollständig ausformuliert. Einziger offener Punkt: **Förderkennzeichen (FKZ)** in `01_basisdaten.md` (aus Förderbescheid, muss Prof. Albert liefern). Alle anderen TODOs wurden inzwischen befüllt (Laufzeit, Workshop-Datum, Hardware). | FKZ von Prof. Albert einholen → eintragen → Abschnitte zu einem Abgabedokument zusammenführen |
 | **S2** | **LIDAR-Negativbefund** in `06_empirische_untersuchung.md` einarbeiten | ⚠️ Vollständiger Entwurf liegt in `Buch/Entwuerfe/H1_lidar_scanning.md` vor (inkl. Gaussian Splatting Ausblick, Handlungsempfehlungen). **Noch nicht** in `06_empirische_untersuchung.md` eingefügt. | Copy-in: Abschnitt nach „Verhaltensbeobachtung" in `06_empirische_untersuchung.md` einfügen |
 | **S3** | **360°-Fotografie-Fallstudie** (Stefan Bruns, sportboot-gutachter.de) — *Experiment aus Vorgängerprojekt, Ergebnisse für dieses Projekt verwertbar* | ⚠️ Entwurf in `Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`: Technische Umsetzung (Skybox, POI, Navigation) beschrieben. Offene Punkte: Einverständnis Stefan Bruns, Anzahl Aufnahmepositionen, Nutzertestergebnisse, eingesetzte VR-Hardware, Bewertung Praxispartner. Noch nicht in `06_empirische_untersuchung.md` integriert. | Rücksprache Stefan Bruns → offene Infos einholen → Entwurf finalisieren → als übertragener Befund aus Vorgängerprojekt einarbeiten |
-| **S4** | **VR-Messestand-Fallstudie** (Orion / Omnicon Group / Neox Studios) — *Experiment aus Vorgängerprojekt, Ergebnisse für dieses Projekt verwertbar* | 🔴 Nur Skelett in `Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`. Zielsetzung, Aufbau, Beobachtungen und Ergebnisse sind `<!-- TODO -->`-Platzhalter. Kein einziger inhaltlicher Abschnitt fertig. **Nicht** im Zwischenbericht dieses Projekts enthalten, da dem Vorgängerprojekt zuzurechnen. | Partner-Einverständnis klären, Details zum Experiment liefern, dann Entwurf für Übernahme in Buchkapitel 06 befüllen |
+| **S4** | **VR-Messestand-Fallstudie** (Orion / Omnicon Group / Neox Studios) — *Experiment aus Vorgängerprojekt, Ergebnisse für dieses Projekt verwertbar* | ⚠️ **Gestenperzeptionstest vollständig dokumentiert** (`Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`): Protokoll (2 Runden, Distanzvergleich ~2,5 m vs. ~6,5 m, Moderator-Rollenwechsel) beschrieben; empirische Daten eingetragen (N=12, 45 Gesten, **0 % Fehlerquote**). Offen: Messe-Hauptszenario (Zielsetzung, Aufbau der Halle, Produktpräsentation, Navigation, Hauptergebnisse) sowie Partner-Einverständnis und distanzweise Fehlerquoten-Aufschlüsselung. **Nicht** im Zwischenbericht dieses Projekts enthalten, da dem Vorgängerprojekt zuzurechnen. | Partner-Einverständnis klären → Messe-Hauptszenario befüllen (Details von Prof. Albert/Partnern einholen) → distanzweise Fehlerquote nachpflegen |
 | **S5** | **Meta Quest DSGVO-Analyse** → `08_technische_implementation.md` | ⚠️ Generischer Datenschutzabschnitt in `08` vorhanden (ab „Sicherheits- und Datenschutzaspekte in VR"). Keine Meta-Quest-spezifische DSGVO-Analyse. Im Zwischenbericht (4.5) explizit als ausstehend dokumentiert; konzeptionelle Einschätzung (Meta Quest nicht empfehlenswert) bereits vermerkt. | Vollständiges Unterkapitel verfassen: biometrische Daten, Meta-Datenweitergabe, ULD SH als Aufsichtsbehörde, DSGVO-konforme Alternativen (Varjo, HTC Vive) |
 
 ### 🟡 KURZFRISTIG (Wochen)
@@ -91,10 +91,10 @@ Buch/
 - ✅ Qualitative Inhaltsanalyse: 102 codierte Aussagen, 6 Kategorien (n=15)
 - ✅ `literatur.bib` um peer-reviewed Studien zu VR-Verhandlungen ergänzt
 - ✅ 20 SH-Testfälle mit Deckungsanalyse erstellt
-- ✅ Zwischenbericht-Struktur aufgebaut (`Zwischenbericht/`, 6 Abschnittsdateien, Hauptinhalte verfasst)
+- ✅ Zwischenbericht nahezu fertiggestellt (`Zwischenbericht/`, alle 6 Abschnittsdateien vollständig ausformuliert — nur FKZ fehlt noch)
 - ✅ LIDAR-Entwurf fertiggestellt (`Buch/Entwuerfe/H1_lidar_scanning.md`, inkl. Gaussian Splatting Ausblick)
 - ✅ 360°-Fotografie-Entwurf angelegt (`Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`, Technikteil beschrieben) — *Experiment stammt aus Vorgängerprojekt; Ergebnisse werden als übertragener Befund ins Buch integriert*
-- ✅ VR-Messestand-Entwurf als Skelett angelegt (`Buch/Entwuerfe/S4_vr_messestand_fallstudie.md`) — *Experiment stammt aus Vorgängerprojekt; Ergebnisse werden als übertragener Befund ins Buch integriert*
+- ✅ VR-Messestand-Entwurf: Gestenperzeptionstest vollständig dokumentiert (`Buch/Entwuerfe/S4_vr_messestand_fallstudie.md` — N=12, 45 Gesten, 0 % Fehlerquote, Distanzprotokoll ~2,5 m vs. ~6,5 m) — *Messe-Hauptszenario noch offen; Experiment stammt aus Vorgängerprojekt*
 
 ---
 
