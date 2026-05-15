@@ -61,7 +61,7 @@ Buch/
 | # | Aufgabe | Benötigte Infos |
 |---|---------|----------------|
 | **K1** | **Vorwort** (`index.md`) verfassen | Ton (persönlich/akademisch)? Förderung erwähnen? Zielgruppe direkt ansprechen? |
-| **K2** | **Muse S EEG-Negativbefund** → `06_empirische_untersuchung.md` | Keine — Begründung in OFFENE_PUNKTE.md H4 vollständig |
+| **K2** | **Muse S EEG-Negativbefund** → `06_empirische_untersuchung.md` | ⚠️ Entwurf liegt in `Buch/Entwuerfe/K2_muse_s_eeg_negativbefund.md` vor (Methodenreflexion: Ausgangsfrage, Drei-Ebenen-Bewertung, Handlungsempfehlung, Wearable-Ausblick inkl. Eye-Tracking). **Noch nicht** in `06_empirische_untersuchung.md` eingefügt. → Copy-in: nach „Verhaltensbeobachtung (CIPD-Kodierung)" einfügen |
 | **K3** | **DSGVO-konforme VR-Hardware-Alternativen** (Varjo, HTC Vive etc.) | Tabelle oder Entscheidungsbaum-Grafik? |
 | **K4** | **ULD Schleswig-Holstein** als Aufsichtsbehörde referenzieren | ULD-Stellungnahme zu VR-Biometrik bekannt? |
 | **K5** | **Testfall-Deckungslücken** schließen (🔴 aus `testcases_coverage.md`) | Sollen alle kritischen Lücken in einem Durchgang adressiert werden? |
