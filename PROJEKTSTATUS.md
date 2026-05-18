@@ -1,5 +1,5 @@
 # PROJEKTSTATUS — VR im Mittelstand
-> Stand: 2026-05-13 · Für neue Sessions: Diese Datei zuerst lesen, dann README.md und OFFENE_PUNKTE.md
+> Stand: 2026-05-18 · Für neue Sessions: Diese Datei zuerst lesen, dann README.md und OFFENE_PUNKTE.md
 
 ---
 
@@ -64,9 +64,9 @@ Buch/
 | **K2** | **Muse S EEG-Negativbefund** → `06_empirische_untersuchung.md` | ⚠️ Entwurf liegt in `Buch/Entwuerfe/K2_muse_s_eeg_negativbefund.md` vor (Methodenreflexion: Ausgangsfrage, Drei-Ebenen-Bewertung, Handlungsempfehlung, Wearable-Ausblick inkl. Eye-Tracking). **Noch nicht** in `06_empirische_untersuchung.md` eingefügt. → Copy-in: nach „Verhaltensbeobachtung (CIPD-Kodierung)" einfügen |
 | **K3** | **DSGVO-konforme VR-Hardware-Alternativen** (Varjo, HTC Vive etc.) | Tabelle oder Entscheidungsbaum-Grafik? |
 | **K4** | **ULD Schleswig-Holstein** als Aufsichtsbehörde referenzieren | ULD-Stellungnahme zu VR-Biometrik bekannt? |
-| **K5** | **Testfall-Deckungslücken** schließen (🔴 aus `testcases_coverage.md`) | Sollen alle kritischen Lücken in einem Durchgang adressiert werden? |
-| **K6** | **Spieltheorie → Ergebnisse** quantitativ verbinden | Unity-Rohdaten (Allokationen aus Spielclient) verfügbar? |
-| **K7** | **Hypothesen-Zuordnung** (PDF S. 19–20) abgleichen | Framework_v2 PDF direkt einsehbar? |
+| **K5** | **Testfall-Deckungslücken** schließen (🔴 aus `testcases_coverage.md`) | ⚠️ Vier kritische Lücken, unterschiedlicher Status: **(1) Meta Quest DSGVO** → S5; **(2) Berufsgeheimnisschutz** (F08, F13, F18) → Entwurf fertig: `Buch/Entwuerfe/K5_berufsgeheimnisschutz.md` ✅; **(3) Eigene Feldexperimente** (F03, F07) → S2/S3/S4; **(4) Betriebsrat §87 BetrVG** (F14) → Entwurf fertig: `Buch/Entwuerfe/K5_betriebsrat.md` ✅. **Klarstellung:** Punkte (2) und (4) sind nicht VR-spezifisch. Berufsgeheimnisschutz betrifft die Plattformwahl (Meta mit Datenverwertungsgeschäftsmodell vs. neutrale Infrastruktur) — löst sich durch dieselbe Plattformentscheidung wie S5. §87 BetrVG gilt wie für jeden Firmenlaptop und greift nur bei aktiven Monitoring-Features (Eye-Tracking, Aufzeichnung, Produktivitätsmetriken), nicht beim Einsatz als reines Collaboration-Tool. Beide Entwürfe sind als kurze Einschübe formuliert, keine eigenständigen Rechtskapitel. |
+| **K6** | **Spieltheorie → Ergebnisse** quantitativ verbinden | ⚠️ **Klarstellung:** Qualitative Auswertung bereits vollständig in `spieltheorie.md` Abschnitt 3.10 (H1/H2 partiell, H4/H9/H10/H14/H16–H18 klar bestätigt). Allokationsrohdaten aus Unity sind nicht für Publikation freigegeben; quantitative Prüfung der allokationsbezogenen Hypothesen (H1, H7) ist damit im aktuellen Projektrahmen nicht möglich. **Drei Alternativen — empfohlen ist (A):** **(A)** Workshop explizit als explorative Pilotstudie rahmen: qualitative Evidenz ist wissenschaftlich ausreichend; quantitative Prüfung als Aufgabe der Folgestudie (→ M1 KI-Avatar-Workshop) benennen — Formulierung „ausstehend" in Abschnitt 3.10 entsprechend ersetzen. **(B)** Simulationsbasierter Benchmark: Modell aus `spieltheorie.md` rechnerisch durchlaufen, theoretische Gleichgewichtsallokationen als Vergleichsfolie generieren (kein Teilnehmerdatenzugang nötig). **(C)** CIPD-Daten als Proxy: bestehende Beobachtungsmetriken (Gesten, Fragen an Versuchsleitung) als quantitative Indikatoren für einzelne Hypothesen nutzen. |
+| **K7** | **Hypothesen-Zuordnung** (PDF S. 19–20) abgleichen | ⚠️ **Klarstellung:** Hypothesenkatalog H1–H18 existiert vollständig in `spieltheorie.md` Abschnitt 3.9 — bezieht sich ausschließlich auf den Principal-Agent-Workshop (nicht auf „VR in KMU" allgemein). Alle 18 Hypothesen sind bereits Framework-Domänen zugeordnet (Spalte „Framework-Domäne" in der Übersichtstabelle). Offener Punkt: Das Framework-Dokument (`Framework_v2`) enthält auf S. 19–20 eigene Hypothesen/Propositionen, die noch nicht mit H1–H18 abgeglichen wurden. Erfordert Einsicht in `Framework_v2.drawio` oder einen PDF-Export davon. **Es fehlt kein Hypothesenkatalog** — es fehlt nur die Überprüfung, ob die Framework-PDF-Hypothesen durch H1–H18 abgedeckt sind oder ob ergänzende Hypothesen (z. B. zu anderen Meeting-Typen) formuliert werden müssen. |
 
 ### 🟢 MITTELFRISTIG (Monate)
 
@@ -95,6 +95,8 @@ Buch/
 - ✅ LIDAR-Entwurf fertiggestellt (`Buch/Entwuerfe/H1_lidar_scanning.md`, inkl. Gaussian Splatting Ausblick)
 - ✅ 360°-Fotografie-Entwurf angelegt (`Buch/Entwuerfe/S3_360grad_fotografie_fallstudie.md`, Technikteil beschrieben) — *Experiment stammt aus Vorgängerprojekt; Ergebnisse werden als übertragener Befund ins Buch integriert*
 - ✅ VR-Messestand-Entwurf: Gestenperzeptionstest vollständig dokumentiert (`Buch/Entwuerfe/S4_vr_messestand_fallstudie.md` — N=12, 45 Gesten, 0 % Fehlerquote, Distanzprotokoll ~2,5 m vs. ~6,5 m) — *Messe-Hauptszenario noch offen; Experiment stammt aus Vorgängerprojekt*
+- ✅ Berufsgeheimnisschutz-Einschub verfasst (`Buch/Entwuerfe/K5_berufsgeheimnisschutz.md`) — für Kap. 08; klärt: nicht VR-spezifisch, betrifft Plattformwahl (Meta vs. neutraler Anbieter)
+- ✅ Betriebsrat / §87 BetrVG-Einschub verfasst (`Buch/Entwuerfe/K5_betriebsrat.md`) — für Kap. 10; klärt: greift nur bei aktiven Monitoring-Features, nicht bei Standard-Collaboration-Einsatz
 
 ---
 
