@@ -2,10 +2,9 @@
 
 Das Projekt „VR im Mittelstand" entwickelt eine praxisorientierte Entscheidungshilfe für KMU
 in Schleswig-Holstein zum Einsatz von Virtual Reality — insbesondere für den Bereich
-unternehmensinterner Meetings und Zusammenarbeit. Im ersten Projektjahr wurde das konzeptionelle
-Fundament gelegt: ein empirisch gestütztes Framework für Meeting-Typen, ein Hypothesenkatalog
+beruflicher Meetings und Zusammenarbeit. In der initialen Projektphase wurde das konzeptionelle Fundament gelegt: ein empirisch gestütztes Framework für Meeting-Typen, ein Hypothesenkatalog
 (H1–H18) sowie der Grundaufbau der Forschungsplattform. Der vorliegende Bericht dokumentiert
-den Fortschritt des **zweiten Projektjahres**, in dem die Forschungsplattform fertiggestellt,
+den aktuellen Projektfortschritt, in dem die Forschungsplattform fertiggestellt,
 das erste Hauptexperiment durchgeführt und das Leitfaden-Manuskript zu einem vollständigen
 Entwurf ausgearbeitet wurde.
 
