@@ -23,6 +23,9 @@ eigenen Workshop-Experiment und bildet das Rückgrat des Sieben-Domänen-Framewo
 Ergänzend wurde ein **Hypothesenkatalog (H1–H18)** entwickelt, der die zentralen
 Forschungsannahmen des Projekts multidisziplinär fundiert und mit Literaturbelegen versieht.
 
+Als Nebenprodukt entstanden in dieser Phase die strukturellen Grundlagen des geplanten
+Praxisleitfadens (→ AP 2).
+
 ---
 
 ## AP 2: Leitfaden erarbeiten
@@ -30,11 +33,13 @@ Forschungsannahmen des Projekts multidisziplinär fundiert und mit Literaturbele
 **Beschreibung laut Antrag:** Framework zur Beschreibung von Meetings; Ermöglichen einer
 realistischen Kostenschätzung durch die Analogiemethode; Aufzeigen von Herausforderungen.
 
-**Status: ✅ Weit fortgeschritten (Manuskript vollständig, Restpunkte in Bearbeitung)**
+**Status: 🔄 In Bearbeitung — Grundstruktur im Berichtszeitraum angelegt, Ausarbeitung läuft (ab 2026)**
 
-Das zentrale Transferprodukt — ein **praxisorientiertes Handbuch für KMU-Entscheider** —
-liegt als vollständig strukturiertes Buchmanuskript in neunzehn Markdown-Kapiteln vor
-(Rendering via Quarto + Typst). Die Kapitelstruktur folgt dem Sieben-Domänen-Framework:
+Im Berichtszeitraum wurde die Grundstruktur des zentralen Transferprodukts — eines
+**praxisorientierten Handbuchs für KMU-Entscheider** — als Buchmanuskript in neunzehn
+Markdown-Kapiteln angelegt (Rendering via Quarto + Typst). Die Kapitelstruktur folgt dem
+Sieben-Domänen-Framework; der aktuelle Bearbeitungsstand (Mai 2026) ist der folgenden
+Tabelle zu entnehmen:
 
 | Kapitel | Inhalt | Status |
 |---------|--------|--------|
@@ -43,7 +48,7 @@ liegt als vollständig strukturiertes Buchmanuskript in neunzehn Markdown-Kapite
 | Kap. 03 | Betriebswirtschaftlicher Nutzen (inkl. Analogiemethode zur Kostenschätzung) | ✅ |
 | Kap. 04 | Anwendungsszenarien (Meeting-Taxonomie, belegte Fallstudien) | ✅ |
 | Kap. 05 | Wissenschaftliche Basis (UTAUT, Spieltheorie) | ✅ |
-| Kap. 06 | Empirische Untersuchung | ✅ (Feldexperimente werden ergänzt) |
+| Kap. 06 | Empirische Untersuchung | ✅ (Feldexperiment-Befunde werden ergänzt) |
 | Kap. 07 | Person und Individuum | ✅ |
 | Kap. 08 | Technische Implementation | ⚠️ DSGVO-Analyse Meta Quest ausstehend |
 | Kap. 09 | Trends und Zukunft | ✅ |
@@ -62,21 +67,36 @@ wurden 16 fiktive Fallstudien identifiziert und durch belegte Praxisfälle erset
 **Beschreibung laut Antrag:** UTAUT zur Einordnung der Probanden; Pilotprojekte/Experimente
 mit konkreten Meeting-Typen; Interviews zur Einordnung der Erkenntnisse.
 
-**Status: ✅ Kernstudie abgeschlossen / 🔄 Feldexperimente laufend**
+**Status: ✅ Kernstudie abgeschlossen / 🔄 Integration von Vorläuferprojekt-Befunden läuft (2026)**
+
+### Praxisexperiment H1: LIDAR-Scanning (Negativbefund)
+
+Erprobt wurde, ob iPhones mit LIDAR-Sensor für die Erstellung VR-tauglicher 3D-Scans von
+Objekten und Räumen geeignet sind. Als Testgeräte wurden zwei iPhone 15 Pro eingesetzt, die
+explizit für dieses Projekt angeschafft wurden. Die Entscheidung für Apple-Hardware folgte
+einem bewussten Kriterium: Das iPhone ist in KMU-Belegschaften weit verbreitet, sodass eine
+etwaige Reproduzierbarkeit der Ergebnisse ohne zweckgebundene Spezialhardware gewährleistet
+ist — ein zentrales Argument für die Übertragbarkeit auf den Mittelstand.
+
+Die Scans wurden mit der App „3D Scanner App" durchgeführt. Das Ergebnis war ein klarer
+Negativbefund: Detailverlust, Loch-Artefakte und physikalisch bedingte Transparenzprobleme
+machen Consumer-LIDAR für professionelle VR-Inhalte aktuell ungeeignet. Der Befund fließt
+direkt als Handlungsempfehlung in den Leitfaden ein.
 
 ### Unity-Applikation (Forschungsplattform)
 
-Als Grundlage für alle Pilotprojekte wurde eine **Unity-basierte VR-Multiplayer-Applikation**
-nach dem Principal-Agent-Paradigma entwickelt. Die Applikation bildet ein
-Unternehmens-Verhandlungsszenario ab, in dem drei Teilnehmende als Führungskräfte über die
-Verteilung strategischer Ressourcen verhandeln. Der Quellcode ist öffentlich verfügbar:
+Als Grundlage für alle weiteren Pilotprojekte wurde eine **Unity-basierte
+VR-Multiplayer-Applikation** nach dem Principal-Agent-Paradigma entwickelt. Die Applikation
+bildet ein Unternehmens-Verhandlungsszenario ab, in dem drei Teilnehmende als Führungskräfte
+über die Verteilung strategischer Ressourcen verhandeln. Der Quellcode wird in einem privaten GitHub-Repository verwaltet:
 https://github.com/phillipja/BeyondRealityResearch
 
 ### Workshop-Experiment: VR-Verhandlungsstudie (n=15)
 
 **Durchführungszeitraum:** 13. November – 2. Dezember 2025
 
-**Eingesetzte VR-Hardware:** Zwei Meta Quest Pro und eine Meta Quest 3 — diese Geräte waren bereits vor Projektbeginn vorhanden und wurden nicht eigens für dieses Projekt angeschafft.
+**Eingesetzte VR-Hardware:** Zwei Meta Quest Pro und eine Meta Quest 3 — diese Geräte waren
+bereits vor Projektbeginn vorhanden und wurden nicht eigens für dieses Projekt angeschafft.
 
 **Probanden-Einordnung (UTAUT-Referenz):** Die Technikaffinität wurde mit der ATI-Kurzskala
 (3 Items, Skala 1–6) erhoben. Die Stichprobe (BWL-Erstsemester, Studiengang „Digitale
@@ -100,19 +120,15 @@ Verhaltensbeobachtung nach CIPD-Kodierung, qualitative Kurzinterviews.
 - **Praxispotenzial:** Genannte geeignete Szenarien: Kreativ-Workshops, Strategie-Meetings,
   Lernveranstaltungen. Weniger geeignet: Routine-Kommunikation.
 
-### Praxisexperiment H1: LIDAR-Scanning (Negativbefund)
+### Ergänzende Fallstudien aus Vorläuferprojekt (Integration in 2026)
 
-Erprobt wurde, ob iPhones mit LIDAR-Sensor für die Erstellung VR-tauglicher 3D-Scans von
-Objekten und Räumen geeignet sind. Als Testgeräte wurden zwei iPhone 15 Pro eingesetzt, die
-explizit für dieses Projekt angeschafft wurden. Die Entscheidung für Apple-Hardware folgte
-einem bewussten Kriterium: Das iPhone ist in KMU-Belegschaften weit verbreitet, sodass eine
-etwaige Reproduzierbarkeit der Ergebnisse ohne zweckgebundene Spezialhardware gewährleistet
-ist — ein zentrales Argument für die Übertragbarkeit auf den Mittelstand.
-
-Die Scans wurden mit der App „3D Scanner App" durchgeführt. Das Ergebnis war ein klarer
-Negativbefund: Detailverlust, Loch-Artefakte und physikalisch bedingte Transparenzprobleme
-machen Consumer-LIDAR für professionelle VR-Inhalte aktuell ungeeignet. Der Befund fließt
-direkt als Handlungsempfehlung in den Leitfaden ein.
+Zwei weitere Praxisprojekte wurden im Rahmen eines Vorläuferprojekts durchgeführt, jedoch
+bislang nicht ausgewertet: eine **360°-Fotografie-Anwendung** auf Basis von
+Skybox-Technologie für Besichtigungsszenarien sowie ein **VR-Messestand-Experiment** mit
+einem Gestenperzeptionstest (N=12, 45 Gesten, 0 % Fehlerquote). Da die Befunde beider
+Projekte auf den KMU-Einsatz von VR übertragbar sind, fließen sie als Praxisbeispiele in
+den abschließenden Leitfaden ein und werden in der verbleibenden Projektlaufzeit
+eingearbeitet.
 
 ---
 
@@ -122,4 +138,3 @@ direkt als Handlungsempfehlung in den Leitfaden ein.
 
 Koordination der Arbeitspakete, Abstimmung mit Praxispartnern, Betreuung des
 Softwareentwicklungs-Repositories sowie laufende Dokumentation des Projektfortschritts.
-

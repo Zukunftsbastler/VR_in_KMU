@@ -1,6 +1,35 @@
 # 4. Planabweichungen und Gegenmaßnahmen
 
-## 4.1 Empirische Studie: Stichprobe und externe Validität
+## 4.1 Verzögerter Projektstart: Genehmigungs- und Personalverzögerung
+
+**Abweichung:** Zwischen dem ursprünglich geplanten Projektbeginn (01.01.2023) und dem
+tatsächlichen operativen Start (ca. 01.06.2024) lagen rund 17 Monate. Daraus resultierten
+zwei aufeinanderfolgende Verschiebungen der Projektzeitlinie.
+
+**Hintergrund:** Das Genehmigungsverfahren beim Fördermittelgeber dauerte bis Ende 2023,
+sodass die formale Projektlaufzeit erst ab 01.01.2024 beginnt — ein Jahr später als
+ursprünglich beantragt. Parallel dazu war die ursprünglich für das Projekt eingeplante
+wissenschaftliche Hilfskraft bis zur Projektgenehmigung nicht mehr verfügbar: Ihr
+Arbeitsvertrag hatte bereits Ende 2022 / Anfang 2023 geendet. Die erneute Ausschreibung
+und Besetzung der Stelle führte zu einem weiteren operativen Anlaufverzug von rund fünf
+Monaten innerhalb des formalen Projektzeitraums.
+
+**Gegenmaßnahme:** Das Projektende verschob sich auf zwei Wegen nach hinten:
+
+Erstens verschob sich das Ende durch den verzögerten operativen Start automatisch um
+fünf Monate — von ursprünglich 31.12.2025 auf 31.05.2026.
+
+Zweitens konnten aufgrund von Budgetunterschreitungen — die neu eingestellte Hilfskraft
+verfügt über einen Bachelorabschluss, während im Projektantrag ein Masterabschluss-Gehalt
+bewilligt worden war — sieben weitere Monate
+kostenneutral beantragt und genehmigt werden.
+
+Das Projekt läuft damit insgesamt bis 31.12.2026; die verbleibende Projektlaufzeit ist
+ausreichend, um alle geplanten Arbeitspakete vollständig abzuschließen.
+
+---
+
+## 4.2 Empirische Studie: Stichprobe und externe Validität
 
 **Abweichung:** Die Kernstudie (Workshop-Experiment) wurde mit BWL-Erstsemesterstudierenden
 (n=15) statt mit KMU-Mitarbeitenden durchgeführt.
@@ -15,7 +44,7 @@ Die Stichprobe ist methodisch begründet (homogene Ausgangssituation, heterogene
 
 ---
 
-## 4.2 LIDAR-Scanning: Technologiereife geringer als erwartet
+## 4.3 LIDAR-Scanning: Technologiereife geringer als erwartet
 
 **Abweichung:** Das Consumer-LIDAR-Experiment (H1) lieferte einen Negativbefund. Die Technologie
 ist für professionelle VR-Anwendungen im KMU-Kontext noch nicht einsatzbereit.
@@ -40,7 +69,7 @@ die im Experiment H1 eingesetzte Hardware (iPhone 15 Pro) ist dafür ausreichend
 
 ---
 
-## 4.3 Messinstrumente: Kurzinstrumente statt vollem UTAUT-Survey
+## 4.4 Messinstrumente: Kurzinstrumente statt vollem UTAUT-Survey
 
 **Abweichung:** Im Projektantrag (AP3) war die Einordnung der Probanden mittels UTAUT
 (Unified Theory of Acceptance and Use of Technology, Venkatesh et al. 2003) vorgesehen.
@@ -63,7 +92,7 @@ Expectancy oder Behavioral Intention), aber methodisch bewusst in Kauf genommen.
 
 ---
 
-## 4.4 DSGVO-Analyse Meta Quest: Noch offen
+## 4.5 DSGVO-Analyse Meta Quest: Noch offen
 
 **Abweichung:** Die datenschutzrechtliche Analyse der Meta Quest für den Unternehmenseinsatz
 (geplant für Kapitel 08 des Handbuchs) steht noch aus.
@@ -75,4 +104,4 @@ eine sorgfältige juristische Einordnung.
 **Gegenmaßnahme:** Die konzeptionelle Einschätzung (Meta Quest für vertrauliche/personenbezogene
 Kontexte nicht empfehlenswert) ist im Handbuch bereits vermerkt. Die ausführliche Analyse
 inklusive Verweis auf die Aufsichtsbehörde ULD Schleswig-Holstein und datenschutzkonforme
-Alternativen (Varjo, HTC Vive etc.) wird im laufenden Berichtszeitraum eingearbeitet.
+Alternativen (Varjo, HTC Vive etc.) wird in der verbleibenden Projektlaufzeit (2026) eingearbeitet.

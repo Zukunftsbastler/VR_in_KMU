@@ -2,24 +2,37 @@
 
 Das Projekt „VR im Mittelstand" entwickelt eine praxisorientierte Entscheidungshilfe für KMU
 in Schleswig-Holstein zum Einsatz von Virtual Reality — insbesondere für den Bereich
-beruflicher Meetings und Zusammenarbeit. In der initialen Projektphase wurde das konzeptionelle Fundament gelegt: ein empirisch gestütztes Framework für Meeting-Typen, ein Hypothesenkatalog
-(H1–H18) sowie der Grundaufbau der Forschungsplattform. Der vorliegende Bericht dokumentiert
-den aktuellen Projektfortschritt, in dem die Forschungsplattform fertiggestellt,
-das erste Hauptexperiment durchgeführt und das Leitfaden-Manuskript zu einem vollständigen
-Entwurf ausgearbeitet wurde.
+beruflicher Meetings und Zusammenarbeit. Der vorliegende Bericht dokumentiert den
+Projektverlauf im Berichtszeitraum 01.01.2024 bis 31.12.2025. Da die Gewinnung der
+wissenschaftlichen Mitarbeiterstelle rund sechs Monate in Anspruch nahm, beläuft sich die
+effektive Projektlaufzeit im Berichtszeitraum auf etwa eineinhalb Jahre.
 
-Im Berichtszeitraum wurden folgende Kernleistungen erbracht: Erstens wurde die
-**Unity-basierte VR-Multiplayer-Applikation** nach dem Principal-Agent-Paradigma, deren
-Entwicklung im ersten Projektjahr begann, im zweiten Projektjahr fertiggestellt. Die
-Applikation bildet ein Unternehmens-Verhandlungsszenario ab und dient als Forschungsplattform
-für kollaborative Szenarien in virtuellen Meetings. Zweitens wurde auf Basis dieser Applikation
-ein **empirischer Workshop** mit 15 Teilnehmenden in fünf Gruppen durchgeführt und vollständig
-ausgewertet — mit dem Ergebnis, dass VR-Meetings eine hohe hedonische Qualität und natürliche
-Interaktionsmuster erzeugen, jedoch gezielte Maßnahmen gegen Motion Sickness und
-Interface-Unübersichtlichkeit erfordern. Drittens liegt das **Handbuch für KMU-Entscheider**
-als vollständig strukturiertes Buchmanuskript in neunzehn Kapiteln und Anhängen vor, das das
-entwickelte Sieben-Domänen-Framework, betriebswirtschaftliche Bewertungswerkzeuge und konkrete
-Handlungsempfehlungen integriert.
+Die Arbeiten verliefen in folgender Abfolge: Zunächst wurde auf Basis einer systematischen
+Literaturrecherche das konzeptionelle Fundament gelegt — ein empirisch gestütztes
+**Framework für VR-geeignete Meeting-Typen** mit acht Bewertungsdimensionen sowie ein
+multidisziplinärer **Hypothesenkatalog (H1–H18)**. Als Nebenprodukt entstanden in dieser
+Phase die strukturellen Grundlagen des geplanten Praxisleitfadens.
 
-Das Projekt ist auf Kurs; die für das zweite Projektjahr geplanten Arbeitspakete sind
-vollständig oder weit fortgeschritten bearbeitet.
+Im Anschluss wurde das **Praxisexperiment H1 (LIDAR-Scanning)** durchgeführt: Erprobt wurde,
+ob Smartphones mit LIDAR-Sensor (zwei eigens angeschaffte iPhone 15 Pro) für die Erstellung
+VR-tauglicher 3D-Scans geeignet sind. Das Ergebnis war ein klarer Negativbefund —
+Consumer-LIDAR ist für professionelle VR-Inhalte noch nicht einsatzbereit — der als fundierte
+Handlungsempfehlung direkt in den Leitfaden einfließt.
+
+Die Kernleistung des Berichtzeitraums ist die **Unity-basierte VR-Multiplayer-Applikation** nach dem
+Principal-Agent-Paradigma. Die Applikation bildet ein Unternehmens-Verhandlungsszenario ab,
+in dem Führungskräfte über die Verteilung strategischer Ressourcen verhandeln, und dient als
+Forschungsplattform für alle Folgeexperimente.
+
+Zum Abschluss des Berichtszeitraums wurde auf Basis dieser Applikation ein **empirischer
+Workshop** mit 15 Teilnehmenden in fünf Gruppen durchgeführt und vollständig ausgewertet
+(November–Dezember 2025). Zentrale Befunde: VR-Meetings erzeugen eine hohe hedonische
+Qualität (UEQ-S ∅ 6,18/7) und natürliche Interaktionsmuster, erfordern jedoch gezielte
+Maßnahmen gegen Motion Sickness (38 % der Teilnehmenden betroffen) und
+Interface-Unübersichtlichkeit.
+
+Das Projekt ist auf Kurs. In der verbleibenden Projektlaufzeit (2026) sind drei Arbeitsschwerpunkte
+geplant: die Erweiterung der Unity-Applikation um einen **KI-gesteuerten Prinzipal**, der die
+Rolle eines abwesenden Verhandlungspartners übernimmt; darauf aufbauende **Folge-Workshops**
+zur Untersuchung von KI-Avataren in VR-Meetings; sowie die Fertigstellung des
+**Praxisleitfadens** unter Einarbeitung aller Experimentbefunde und ergänzender Fallstudien.

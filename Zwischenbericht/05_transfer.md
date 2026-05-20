@@ -6,8 +6,9 @@ Das zentrale Transferprodukt des Projekts ist das **praxisorientierte Handbuch f
 KMU-Entscheider**, das auf Basis der empirischen Befunde und des Sieben-Domänen-Frameworks
 erarbeitet wird. Es richtet sich explizit an Unternehmensverantwortliche ohne technischen
 Hintergrund und soll nach Abschluss des Projekts frei zugänglich veröffentlicht werden.
-Das Manuskript liegt als vollständig strukturierter Entwurf in neunzehn Kapiteln vor
-(→ Abschnitt 3, AP 2); die Fertigstellung ist für die kommende Projektphase geplant.
+Die Grundstruktur des Manuskripts in neunzehn Kapiteln wurde im Berichtszeitraum angelegt
+(→ Abschnitt 3, AP 2); die vollständige Ausarbeitung ist Gegenstand der verbleibenden
+Projektlaufzeit (2026).
 
 ---
 
@@ -35,5 +36,5 @@ Das zugehörige Unity-Repository ist derzeit nicht öffentlich zugänglich.
 Der geografische Fokus auf Schleswig-Holstein und den deutsch-dänischen Grenzraum ist
 Bestandteil der Projektstrategie und des Förderkontexts (LandSH). Im Berichtszeitraum
 wurden noch keine strukturierten Aktivitäten in regionalen Netzwerken (WTSH, IB.SH, IHK,
-Interreg) durchgeführt. Der Aufbau regionaler Kooperationen ist für die kommende Projektphase
+Interreg) durchgeführt. Der Aufbau regionaler Kooperationen ist für die verbleibende Projektlaufzeit (2026)
 vorgesehen, sobald der Leitfaden einen veröffentlichungsreifen Stand erreicht hat.
