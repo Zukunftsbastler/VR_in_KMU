@@ -1,38 +1,8 @@
 # 2. Zusammenfassung (Management Summary)
 
-Das Projekt „VR-Leitfaden" entwickelt eine praxisorientierte Entscheidungshilfe für KMU
-in Schleswig-Holstein zum Einsatz von Virtual Reality — insbesondere für den Bereich
-beruflicher Meetings und Zusammenarbeit. Der vorliegende Bericht dokumentiert den
-Projektverlauf im Berichtszeitraum 01.01.2024 bis 31.12.2025. Da die Gewinnung der
-wissenschaftlichen Mitarbeiterstelle rund fünf Monate in Anspruch nahm, beläuft sich die
-effektive Projektlaufzeit im Berichtszeitraum auf etwa eineinhalb Jahre.
-
-Die Arbeiten verliefen in folgender Abfolge: Zunächst wurde auf Basis einer systematischen
-Literaturrecherche das konzeptionelle Fundament gelegt — ein empirisch gestütztes
-**Framework für VR-geeignete Meeting-Typen** mit acht Bewertungsdimensionen sowie ein
-multidisziplinärer **Hypothesenkatalog (H1–H18)**. Als Nebenprodukt entstanden in dieser
-Phase die strukturellen Grundlagen des geplanten Praxisleitfadens.
-
-Im Anschluss wurde das **Praxisexperiment H1 (LIDAR-Scanning)** durchgeführt: Erprobt wurde,
-ob Smartphones mit LIDAR-Sensor (zwei eigens angeschaffte iPhone 15 Pro) für die Erstellung
-VR-tauglicher 3D-Scans geeignet sind. Das Ergebnis war ein klarer Negativbefund —
-Consumer-LIDAR ist für professionelle VR-Inhalte noch nicht einsatzbereit — der als fundierte
-Handlungsempfehlung direkt in den Leitfaden einfließt.
-
-Die Kernleistung des Berichtszeitraums ist die **Unity-basierte VR-Multiplayer-Applikation** nach dem
-Principal-Agent-Paradigma. Die Applikation bildet ein Unternehmens-Verhandlungsszenario ab,
-in dem Führungskräfte über die Verteilung strategischer Ressourcen verhandeln, und dient als
-Forschungsplattform für alle Folgeexperimente.
-
-Zum Abschluss des Berichtszeitraums wurde auf Basis dieser Applikation ein **empirischer
-Workshop** mit 15 Teilnehmenden in fünf Gruppen durchgeführt und vollständig ausgewertet
-(November–Dezember 2025). Zentrale Befunde: VR-Meetings erzeugen eine hohe hedonische
-Qualität (UEQ-S ∅ 6,18/7) und natürliche Interaktionsmuster, erfordern jedoch gezielte
-Maßnahmen gegen Motion Sickness (38 % der Teilnehmenden betroffen) und
-Interface-Unübersichtlichkeit.
-
-Das Projekt ist auf Kurs. In der verbleibenden Projektlaufzeit (2026) sind drei Arbeitsschwerpunkte
-geplant: die Erweiterung der Unity-Applikation um einen **KI-gesteuerten Prinzipal**, der die
-Rolle eines abwesenden Verhandlungspartners übernimmt; darauf aufbauende **Folge-Workshops**
-zur Untersuchung von KI-Avataren in VR-Meetings; sowie die Fertigstellung des
-**Praxisleitfadens** unter Einarbeitung aller Experimentbefunde und ergänzender Fallstudien.
+Das Projekt „VR-Leitfaden" entwickelt eine praxisorientierte Entscheidungshilfe für KMU in Schleswig-Holstein zur Entscheidung für oder gegen Virtual Reality (VR) für die berufliche Zusammenarbeit. Der vorliegende Bericht dokumentiert den Projektverlauf im Berichtszeitraum vom 01.01.2024 bis 31.12.2025. Bedingt durch eine rund fünfmonatige Rekrutierungsphase für die wissenschaftliche Mitarbeiterstelle beläuft sich die effektive Projektlaufzeit im Berichtszeitraum auf etwa eineinhalb Jahre.
+Die Arbeiten gliederten sich in folgende Phasen: Zunächst wurde auf Basis einer systematischen Literaturrecherche das konzeptionelle Fundament gelegt. Hieraus entstanden ein empirisch gestütztes Framework für VR-geeignete Meeting-Typen mit acht Bewertungsdimensionen sowie ein multidisziplinärer Hypothesenkatalog (H1–H18). Parallel dazu wurde eine systematische Sammlung relevanter Praxis-Cases aus existierenden Berichten sowie Befunden eines Vorläuferprojekts aufgebaut und direkt in das Framework integriert. Diese Verzahnung von Theorie und realen Praxisfällen stellt sicher, dass KMU die theoretischen Dimensionen des Frameworks unmittelbar auf ihre eigenen Betriebsabläufe übertragen und den Leitfaden optimal für sich erschließen können. In dieser Phase wurden auch die strukturellen Grundlagen des geplanten Gesamtleitfadens erarbeitet, dessen Manuskriptstruktur im Berichtszeitraum in zehn Hauptkapiteln und vier Anhängen angelegt wurde.
+Im Anschluss wurde ein dediziertes Praxisexperiment (H1: LIDAR-Scanning) durchgeführt, um eine offenkundige Forschungslücke in einem hochgradig praxisrelevanten Anwendungsfeld zu schließen: Erprobt wurde, ob mobile Endgeräte mit LIDAR-Sensor (zwei eigens angeschaffte iPhone 15 Pro) VR-taugliche 3D-Scans erzeugen können. Das Ergebnis lieferte einen klaren Negativbefund — Consumer-LIDAR ist für professionelle VR-Inhalte derzeit noch nicht einsatzbereit —, der als fundierte Handlungsempfehlung direkt in den Leitfaden einfließt, um KMU vor Fehlallokationen zu schützen.
+Die Kernleistung des Berichtszeitraums liegt in der Entwicklung einer Unity-basierten VR-Multiplayer-Applikation nach dem Principal-Agent-Paradigma. Die Applikation schließt eine signifikante Forschungslücke, indem sie gezielt das Szenario adversarieller Verhandlungen und der Kollaboration mit konkurrierenden Zielen abbildet — ein ökonomisch höchst relevanter Bereich, der in der bisherigen VR-Forschung stark unterrepräsentiert ist, für den sich VR-Umgebungen jedoch ideal eignen. Im konkreten Case verhandeln Führungskräfte über die Verteilung strategischer Ressourcen, womit die Applikation als funktionale Forschungsplattform für alle Folgeexperimente dient.
+Zum Abschluss des Berichtszeitraums (November–Dezember 2025) wurde auf Basis dieser Plattform eine Reihe von fahrplanmäßigen, fünf empirischen Workshops durchgeführt und vollständig ausgewertet. Die zentralen Befunde zeigen, dass VR-Meetings eine sehr hohe hedonische Qualität erzeugen (UEQ-S ∅ 6,18/7) und natürliche Interaktionsmuster erlauben. Gleichzeitig verweisen die empirischen Daten auf die Notwendigkeit gezielter Maßnahmen gegen Motion Sickness (38 % der Teilnehmenden betroffen) und Interface-Unübersichtlichkeit.
+Das Projekt befindet sich, gemessen an der modifizierten Zeitlinie, voll im Plan. In der bis zum 31.12.2026 genehmigten verbleibenden Laufzeit sind drei Arbeitsschwerpunkte vorgesehen: die technische Erweiterung der Unity-Applikation um einen KI-gesteuerten Prinzipal, der die Rolle eines abwesenden Verhandlungspartners übernimmt; darauf aufbauende Folge-Workshops zur Untersuchung von KI-Avataren in VR-Verhandlungsszenarien; sowie die Finalisierung und Veröffentlichung des Praxisleitfadens. Dieser wird neben den empirischen Befunden und der Case-Sammlung auch einen zukunftsweisenden Ausblick auf komplementäre Workflows wie 3D Gaussian Splatting (3DGS) ergänzt, um KMU-Entscheidern maximalen Nutzwert zu bieten.

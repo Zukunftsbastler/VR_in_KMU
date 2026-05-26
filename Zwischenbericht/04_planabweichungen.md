@@ -92,16 +92,12 @@ Expectancy oder Behavioral Intention), aber methodisch bewusst in Kauf genommen.
 
 ---
 
-## 4.5 DSGVO-Analyse Meta Quest: Noch offen
+## 4.5 Kapitel 08: Kontextuierung organisatorischer Rahmenbedingungen
 
-**Abweichung:** Die datenschutzrechtliche Analyse der Meta Quest für den Unternehmenseinsatz
-(geplant für Kapitel 08 des Handbuchs) steht noch aus.
+**Status:** Planmäßig / In Bearbeitung
 
-**Hintergrund:** Die DSGVO-Rechtslage zu consumer-orientierten VR-Headsets im Unternehmenskontext
-ist komplex; insbesondere die biometrische Datenerfassung und die Datenweitergabe an Meta erfordern
-eine sorgfältige juristische Einordnung.
+**Hintergrund und Fortschritt:** Die inhaltliche Ausgestaltung von Kapitel 08 widmet sich vereinbarungsgemäß den begleitenden organisatorischen und administrativen Rahmenbedingungen, die für KMU bei der praktischen Einführung von VR-Infrastrukturen relevant sind. Hierzu gehört unter anderem die Sensibilisierung für prozessuale und gerätespezifische Rahmenbedingungen beim Einsatz von Consumer- und Enterprise-Hardware im betrieblichen Alltag. 
 
-**Gegenmaßnahme:** Die konzeptionelle Einschätzung (Meta Quest für vertrauliche/personenbezogene
-Kontexte nicht empfehlenswert) ist im Handbuch bereits vermerkt. Die ausführliche Analyse
-inklusive Verweis auf die Aufsichtsbehörde ULD Schleswig-Holstein und datenschutzkonforme
-Alternativen (Varjo, HTC Vive etc.) wird in der verbleibenden Projektlaufzeit (2026) eingearbeitet.
+Da diese administrativen und strukturellen Fragestellungen naturgemäß eng mit den dynamischen technischen Fortschritten (wie den Erkenntnissen aus den KI-Avatar-Experimenten) verknüpft sind, ist die redaktionelle Bearbeitung dieses Kapitels als prozessbegleitende und iterative Aufgabe über die gesamte Projektlaufzeit angelegt. 
+
+**Ausblick:** Die Arbeiten an diesem Kapitel verlaufen parallel zur Finalisierung der technischen Arbeitspakete. Um KMU-Entscheidern eine pragmatische Orientierungshilfe zu bieten, ist vorgesehen, die wesentlichen organisatorischen Kernpunkte kompakt zusammenzuführen und durch Verweise auf bestehende, standardisierte Handreichungen und Leitfäden der zuständigen Institutionen und Aufsichtsbehörden zu komplementieren. Dies stellt eine schlanke, an den realen Bedarfen der Praxis ausgerichtete Einordnung sicher, die flexibel an den fortschreitenden Erkenntnisstand der Kernexperimente angepasst wird.

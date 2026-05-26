@@ -29,15 +29,10 @@ Teilnehmenden zu belasten (vgl. Planabweichung 4.4).
 
 ## 6.2 Fertigstellung des Handbuchs
 
-Die Publikationsreife des Handbuchs bis Ende der Projektlaufzeit ist das übergeordnete Ziel
-der verbleibenden Monate. Folgende Punkte sind noch ausstehend:
+Die Publikationsreife des Handbuchs bis Ende der Projektlaufzeit ist das übergeordnete Ziel der verbleibenden Monate. Folgende Punkte sind noch ausstehend:
 
-- DSGVO-Analyse Meta Quest → Kapitel 08
+- Konzeptionelle Einordnung organisatorischer Rahmenbedingungen (Bündelung bestehender Leitfäden) → Kapitel 08
 - Vorwort → `index.md`
 - Einarbeitung der LIDAR-Befunde und des Gaussian-Splatting-Ausblicks → Kapitel 06
 - Anhang D (SH-Förderprogramme) vertiefen
 - Abschließendes Rendering und Layoutkontrolle (Quarto + Typst)
-
-Das Handbuch ist das zentrale Transferprodukt des Projekts und richtet sich an
-KMU-Entscheider ohne technischen Hintergrund. Es soll nach Projektabschluss frei
-zugänglich veröffentlicht werden.

@@ -6,7 +6,7 @@ Das zentrale Transferprodukt des Projekts ist das **praxisorientierte Handbuch f
 KMU-Entscheider**, das auf Basis der empirischen Befunde und des Sieben-Domänen-Frameworks
 erarbeitet wird. Es richtet sich explizit an Unternehmensverantwortliche ohne technischen
 Hintergrund und soll nach Abschluss des Projekts frei zugänglich veröffentlicht werden.
-Die Grundstruktur des Manuskripts in neunzehn Kapiteln wurde im Berichtszeitraum angelegt
+Die Grundstruktur des Manuskripts in zehn Hauptkapiteln sowie vier Anhängen wurde im Berichtszeitraum angelegt
 (→ Abschnitt 3, AP 2); die vollständige Ausarbeitung ist Gegenstand der verbleibenden
 Projektlaufzeit (2026).
 
