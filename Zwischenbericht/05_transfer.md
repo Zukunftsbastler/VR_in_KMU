@@ -14,10 +14,9 @@ Projektlaufzeit (2026).
 
 ## 5.2 Kontakte zu Praxispartnern
 
-Im Berichtszeitraum wurden erste Gespräche mit Unternehmen aus der Region Schleswig-Holstein
-geführt, um das Projektkonzept vorzustellen und Interesse an einer späteren Zusammenarbeit
-zu sondieren. Diese Kontakte befinden sich im Aufbaustadium; konkrete Kooperationsvereinbarungen
-oder abgeschlossene gemeinsame Aktivitäten liegen noch nicht vor.
+Im Berichtszeitraum wurde ein gezielter, bilateraler Austausch mit relevanten Akteuren aus der regionalen und überregionalen Wirtschaft aufgebaut. Um eine hohe Praxisrelevanz sicherzustellen, stützt sich die Transferstrategie bewusst auf etablierte persönliche und institutionelle Netzwerke. Die Funktionen als Sprecher des Jackstädt-Zentrums Flensburg, das Engagement auf Vorstandsebene im lokalen Rotary Club sowie die kontinuierliche Betreuung branchennaher Abschlussarbeiten eröffnen direkte Zugänge zu den relevanten Entscheidungsträgern.
+Aktuell stehen wir mit einer diversifizierten Gruppe von Unternehmen im aktiven Austausch, für deren operative Prozesse die Projektergebnisse unmittelbar relevant sind. Dieses Netzwerk umfasst regionale KMU und spezialisierte Dienstleister – darunter die Blue Technology GmbH, Hanse Sportboot-Gutachter, Gloyer Architekten, die Malerei Ottens Handewitt und die Flensburger Schiffbau Gesellschaft – ebenso wie spezifische Fachabteilungen in Konzernstrukturen (etwa eine Abteilung der Deutschen Bahn mit Fokus auf Building Information Management).
+Sobald der geplante Praxisleitfaden Publikationsreife erlangt, wird er diesen und weiteren Partnern im Rahmen persönlicher Übergaben präsentiert. Dieser bilaterale Ansatz stellt sicher, dass die Befunde durch flankierende Erläuterungen exakt auf die spezifischen Anwendungsfälle der Unternehmen (z. B. BIM-Integration oder verteilte Ressourcenplanung) übersetzt werden.
 
 ---
 

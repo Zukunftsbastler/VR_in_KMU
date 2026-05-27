@@ -36,3 +36,10 @@ Die Publikationsreife des Handbuchs bis Ende der Projektlaufzeit ist das überge
 - Einarbeitung der LIDAR-Befunde und des Gaussian-Splatting-Ausblicks → Kapitel 06
 - Anhang D (SH-Förderprogramme) vertiefen
 - Abschließendes Rendering und Layoutkontrolle (Quarto + Typst)
+
+---
+
+## 6.3 Ressourcen und personelle Kontinuität
+
+Die personelle und finanzielle Planung für die verbleibende Laufzeit ist vollständig gesichert. Der wissenschaftliche Mitarbeiter (Robin Greve) wird das Projekt kontinuierlich bis zum Ende der Laufzeit betreuen, was den reibungslosen Wissenstransfer aus den ersten Experimentierphasen in die finalen Meilensteine garantiert.
+Das nach dem aktuellen Verwendungsnachweis verbleibende Restbudget ist präzise auf die ausstehenden Arbeitspakete kalkuliert. Es deckt die ressourcenintensiven Projektabschlüsse – namentlich die technische Realisierung des komplexen KI-Avatar-Experiments sowie das finale Layouting und den Druck des Leitfadens – exakt ab.
