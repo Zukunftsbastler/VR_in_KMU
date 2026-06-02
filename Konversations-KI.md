@@ -5,6 +5,31 @@
 
 ---
 
+## 0. Problem Statement / Sprint Epic: Episodic Multi-User AI Voice Assistant in VR
+
+### 1. Initial Situation
+An interactive Virtual Reality (VR) environment built in Unity requires an integrated, highly responsive AI assistant. The AI runs locally on high-performance hardware (Apple Silicon, 512GB Unified Memory) and must interact seamlessly with both the users and the dynamic environment.
+
+### 2. Core Challenges & Requirements
+
+#### A. Multimodal Real-Time Processing (Audio & JSON)
+The AI must participate in a continuous conversation without significant latency. It must process native live audio inputs while simultaneously understanding asynchronous, non-verbal data updates (e.g., environmental or machine states formatted as JSON) sent from the Unity environment. 
+
+#### B. Multi-Speaker Attribution
+At least two human participants are active in the VR space. They use separate microphones, meaning the audio is hardware-separated by channel. The AI must be able to accurately distinguish between the users, attribute statements to the correct person, and maintain social conversational context.
+
+#### C. Episodic Memory & Context Management (The 5-Minute Constraint)
+To maintain low latency and prevent KV-cache bloat, a single continuous conversation session is strictly limited to a maximum of 5 minutes. 
+* **Hard Reset:** After 5 minutes, the audio stream and the AI's context window must be completely flushed.
+* **State Summarization:** The system must generate a concise, accurate text summary of the finished round in the background.
+* **Next Round Initialization:** The subsequent round must be initialized seamlessly using only this text-based summary and the latest JSON data.
+* **Duration:** This episodic state-reset loop will repeat for a total of 4 to 5 consecutive rounds.
+
+### 3. Objective
+To engineer a local, low-latency AI architecture bridging a Unity client and a local inference server. The system must successfully orchestrate continuous audio streams, multiplex distinct microphone channels using Voice Activity Detection (VAD), inject real-time JSON data into the inference context, and manage an episodic state-reset loop using parallel background summarization.
+
+---
+
 ## 1. Phase 1: Aktive Gesprächsrunde (Echtzeit Audio + JSON + Multi-User)
 Für die 5-minütigen aktiven Phasen wird ein multimodales End-to-End-Modell benötigt, das Text-Tokens (JSON-Daten, Sprecher-IDs) und Audio-Tokens (Nutzer-Sprache) im selben Kontextfenster latenzfrei verarbeiten kann.
 
